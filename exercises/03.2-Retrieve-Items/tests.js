@@ -17,7 +17,17 @@ it('console.log() function should have been called 2 times', function () {
     expect(console.log.mock.calls.length).toBe(2);
 });
 
-it('console.log() function should be called with Hello World', function () {
+it('Print the 1st item on the array (position 2)', function () {
     //You can also compare the entire console buffer (if there have been several console.log calls on the exercise)
-    expect(_buffer).toBe("tuesday\n");
+    expect(_buffer.includes("4\n")).toBe(true);
+});
+
+it('Print the 4th item of the array', function () {
+    //You can also compare the entire console buffer (if there have been several console.log calls on the exercise)
+    expect(_buffer.includes("43\n")).toBe(true);
+});
+
+it('Do not print anything else', function () {
+    //You can also compare the entire console buffer (if there have been several console.log calls on the exercise)
+    expect(_buffer).toBe("4\n43\n");
 });
