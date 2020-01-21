@@ -1,4 +1,4 @@
-# `04.2` Add Items to Array
+# `05.3` Add Items to Array
 
 Add 10 random integers to the "arr" list and print the array on the console.
 

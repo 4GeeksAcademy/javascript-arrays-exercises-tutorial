@@ -1,15 +1,10 @@
-Instructions
-1) Change the second item value to 'Steven'
-2) Set the last position to 'Pepe'
-3) Set the first element to the value of the 3rd element concatenated to the value of the 5th element.
-4) Reverse loop (from the end to the beginning) the whole array and print all the elements.
+# `06.51` One Last Looping
 
-HINT:
-Remember that arrays start at position 0.
+Without using the array.reverse function, please reverse loop (from the end to the beginning) the whole array and print all the items on the console as you go.
 
 The result should be something like this:
-```bash
-Pepe
+```md
+Annie
 Bart
 Cesco
 Fernando
@@ -18,6 +13,11 @@ Maria
 Pedro
 Lebron
 Ruth
-Steven
-RuthPedro
+Kiko
+Esmeralda
 ```
+
+## 💡Hint:
+
+1. Use a `for()` loop like we have been using in previous exercises.
+2. Remember that arrays start at position 0.
