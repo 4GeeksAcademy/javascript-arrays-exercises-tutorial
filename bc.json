@@ -24,14 +24,204 @@
             "path": "exercises/02-Hello-World"
         },
         {
-            "slug": "03-Access-and-retrieve",
-            "title": "03-Access-and-retrieve",
-            "path": "exercises/03-Access-and-retrieve"
+            "slug": "03.1-Access-and-retrieve",
+            "title": "03.1-Access-and-retrieve",
+            "path": "exercises/03.1-Access-and-retrieve"
         },
         {
-            "slug": "04-Retrieve-Items",
-            "title": "04-Retrieve-Items",
-            "path": "exercises/04-Retrieve-Items"
+            "slug": "03.2-Retrieve-Items",
+            "title": "03.2-Retrieve-Items",
+            "path": "exercises/03.2-Retrieve-Items"
+        },
+        {
+            "slug": "04.1-Print-the-last-one",
+            "title": "04.1-Print-the-last-one",
+            "path": "exercises/04.1-Print-the-last-one"
+        },
+        {
+            "slug": "04.2-Add-items-to-array",
+            "title": "04.2-Add-items-to-array",
+            "path": "exercises/04.2-Add-items-to-array"
+        },
+        {
+            "slug": "05-Loop-from-one-to-seventeen",
+            "title": "05-Loop-from-one-to-seventeen",
+            "path": "exercises/05-Loop-from-one-to-seventeen"
+        },
+        {
+            "slug": "06.1-Loop-Array",
+            "title": "06.1-Loop-Array",
+            "path": "exercises/06.1-Loop-Array"
+        },
+        {
+            "slug": "06.2-Loop-from-the-top",
+            "title": "06.2-Loop-from-the-top",
+            "path": "exercises/06.2-Loop-from-the-top"
+        },
+        {
+            "slug": "06.3-Loop-adding-two",
+            "title": "06.3-Loop-adding-two",
+            "path": "exercises/06.3-Loop-adding-two"
+        },
+        {
+            "slug": "06.4-Loop-from-the-half-to-the-end",
+            "title": "06.4-Loop-from-the-half-to-the-end",
+            "path": "exercises/06.4-Loop-from-the-half-to-the-end"
+        },
+        {
+            "slug": "06.5-One-last-looping",
+            "title": "06.5-One-last-looping",
+            "path": "exercises/06.5-One-last-looping"
+        },
+        {
+            "slug": "07.1-Finding-Wally",
+            "title": "07.1-Finding-Wally",
+            "path": "exercises/07.1-Finding-Wally"
+        },
+        {
+            "slug": "07.2-Letter-Counter",
+            "title": "07.2-Letter-Counter",
+            "path": "exercises/07.2-Letter-Counter"
+        },
+        {
+            "slug": "07.3-Flip-Array",
+            "title": "07.3-Flip-Array",
+            "path": "exercises/07.3-Flip-Array"
+        },
+        {
+            "slug": "08.1-Mixed-array",
+            "title": "08.1-Mixed-array",
+            "path": "exercises/08.1-Mixed-array"
+        },
+        {
+            "slug": "08.2-Count-On",
+            "title": "08.2-Count-On",
+            "path": "exercises/08.2-Count-On"
+        },
+        {
+            "slug": "08.3-Sum-all-items",
+            "title": "08.3-Sum-all-items",
+            "path": "exercises/08.3-Sum-all-items"
+        },
+        {
+            "slug": "09.1-forEach-loop",
+            "title": "09.1-forEach-loop",
+            "path": "exercises/09.1-forEach-loop"
+        },
+        {
+            "slug": "10.1-Everything-is-awesome",
+            "title": "10.1-Everything-is-awesome",
+            "path": "exercises/10.1-Everything-is-awesome"
+        },
+        {
+            "slug": "11-Do-while",
+            "title": "11-Do-while",
+            "path": "exercises/11-Do-while"
+        },
+        {
+            "slug": "12-Delete-element",
+            "title": "12-Delete-element",
+            "path": "exercises/12-Delete-element"
+        },
+        {
+            "slug": "13-Merge-arrays",
+            "title": "13-Merge-arrays",
+            "path": "exercises/13-Merge-arrays"
+        },
+        {
+            "slug": "14-Divide-and-Conquer",
+            "title": "14-Divide-and-Conquer",
+            "path": "exercises/14-Divide-and-Conquer"
+        },
+        {
+            "slug": "15-Max-integer-from-array",
+            "title": "15-Max-integer-from-array",
+            "path": "exercises/15-Max-integer-from-array"
+        },
+        {
+            "slug": "16-Foreach-min-val",
+            "title": "16-Foreach-min-val",
+            "path": "exercises/16-Foreach-min-val"
+        },
+        {
+            "slug": "17-The-for-loop",
+            "title": "17-The-for-loop",
+            "path": "exercises/17-The-for-loop"
+        },
+        {
+            "slug": "18-Nested-arrays",
+            "title": "18-Nested-arrays",
+            "path": "exercises/18-Nested-arrays"
+        },
+        {
+            "slug": "19-And-One-and-a-Two-and-a-Three",
+            "title": "19-And-One-and-a-Two-and-a-Three",
+            "path": "exercises/19-And-One-and-a-Two-and-a-Three"
+        },
+        {
+            "slug": "20.1-Map-an-array",
+            "title": "20.1-Map-an-array",
+            "path": "exercises/20.1-Map-an-array"
+        },
+        {
+            "slug": "20.2-More-mapping",
+            "title": "20.2-More-mapping",
+            "path": "exercises/20.2-More-mapping"
+        },
+        {
+            "slug": "20.3-Map-with-function-inside-variable",
+            "title": "20.3-Map-with-function-inside-variable",
+            "path": "exercises/20.3-Map-with-function-inside-variable"
+        },
+        {
+            "slug": "20.4-Map-data-types",
+            "title": "20.4-Map-data-types",
+            "path": "exercises/20.4-Map-data-types"
+        },
+        {
+            "slug": "20.5-Map-arrays-of-objects",
+            "title": "20.5-Map-arrays-of-objects",
+            "path": "exercises/20.5-Map-arrays-of-objects"
+        },
+        {
+            "slug": "20.6-Yes-and-no",
+            "title": "20.6-Yes-and-no",
+            "path": "exercises/20.6-Yes-and-no"
+        },
+        {
+            "slug": "21-Filter-an-array",
+            "title": "21-Filter-an-array",
+            "path": "exercises/21-Filter-an-array"
+        },
+        {
+            "slug": "21.2-Filter-done-tasks",
+            "title": "21.2-Filter-done-tasks",
+            "path": "exercises/21.2-Filter-done-tasks"
+        },
+        {
+            "slug": "21.3-Filter-list",
+            "title": "21.3-Filter-list",
+            "path": "exercises/21.3-Filter-list"
+        },
+        {
+            "slug": "22-Matrix-Builder",
+            "title": "22-Matrix-Builder",
+            "path": "exercises/22-Matrix-Builder"
+        },
+        {
+            "slug": "23-Parking-Lot",
+            "title": "23-Parking-Lot",
+            "path": "exercises/23-Parking-Lot"
+        },
+        {
+            "slug": "24-Making-a-ul",
+            "title": "24-Making-a-ul",
+            "path": "exercises/24-Making-a-ul"
+        },
+        {
+            "slug": "25-Techno-beat",
+            "title": "25-Techno-beat",
+            "path": "exercises/25-Techno-beat"
         }
     ]
 }

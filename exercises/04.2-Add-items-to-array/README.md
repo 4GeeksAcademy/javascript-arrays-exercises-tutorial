@@ -1,8 +1,10 @@
 # `04.2` Add Items to Array
 
-Add 10 random integers to the "arr" list.
+Add 10 random integers to the "arr" list and print the array on the console.
 
 ## 💡 Tips:
 
-1. You can use the Math.random() and Math.floor() functions to get random numbers.
-2, Search on Google how to use the random and floor functions in js.
+1. You can google "How to loop 10 times in javascript".
+2. Here is a [great result from google](https://stackoverflow.com/questions/45024991/run-a-loop-n-times)
+3. You can use the Math.random() and Math.floor() functions to get random numbers, you should do that inside the loop
+4. On each loop iteration you have to use the `.push(item)` function to add the new random number to the array
