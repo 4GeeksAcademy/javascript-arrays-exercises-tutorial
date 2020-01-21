@@ -1,4 +1,4 @@
-# `06.51` One Last Looping
+# `06.5` One Last Looping
 
 Without using the array.reverse function, please reverse loop (from the end to the beginning) the whole array and print all the items on the console as you go.
 
