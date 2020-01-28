@@ -38,5 +38,5 @@ it('The new array "hello" should only contain the "objects" in myArray', functio
     const hello = _app.__get__('hello');
     const elements = variable.filter(item => typeof(item) === "object");
 
-    expect(elements).toEqual(hello);
+    expect(hello).toEqual(elements);
 });
