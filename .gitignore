@@ -14,5 +14,5 @@
 /.breathecode/**
 !/.breathecode/resets
 !/.breathecode/resets/**
-!/.breathecode/media
-!/.breathecode/media/**
+!/.breathecode/assets
+!/.breathecode/assets/**
