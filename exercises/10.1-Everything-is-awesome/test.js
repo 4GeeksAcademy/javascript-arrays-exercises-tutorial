@@ -17,13 +17,18 @@ it("Use the forEach function", function () {
     expect(app_content).toMatch(/\.forEach\(/);
 });
 
-it('Print only the numbers divisible by 14', function () {
+it("We tried with a different array and the returning arrays don't match", function () {
     const _app = rewire('./app.js');
-    const myArray = _app.__get__('myArray');
-    let _output = "";
-    myArray.forEach(function(item, index, arr){
-        if(item % 14 === 0) _output += item + "\n";
+    const zerosToYahoos = _app.__get__('zerosToYahoos');
+
+    const _arr = [1,1,0,0,1,0,0,0];
+    let _output = [];
+    _arr.forEach(function(item, index, arr){
+        if(item === 0) _output.push("Yahoo");
+        else if(item === 1) _output.push("1");
     });
 
-    expect(_output).toEqual(_buffer);
+    const arr2 = zerosToYahoos(_arr);
+
+    expect(arr2.sort()).toEqual(_output.sort());
 });
