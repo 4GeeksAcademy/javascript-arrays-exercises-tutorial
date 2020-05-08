@@ -20,7 +20,7 @@ Dozens of looping exercises to sharpen your looping skills with for, forEach, ma
 
 <h2>One click installation:</h2>
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial.git)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial.git)
 
 
 ## Local Installation
