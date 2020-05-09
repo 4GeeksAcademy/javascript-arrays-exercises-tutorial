@@ -12,9 +12,6 @@ var myArray = [1, 2, 3, 4];
 myArray.map(incrementByOne); //returns [2, 3, 4, 5]
 ```
 
-More information about mapping:    
-Mapping Arrays (3:44) 
-Understanding The Javascript Map 
 
 # 📝Instructions:
 
