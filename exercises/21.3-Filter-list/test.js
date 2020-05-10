@@ -8,10 +8,10 @@ global.console.log = console.log = jest.fn((text) => _buffer += text + "\n");
 
 const app_content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
 
-test("You should create the variable filterByName.", function(){
+test("You should create a function named filterByName", function(){
   const file = rewire("./app.js");
-  const myVar = file.__get__('filterByName');
-  expect(myVar).toBeTruthy();
+  const myFunc = file.__get__('filterByName');
+  expect(myFunc).toBeTruthy();
 });
 
 test('You have to use the console.log function to print the correct output.', function () {
