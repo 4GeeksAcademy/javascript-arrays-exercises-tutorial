@@ -1,8 +1,9 @@
-Techno Beats
-You are working with a DJ and he needs a program that can create a beats for his songs.
+# `25` Techno Beats
 
-Instructions:
-Create a function lyricsGenerator that receives an array
+You are working with a DJ and he needs a program that can create a beats for his song.
+
+# 📝Instructions:
+Create a function `lyricsGenerator` that receives an array
 The array passed to the function will be something like this:
 ```js
 [0,0,1,1,0,0,0] 
@@ -10,7 +11,7 @@ The array passed to the function will be something like this:
 For each Zero you will add to the string 'Boom'
 For each One you will add to the string 'Drop the base'
 
-Constraints
+## Constraints
 If you find the number One (1) three times in a row, should ALSO ADD to the string "!!!Break the base!!!" 
 
 Expected Function Output:
@@ -24,5 +25,5 @@ Drop the base Boom Drop the base
 Drop the base Drop the base Drop the base !!!Break the base!!!
 ```
 
-Hints
+💡Hints
 Remember to use helper variables
