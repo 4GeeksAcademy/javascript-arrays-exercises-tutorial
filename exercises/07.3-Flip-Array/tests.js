@@ -21,7 +21,7 @@ it("Use the typeof function inside the loop", function () {
 
 it('There needs to be a variable called arr with the original array', function () {
     const _app = rewire('./app.js');
-    const variable = _app.__get__('mix');
+    const variable = _app.__get__('arr');
     expect(variable).toBeTruthy();
 });
 
