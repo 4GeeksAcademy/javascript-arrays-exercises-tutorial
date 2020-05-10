@@ -21,16 +21,23 @@ it("Don't use the revese function", function () {
 
 it('There needs to be a variable called arr with the original array', function () {
     const _app = rewire('./app.js');
-    const variable = _app.__get__('arr');
+    const variable = _app.__get__('mix');
     expect(variable).toBeTruthy();
 });
 
 it('Loop the array in a reverse order and console.log all of its item', function () {
     const _app = rewire('./app.js');
-    const variable = _app.__get__('arr');
-    let inverted = [];
-    for(let i = variable.length-1; i>=0;i--){
-        inverted.push(variable[i]);
+    
+    var _mix = [42, true, "towel", [2,1], 'hello', 34.4, {"name": "juan"}];
+    function myFunc(){
+      let newArray = []
+      for (let i=0; i < _mix.length; i++){
+        newArray.push(typeof _mix[i])
+
+      }
+      return newArray
     }
-    expect(_buffer).toMatch(inverted.map(n => n).join(","));
+    let _test = myFunc()
+    expect(_buffer).toMatch(_test.map(n => n).join(","));
+    // expect(_buffer).toMatch(inverted.map(n => n).join(","));
 });
