@@ -1,13 +1,17 @@
-Instructions:
+# `21.3` Filter Array of Strings
 
-Given an array names please create a function filters the list with only the names that contain the given string.
+# 📝Instructions:
 
-1. Create a function called filteringList that take two values one is the array and second one is the filter desire.
+Given an array names please create a function filters the list with 
+only the names that contain the given string.
 
-2. The search should NOT be Case Sensitive.
+- Create a function called `filterByName` that take two values one is 
+the array and second one is the filter desire.
+
+- The search should NOT be Case Sensitive.
 
 
-Hints:
+## 💡Hint
 
 ```js
  // Use any of the built in methods

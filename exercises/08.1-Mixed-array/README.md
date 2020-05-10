@@ -4,13 +4,12 @@ Write a function to programmatically print in the console the types of the value
 
 The console must have something like this:
 ```md
-number
-boolean
-string
-object
-string
-number
-object
+[
+  'number', 'boolean',
+  'string', 'object',
+  'string', 'number',
+  'object'
+]
 ```
 
 ## :bulb: Hint 
