@@ -1,5 +1,6 @@
 const rewire = require("rewire");
-
+const fs = require("fs");
+const path = require("path");
 let _log = console.log;
 let _buffer = '';
 global.console.log = console.log = jest.fn((text) => _buffer += text + "\n");
@@ -15,7 +16,9 @@ it('Call the console.log function as many times as items in the array', function
 });
 
 it('Do not use the reverse function', function () {
-    expect(Array.prototype.reverse.mock.calls.length).toBe(0);
+    // expect(Array.prototype.reverse.mock.calls.length).toBe(0);
+    const appContent = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
+    expect(appContent.includes('.reverse(')).toBe(false);
 });
 
 it('Loop the array in a reverse order and console.log all of its item', function () {
