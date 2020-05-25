@@ -15,12 +15,12 @@ it('You have to use the console.log function inside the loop', function () {
 
 it('Use a for loop', function () {
     const app_content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
-    expect(app_content).toMatch(/for\(/);
+    expect(app_content).toMatch(/for(\s*)\(/);
 });
 
 it('Use the toLowerCase function', function () {
     const app_content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
-    expect(app_content).toMatch(/\.toLowerCase\(/);
+    expect(app_content).toMatch(/\.toLowerCase(\s*)\(/);
 });
 
 it('Loop and add a conditional to print the position (i) where wally was fund', function () {

@@ -14,7 +14,7 @@ it("Use the console.log function to print the numbers", function () {
 });
 
 it("Use the forEach function", function () {
-    expect(app_content).toMatch(/\.forEach\(/);
+    expect(app_content).toMatch(/\.forEach(\s*)\(/);
 });
 
 it('Print only the numbers divisible by 14', function () {

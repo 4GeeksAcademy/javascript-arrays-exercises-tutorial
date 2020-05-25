@@ -14,11 +14,11 @@ it("You don't have to console.log anything, instead, you have to use the return 
 });
 
 it("Use a for loop", function () {
-    expect(app_content).toMatch(/for\(/);
+    expect(app_content).toMatch(/for(\s*)\(/);
 });
 
 it("Do not cheat using the function .forEach", function () {
-    expect(app_content).not.toMatch(/\.forEach\(/);
+    expect(app_content).not.toMatch(/\.forEach(\s*)\(/);
 });
 
 it('Testing for [2,13,34,5] should return 54', function () {

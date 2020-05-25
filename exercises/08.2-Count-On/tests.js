@@ -14,15 +14,15 @@ it('Use the console.log function once to print the variable hello', function () 
 });
 
 it("Use a for loop", function () {
-    expect(app_content).toMatch(/for\(/);
+    expect(app_content).toMatch(/for(\s*)\(/);
 });
 
 it("Use a condition 'if' statement only for items of type object", function () {
-    expect(app_content).toMatch(/if\(/);
+    expect(app_content).toMatch(/if(\s*)\(/);
 });
 
 it("Do not cheat using the function filter", function () {
-    expect(app_content).not.toMatch(/\.filter\(/);
+    expect(app_content).not.toMatch(/\.filter(\s*)\(/);
 });
 
 // it('The new array "hello" should only contain the object in myArray', function () {
