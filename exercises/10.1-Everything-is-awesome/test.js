@@ -19,13 +19,13 @@ it("Use the forEach function", function () {
 
 it("We tried with a different array and the returning arrays don't match", function () {
     const _app = rewire('./app.js');
-    const zerosToYahoos = _app.__get__('zerosToYahoos');
+    const zerosToYahoos = _app.__get__('ZerosToYahoos');
 
     const _arr = [1,1,0,0,1,0,0,0];
     let _output = [];
     _arr.forEach(function(item, index, arr){
         if(item === 0) _output.push("Yahoo");
-        else if(item === 1) _output.push("1");
+        else if(item === 1) _output.push(item);
     });
 
     const arr2 = zerosToYahoos(_arr);
