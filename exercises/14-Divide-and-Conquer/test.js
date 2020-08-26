@@ -13,31 +13,36 @@ test("Function mergeTwoList should exist", function(){
   const mergeTwoList = _app.__get__('mergeTwoList');
   expect(mergeTwoList).toBeTruthy();
 });
-// test("Function mergeTwoList should return something", function(){
-//   const _app = rewire('./app.js');
-//   const mergeTwoList = _app.__get__('mergeTwoList');
-//   expect(mergeTwoList()).toBeTruthy();
-// });
 
+test("Function mergeTwoList must return an array", function(){
+  const _app = rewire('./app.js');
+  const mergeTwoList = _app.__get__('mergeTwoList');
+  expect(Array.isArray(mergeTwoList([3,4]))).toBe(true);
+});
 
-it('The output in the console should match the one in the instructions!', function () {
+it('The returned array must contain inside all the odd items first', function () {
     const _app = rewire('./app.js');
     const mergeTwoList = _app.__get__('mergeTwoList');
 
-    let _list_of_numbers = [4,	80,	85,	59,	37,25,	5,	64,	66,	81,20,	64,	41,	22,	76,76,	55,	96,	2,	68];  
-    let _odd = [];
-    let _even = [];
-    let _newList = [];
-    for (let i = 0; i < _list_of_numbers.length; i++){
-      if(_list_of_numbers[i] % 2 == 0){
-        _even.push(_list_of_numbers[i])
-      }
-      else{
-        _odd.push(_list_of_numbers[i])
-      }
-    }
-    _newList.push(_odd)
-    _newList.push(_even)
-      const arrTest = mergeTwoList(_list_of_numbers);
-      expect(arrTest).toEqual(_newList);
-  });
+    const _input = [ 23,34,65,23,45,87,45,89,34,2,5,8 ];
+    const _odds = [23,65,23,45,87,45,89,5]
+    const arrTest = mergeTwoList(_input);
+    _odds.forEach((num,i) => expect(num).toEqual(arrTest[i]))
+});
+it('The returned array must contain inside all the even items at the end', function () {
+    const _app = rewire('./app.js');
+    const mergeTwoList = _app.__get__('mergeTwoList');
+
+    const _input = [ 23,34,65,23,45,87,45,89,34,2,5,8 ];
+    const _evens = [34,34,2,8]
+    const arrTest = mergeTwoList(_input);
+    _evens.forEach((num,i) => expect(num).toEqual(arrTest[i+8]))
+});
+it('The length of the returned array should be equal to the length of the original array', function () {
+    const _app = rewire('./app.js');
+    const mergeTwoList = _app.__get__('mergeTwoList');
+
+    const _input = [ 23,34,65,87,45,89,34,2,5,8 ];
+    const arrTest = mergeTwoList(_input);
+    expect(arrTest.length).toEqual(_input.length);
+});
