@@ -8,20 +8,31 @@ global.console.log = console.log = jest.fn((text) => _buffer += text + "\n");
 let reverse = Array.prototype.reverse;
 Array.prototype.reverse = jest.fn(function(){ return this; });
 
-it('Call the console.log function as many times as items in the array', function () {
+test("You must use a for loop", function(){
+    const content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
+    expect(/for\s*\(/.test(content)).toBe(true)
+})
+
+test("Remember that your for loop must start by declaring a variable let or var", function(){
+    const content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
+    expect(/for\s*\(\s*(let|var)\s*/.test(content)).toBe(true)
+})
+
+test('Call the console.log function as many times as items in the array', function () {
     const app = require('./app.js');
     const _app = rewire('./app.js');
     const variable = _app.__get__('mySampleArray');
     expect(console.log.mock.calls.length).toBe(variable.length);
 });
 
-it('Do not use the reverse function', function () {
+
+test('Do not use the reverse function', function () {
     // expect(Array.prototype.reverse.mock.calls.length).toBe(0);
     const appContent = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
     expect(appContent.includes('.reverse(')).toBe(false);
 });
 
-it('Loop the array in a reverse order and console.log all of its item', function () {
+test('Loop the array in a reverse order and console.log all of its item', function () {
     const _app = rewire('./app.js');
     const variable = _app.__get__('mySampleArray');
     let inverted = [];
