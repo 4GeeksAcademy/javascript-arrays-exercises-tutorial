@@ -1,3 +1,8 @@
+---
+intro: https://www.youtube.com/watch?v=ooHdelGf0gI
+---
+
+
 # Welcome to Loops
 
 Practice loops in javascript until you become confortable with it, I recomend watching [this short video about loops](https://www.youtube.com/watch?v=U3ZlQSOcOI0) before starting:
