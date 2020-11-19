@@ -1,5 +1,6 @@
 # `07.1` Find Waldo :smile:
 
+![Finding Waldo](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial/blob/5c8f7b7dbb094e0552565227fc24faad6dc05a13/.breathecode/assets/finding_waldo.jpeg?raw=true)
 Have you every played finding Waldo? I used to play it a lot when I was little, this exercise is a digital version of finding Waldo.
 
 # :pencil: Instructions
