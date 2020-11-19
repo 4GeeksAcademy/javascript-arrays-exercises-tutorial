@@ -2,9 +2,25 @@
 
 El loop (bucle) actual se repite de cero a diez, por favor, haga un loop de 1 a 17.
 
-Resultado esperado de la consola:
-
-![Expect console result](https://ucarecdn.com/a4160b2a-3265-4c25-8a00-95406ab8c444/1551487703251_476381238e5892248e9417fc4a069931.pn)
+```bash
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+```
 
 ## 💡Pista:
 

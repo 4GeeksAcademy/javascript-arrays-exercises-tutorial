@@ -6,9 +6,22 @@ Este ciclo está haciendo un bucle del arreglo de principio a fin ... aumentando
 
 Vamos a intentar hacer un bucle desde el final hasta el principio.
 
-En consola debería salir algo como esto:
-
-![Loop from the top](https://ucarecdn.com/9b0692c7-18da-4b8e-943c-667548406725/ugP1QA4.png)
+```bash
+12
+25
+23
+55
+56432
+48
+23
+867543
+8
+654
+47889
+4
+5
+3423
+```
 
 ## 💡Pista
 

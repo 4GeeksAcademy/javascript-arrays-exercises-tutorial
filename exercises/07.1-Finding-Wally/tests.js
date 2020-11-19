@@ -23,9 +23,9 @@ it('Use the toLowerCase function', function () {
     expect(app_content).toMatch(/\.toLowerCase(\s*)\(/);
 });
 
-it('Loop and add a conditional to print the position (i) where wally was fund', function () {
+it('Loop and add a conditional to print the position (i) where Waldo was fund', function () {
     const _app = rewire('./app.js');
     const people = _app.__get__('people');
-    const position = people.indexOf("Wally");
+    const position = people.indexOf("Waldo");
     expect(_buffer.includes(position+"\n")).toBe(true);
 });

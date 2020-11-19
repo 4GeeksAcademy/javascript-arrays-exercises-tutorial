@@ -1,4 +1,4 @@
-# `03.1` Access and Retrive
+# `03.1` Access and Retrieve
 
 Arrays are part of every programming language. They are the way to go when you want to have a "list of elements."
 
