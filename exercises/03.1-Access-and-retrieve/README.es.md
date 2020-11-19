@@ -11,7 +11,7 @@ Cada arreglo tiene las siguientes partes:
 - Length (Longitud): es el tamaño del arreglo, el número de elementos.
 - Index (indice): es la posición de un elemento.
 
-![Como funciona un arreglo](https://ucarecdn.com/a2c7ae7f-2d52-4061-963d-0a9371d51b39/DbmSOHT.png)
+![Como funciona un arreglo](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial/blob/5e6a9b1276ed2b7de1b9bb0240105983c170611c/.learn/assets/DbmSOHT.png?raw=true)
 
 Para acceder a cualquier elemento en particular dentro del arreglo, necesitas conocer su índice (posición). El índice es un valor entero que representa la posición en la que se encuentra el elemento. Acotación: ¡Cada arreglo comienza desde cero (0)!
 

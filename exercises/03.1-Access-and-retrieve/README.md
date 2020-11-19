@@ -11,7 +11,7 @@ Every array has the following parts:
 - Length: is the size of the array, the number of items.
 - Index: is the position of an element.
 
-![How arrays work](https://ucarecdn.com/a2c7ae7f-2d52-4061-963d-0a9371d51b39/DbmSOHT.png)
+![How arrays work](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial/blob/5e6a9b1276ed2b7de1b9bb0240105983c170611c/.learn/assets/DbmSOHT.png?raw=true)
 
 To access any particular item within the array you need to know its index (position). The index is an integer value that represents the position in which the element is located. Protip: Every array starts from cero (0)!
 
