@@ -1,3 +1,7 @@
+---
+tutorial: https://www.youtube.com/watch?v=miBzmGgMIbU
+---
+
 # `02` Hello World
 
 In JavaScript, we use `console.log` to make the computer write anything we want (the content of a variable, a given string, etc.) in something called `the console`.
