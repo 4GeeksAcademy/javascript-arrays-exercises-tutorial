@@ -1,3 +1,7 @@
+---
+tutorial: https://www.youtube.com/watch?v=3o02odJhieo
+---
+
 # `08.01` Mixed Array
 
 Write a function to programmatically print in the console the types of the values that the list contains in each position.

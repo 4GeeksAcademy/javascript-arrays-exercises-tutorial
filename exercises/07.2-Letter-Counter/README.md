@@ -1,3 +1,7 @@
+---
+tutorial: https://www.youtube.com/watch?v=PLCVs_S8Skwp9x
+---
+
 # `07.2` Letter Counter
 
 Our customer needs a program that counts the letters repetitions in a given string, I know that's weird, but they are very adamant, We need this asap! 

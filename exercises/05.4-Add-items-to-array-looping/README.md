@@ -1,4 +1,8 @@
-# `05.3` Loop and add items to Array
+---
+tutorial: https://www.youtube.com/watch?v=QLnkSPNTgNo
+---
+
+# `05.4` Loop and add items to Array thru looping
 
 Add 10 random integers to the "arr" list and print the array on the console.
 

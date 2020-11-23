@@ -1,3 +1,7 @@
+---
+tutorial: https://www.youtube.com/watch?v=Dd2uXOwhTzY
+---
+
 # `06.1` Loop an array
 
 Ok this is the first time you will be looping an array from scratch, please take 6 minutes to watch these video on [how to loop an array](https://www.youtube.com/watch?v=24Wpg6njlYI).

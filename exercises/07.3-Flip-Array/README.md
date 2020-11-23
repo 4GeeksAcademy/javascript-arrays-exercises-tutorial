@@ -1,3 +1,7 @@
+---
+tutorial: https://www.youtube.com/watch?v=Snn7OtZY370
+---
+
 # `07.3` Flip Array
 
 Using a for loop, invert the "arr" array and print the new array it on the console. 
