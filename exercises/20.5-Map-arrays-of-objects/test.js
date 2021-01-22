@@ -20,7 +20,7 @@ test("You shouldn't delete the function named simplifier", function(){
 });
 
 
-test('The output in the console should should look similar but not exactly to the one in the instructions!', function () {
+test('The output in the console should should look similar but not exactly (years may vary) to the one in the instructions!', function () {
     const _app = rewire('./app.js');
     let _output = []
     let _people = [
