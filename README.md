@@ -18,6 +18,8 @@ Dozens of looping exercises to sharpen your looping skills with for, forEach, ma
 2. [Looping with Javascript](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial) ← your are here now 🔥
 3. [Javascript Functions](https://github.com/4GeeksAcademy/javascript-functions-exercises-tutorial)
 
+We need you! These exercises are built and maintained in collaboration with contributors such as yourself. If you find any bugs or misspellings please contribute and/or report them.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/4GeeksAcademy/react-exercises/master/preview.gif">
 </p>
