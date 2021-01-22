@@ -38,7 +38,7 @@ test('The output in the console should should look similar but not exactly to th
         if (m < 0 || (m === 0 && _today.getDate() < person.birthDate.getDate())) {
             age = age - 1;
         }
-      return ("Hello, my name is " + person.name + " and I am " + age)
+      return ("Hello, my name is " + person.name + " and I am " + age + " years old")
     };
     
     let _test = _people.map(_simplifier)
