@@ -1,3 +1,8 @@
+---
+
+tutorial: https://www.youtube.com/watch?v=oLTidCuisew
+
+---
 
 # `07.2` Letter Counter
 
