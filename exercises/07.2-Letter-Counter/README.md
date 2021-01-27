@@ -1,6 +1,3 @@
----
-tutorial: https://www.youtube.com/watch?v=PLCVs_S8Skwp9x
----
 
 # `07.2` Letter Counter
 
