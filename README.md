@@ -1,6 +1,6 @@
 # Looping in Javascript Tutorial & Exercises
 
-<a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial/blob/master/.breathecode/assets/badge.png?raw=true"></a>
+<a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://raw.githubusercontent.com/4GeeksAcademy/Interactive-Tutorials/006d393c5ec5e1acb65852535ac205b8c3668219/badge-loop.png"></a>
 
 > By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
