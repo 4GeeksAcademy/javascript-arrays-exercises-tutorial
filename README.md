@@ -1,16 +1,13 @@
-<table>
-  <tr>
-    <td><img src="https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,32"></td>
-    <td>
-      <h1 align="center"> Looping in Javascript Tutorial & Exercises</h1>
-      <img src="https://img.shields.io/github/last-commit/4geeksacademy/javascript-arrays-exercises-tutorial" />
-      <a href="https://breatheco.de"><img src="https://img.shields.io/badge/certified-BreatheCode-blue" /></a>
-      <a href="https://twitter.com/4geeksacademy"><img src="https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter" alt="follow on twitter"></a>
-      <a href="https://twitter.com/alesanchezr"><img src="https://img.shields.io/twitter/follow/alesanchezr?style=social&logo=twitter" alt="follow on Twitter"></a>
-            <a href="https://gitpod.io#https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial.git"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod" /></a>
-    </td>
-  </tr>
-</table>
+# Looping in Javascript Tutorial & Exercises
+
+<a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial/blob/master/badge-loop.png"></a>
+
+> By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
+
+![last commit](https://img.shields.io/github/last-commit/4geeksacademy/javascript-arrays-exercises-tutorial)
+[![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://breatheco.de)
+[![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
+
 
 Dozens of looping exercises to sharpen your looping skills with for, forEach, map, filter, looping a dictionary, looping bidimentional arrays, adding conditions to loops, finding an element, and more!
 
@@ -31,19 +28,30 @@ We need you! These exercises are built and maintained in collaboration with cont
 
 ## Local Installation
 
-1) Make sure you have the [breathecode-cli](https://github.com/breatheco-de/breathecode-cli) installed and `node.js` version 10+ and python version 3+. This is the command to install the breathecode-cli
+1. Install learnpack, the package manager for learning tutorials and the html compiler plugin for learnpack, make sure you also have node.js 12+:
+
 ```
-$ npm i breathecode-cli -g
+$ npm i learnpack -g
+$ learnpack plugins:install learnpack-python
 ```
 
-2) Clone or download this repository. Once you finish downloading, you will find a new folder with a subdirectory "exercises" that contains all the exercises within.
+2. Download this particular exercise using learnpack and `cd` into the folder:
 
-3) Start the tutorial/exercises by running the following command from the root of the project:
+```
+$ learnpack download python-beginner-programming-exercises
+$ cd python-beginner-programming-exercises
+```
+
+Note: Once you finish downloading, you will find a "exercises" folder that contains all the exercises within.
+
+3. Start the tutorial/exercises by running the following command at the same level were your bc.json file is:
 
 ```sh
-$ npm i jest@24.8.0
-$ breathecode run
+$ npm i jest@24.8.0 -g
+$ learnpack start
 ```
+
+Note: The exercises have automatic grading but its very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated.
 
 ## How are the exercises organized?
 
