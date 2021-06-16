@@ -26,7 +26,7 @@ test('The output in the console should match the one in the instructions!', func
 
     //declare your function here
     function _filterByName(theArray, theString){
-      let filteredArray = theArray.filter(item => item.includes(theString))
+      let filteredArray = theArray.filter(item => item.toLowerCase().includes(theString.toLowerCase()))
       return filteredArray
     }
 
