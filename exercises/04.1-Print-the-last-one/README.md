@@ -6,7 +6,7 @@ tutorial: https://www.youtube.com/watch?v=d-CnlwX6x1A
 
 You will never know how many items `myStupidArray` has because it is being randomly generated during runtime using the `generateRandomArray` function.
 
-But don't worry! The property `myStupidArray.length` returns the length of myArray (try console logging it and you will see the length displayed ont he console).
+But don't worry! The property `myStupidArray.length` returns the length of myArray (try console logging it and you will see the length displayed on the console).
 
 ```js
 var totalItems = myStupidArray.length;
