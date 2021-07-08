@@ -36,7 +36,7 @@ test('The output in the console should match the one in the instructions!', func
             }
           }
         }
-      return string
+      return string.trim()
     }
 
 
