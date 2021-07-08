@@ -11,9 +11,9 @@ This number represents the amount of rows and columns for the matrix. Example:
 This function should return an array of arrays that represents the matrix. Example: 3 should return:
 ```md
 [
-  [1, 1, 1],
-  [1, 1, 1],
-  [1, 1, 1]
+  [0, 1, 1],
+  [1, 0, 1],
+  [0, 0, 0]
 ]
 ```
 
