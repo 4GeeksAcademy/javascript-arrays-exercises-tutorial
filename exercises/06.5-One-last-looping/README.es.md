@@ -1,8 +1,12 @@
-# `06.5` One Last Looping
+# `06.5` Un último loop
 
-Sin usar la función array.reverse, invierte el bucle (desde el final hasta el principio) todo el arreglo e imprime todos los elementos en la consola a medida que avanza.
 
-El resultado deberia ser algo como esto:
+## 📝 Instrucciones:
+
+1. Sin usar la función `array.reverse`, invierte el bucle (desde el final hasta el principio) todo el arreglo o array e imprime todos los elementos en la consola a medida que lo recorre.
+
+### Resultado esperado:
+
 ```md
 Annie
 Bart
@@ -17,7 +21,8 @@ Kiko
 Esmeralda
 ```
 
-## 💡Pista:
+## 💡 Pista:
 
-1. Use un bucle `for ()` como hemos estado usando en ejercicios anteriores.
-2. Recuerde que los arreglos comienzan en la posición 0.
++ Use un bucle `for ()` como hemos lo hemos hecho en ejercicios anteriores.
+
++ Recuerda que los arreglos comienzan en la posición 0.

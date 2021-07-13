@@ -1,12 +1,12 @@
-# `06.3`  Loop adding two
+# `06.3`  Loop de dos en dos
 
 Este código está reproduciendo todo el conjunto, uno por uno, e imprime los elementos en la consola.
 
-# 📝 Instrucciones
+## 📝 Instrucciones:
 
-Cambie el bucle para que se repita de dos en dos en lugar de uno por uno.
+1. Cambie el bucle para que se repita de dos en dos en lugar de uno por uno.
 
-La salida de la consola debería ser algo como:
+## Resultado esperado:
 
 ```md
 3423

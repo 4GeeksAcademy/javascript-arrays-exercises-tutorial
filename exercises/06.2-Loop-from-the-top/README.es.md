@@ -1,10 +1,12 @@
 # `06.2` Loop from the top
 
-Este ciclo está haciendo un bucle del arreglo de principio a fin ... aumentando uno por uno.
+Este loop o bucle está haciendo un bucle del arreglo o array de principio a fin ... aumentando uno por uno.
 
-# 📝 Instrucciones
+## 📝 Instrucciones:
 
-Vamos a intentar hacer un bucle desde el final hasta el principio.
+1. Intenta hacer un bucle desde el final hasta el principio.
+
+## Resultado esperado:
 
 ```bash
 12

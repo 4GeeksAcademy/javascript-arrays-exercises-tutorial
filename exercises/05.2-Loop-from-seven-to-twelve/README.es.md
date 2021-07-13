@@ -1,6 +1,10 @@
-# `05.2` Loop from seven to twelve
+# `05.2` Loop del siete al doce
 
-Cuenta del 7 al 12 con un loop e imprima cada número en la consola.
+## 📝 Instrucciones: 
+
+1. Cuenta del 7 al 12 con un loop e imprime cada número en la consola.
+
+## Resultado esperado:
 
 ```bash
 7

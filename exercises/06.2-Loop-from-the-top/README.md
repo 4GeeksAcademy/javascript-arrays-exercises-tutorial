@@ -6,9 +6,11 @@ tutorial: https://www.youtube.com/watch?v=IX2m3SWq7tg
 
 This loop is looping the array from beginning to end... increasing one by one.
 
-# 📝 Instructions
+## 📝 Instructions:
 
-Lets try looping from the end to the beginning.
+1. Try looping from the end to the beginning.
+
+## Expected result:
 
 ```bash
 12

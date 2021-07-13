@@ -1,13 +1,12 @@
 # `08.2` Count On
+  
+Como viste en el último ejercicio, tu arreglo o array puede tener una mezcla de tipos de datos.
 
-Como viste en el último ejercicio, tu arreglo puede tener una mezcla de tipos de datos.
+## :pencil: Instrucciones
 
-# :pencil: Instrucciones
+1. Agrega todos los elementos con tipo de dato objeto dentro del array `hello`.
 
-Agrega todos los elementos con tipo de dato objeto dentro del arreglo hello?
-Add all the items with data-type object into the hello array?
-
-Aquí se explica cómo imprimir TODOS los artículos.
+Aquí puedes ver cómo imprimir TODOS los elementos.
 
 ```js
 let myArray = [42, true, "towel", [2,1], 'hello', 34.4, {"name": "juan"}];
@@ -20,7 +19,10 @@ for(let index = 0; index < myArray.length; index++){
 
 ## :bulb: Pista
 
-1. Recorre el arreglo dado.
-2. Agregue una condición dentro del bucle que verifique que el elemento sea un objeto.
-4. Si el elemento es un objeto, se agrega al arreglo `hello`.
-3. Registrar la variable hello en la consola.
++ Recorre el array dado con un loop.
+
++ Agrega una condición dentro del bucle(loop) que verifique que el elemento sea un objeto.
+
++ Si el elemento es un objeto, se agrega al arreglo `hello`.
+
++ Usa `console.log()`para imprimir el array `hello` en la consola.
