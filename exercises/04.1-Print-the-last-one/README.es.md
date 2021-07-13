@@ -2,13 +2,14 @@
 
 Nunca sabrás cuántos elementos tiene `myStupidArray` porque se genera aleatoriamente durante el tiempo de ejecución utilizando la función `generateRandomArray`.
 
-Pero no te preocupes! La propiedad `myStupidArray.length` devuelve la longitud de myArray (intente iniciar sesión en la consola y verá la longitud que se muestra en la consola).
+¡Pero no te preocupes! La propiedad `myStupidArray.length` devuelve la longitud de `myArray` (intenta hacer un `console.log` y verás la longitud que se muestra en la consola).
 
 ```js
 var totalItems = myStupidArray.length;
 ```
 
-# 📝 Instrucciones
+## 📝 Instrucciones:
 
-1. Cree una variable llamada theLastOne y asígnele el último elemento de myStupidArray.
-2. Luego, imprímalo en la consola.
+1. Crea una variable llamada `theLastOne` y asígnale el último elemento de `myStupidArray`.
+
+2. Luego, imprímelo en la consola.

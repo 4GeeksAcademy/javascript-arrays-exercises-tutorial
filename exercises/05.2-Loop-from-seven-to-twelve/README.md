@@ -4,7 +4,11 @@ tutorial: https://www.youtube.com/watch?v=6eLXV_IL2m0
 
 # `05.2` Loop from seven to twelve
 
-Count from 7 to 12 with a loop and print each number on the console.
+## 📝 Instructions:
+
+1. Count from 7 to 12 with a loop and print each number on the console.
+
+## Expected result:
 
 ```bash
 7
