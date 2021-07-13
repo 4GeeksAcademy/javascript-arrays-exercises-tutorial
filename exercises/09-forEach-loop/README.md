@@ -6,19 +6,21 @@ It is possible to loop an array using the `array.forEach` function. You have to 
 
 ```js
 /**
- * item: will be the value of the specific item.
- * index: will be the item index.
- * arr: will be the 
+ * item: valor del elemento específico (requerido).
+ * index: índice del elemento (opcional).
+ * arr: objeto array al cual pertenece el elemento (opcional).
 */
 myArray.forEach(function(item, index, arr){
 		
 });
 ```
 
-# :pencil: Instructions
+## :pencil: Instructions:
 
-Right now, the code is printing all the items in the array. Please change the function code to print only the numbers divisible by 14.
+Right now, the code is printing all the items in the array:
 
-## :bulb: HINT
+1. Please change the function code to print only the numbers divisible by 14.
+
+## :bulb: Hint:
 
 A number X is divisible by 2 if: (X%2===0)
