@@ -1,18 +1,21 @@
+# `18` Arrays/arreglos anidados
+
 Es posible encontrar un arreglo compuesto por otros arreglos (se llama arreglo o arreglo de dos dimensiones).
 
-En este ejemplo, tenemos una serie de coordenadas a las que puedes acceder haciendo lo siguiente:
+En este ejemplo, tenemos una array o arreglo  de coordenadas a las que puedes acceder haciendo lo siguiente:
 
 ```js
-//The first coordinate latitude
+//a la primera coordenada latitud
 var latitude = coordinatesArray[0][0];
-//The first coordinate longitude
+//a la primera coordenada longitud
 var longitude = coordinatesArray[0][1];
 ```
 
-Instrucciones:
-Recorre el arreglo imprimiendo solo las longitudes.
+## 📝 Instructions:
 
-El resultado debería ser algo como esto:
+1. Recorre el arreglo(con un bucle) imprimiendo solo las longitudes.
+
+### Expected result:
 
 ```md
 -112.633853

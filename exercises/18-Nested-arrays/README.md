@@ -11,10 +11,12 @@ var latitude = coordinatesArray[0][0];
 var longitude = coordinatesArray[0][1];
 ```
 
-# 📝Instructions:
-Loop through the array printing only the longitudes.
+## 📝 Instrucciones:
 
-The result should be something like this:
+1. Loop through the array printing only the longitudes.
+
+
+### Resultado esperado:
 
 ```md
 -112.633853
