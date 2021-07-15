@@ -16,8 +16,9 @@ parking_state = [
   [1,0,1,1,0,1],
 ]
 ```
-# 📝Instructions
-- Create a function `getParkingLotState()` that returns an object with `totalSlots`, `availableSlots` and `occupiedSlots` like the following:
+## 📝 Instructions:
+
+1. Create a function `getParkingLotState()` that returns an object with `totalSlots`, `availableSlots` and `occupiedSlots` like the following:
 
 ```js
 const state = {
@@ -26,5 +27,6 @@ const state = {
      occupiedSlots: 9
 }
 ```
-## 💡Hints
-You have to do a nested loop
+## 💡 Hint:
+
++ You have to do a nested loop
