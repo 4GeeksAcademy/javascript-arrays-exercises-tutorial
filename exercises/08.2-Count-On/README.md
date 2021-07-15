@@ -2,9 +2,9 @@
 
 As you saw in the last exercise your array can be a mix types of data.
 
-# :pencil: Instructions
+## :pencil: Instrucciones:
 
-Add all the items with data-type object into the hello array?
+1. Add all the items with data-type object into the `hello` array.
 
 Here is how to print ALL the items.
 
@@ -17,9 +17,12 @@ for(let index = 0; index < myArray.length; index++){
 }
 ```
 
-## :bulb: Hint
+## :bulb: Hint:
 
-1. Loop the given array
-2. Add a condition inside the loop that checks for the item to be an object.
-4. If the item is an object, added to the `hello` array.
-3. Console log the variable hello
++ Loop the given array.
+
++ Add a condition inside the loop that checks for the item to be an object.
+
++ If the item is an object, added to the `hello` array.
+
++ Console log the array `hello`.

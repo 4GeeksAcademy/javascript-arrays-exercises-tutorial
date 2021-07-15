@@ -36,7 +36,7 @@ test('The output in the console should match the one in the instructions!', func
             }
           }
         }
-      return string
+      return string.trim()
     }
 
 
@@ -45,11 +45,11 @@ test('The output in the console should match the one in the instructions!', func
     let _test3 = _lyricsGenerator([0,0,0])
     let _test4 = _lyricsGenerator([1,0,1])
     let _test5 = _lyricsGenerator([1,1,1])
-    expect(console.log).toHaveBeenCalledWith(_test1);
-    expect(console.log).toHaveBeenCalledWith(_test2);
-    expect(console.log).toHaveBeenCalledWith(_test3);
-    expect(console.log).toHaveBeenCalledWith(_test4);
-    expect(console.log).toHaveBeenCalledWith(_test5);
+    expect(console.log.trim()).toHaveBeenCalledWith(_test1);
+    expect(console.log.trim()).toHaveBeenCalledWith(_test2);
+    expect(console.log.trim()).toHaveBeenCalledWith(_test3);
+    expect(console.log.trim()).toHaveBeenCalledWith(_test4);
+    expect(console.log.trim()).toHaveBeenCalledWith(_test5);
   });
 
 

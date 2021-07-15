@@ -2,11 +2,13 @@
 
 The variable `names` contains a lot of names (dugh...)
 
-The function stored in the variable `prepender` returns whatever 
-is passed to it but prepended with the string: 'My name is:'
+The function stored in the variable `prepender` returns whatever is passed to it but prepended with the string: `'My name is:'`
 
-# 📝Instructions
-Please map the names array using the `prepender` function to create a new array that looks like this:
+## 📝 Instructions:
+
+1. Please map the names array using the `prepender` function to create a new array that looks like this:
+
+### Resultado esperado:
 
 ```md
 [   'My name is: Alice',
@@ -19,5 +21,6 @@ Please map the names array using the `prepender` function to create a new array 
 ```
 
 
-## 💡Hint:
+### 💡 Hint:
+
 It's one line of code, pass the function to the map!

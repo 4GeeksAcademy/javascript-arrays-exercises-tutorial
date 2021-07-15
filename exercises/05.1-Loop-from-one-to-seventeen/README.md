@@ -4,9 +4,13 @@ tutorial: https://www.youtube.com/watch?v=4QGaROXZ3oc
 
 # `05.1` Loop from one to seventeen
 
-The current loop is looping from zero to ten, please make it loop from 1 to 17.
+The current loop is looping from zero to ten, 
 
-Expected console result:
+## 📝 Instructions
+
+1. Please make it loop from 1 to 17.
+
+### Expected result:
 
 ```bash
 1
@@ -30,8 +34,9 @@ Expected console result:
 
 ## 💡Hint:
 
-1. You have to loop from 1 to 17 (not from 0 to 17).
-2. Here is a [2 minute video explaining how to loop](https://www.youtube.com/watch?v=s9wW2PpJsmQ).
++ You have to loop from 1 to 17 (not from 0 to 17).
+
++ Here is a [2 minute video explaining how to loop](https://www.youtube.com/watch?v=s9wW2PpJsmQ).
 
 
 

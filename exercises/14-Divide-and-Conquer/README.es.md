@@ -1,19 +1,28 @@
-# Instrucciones
-- Crea una función llamada mergeTwoList que reciba un arreglo de números (enteros).
-- Recorre el arreglo y separa los números pares e impares en diferentes arreglos.
-- Si el número es impar, envíalo a un arreglo denominado odd.
-- Si el número es par, envíalo a un arreglo denominado even.
-- Luego concatena el arreglo odd al arreglo even para combinarlos. 
+# `14` Divide y conquista
 
-> Recuerda que el arreglo `odd` va primero y luego debes agregar lots items del arreglo `even`.
+## 📝 Instrucciones:
 
-## Example:
+1. Crea una función llamada `mergeTwoList` que reciba un arreglo de números (enteros).
+
+2. Recorre el arreglo y separa los números pares e impares en diferentes arreglos.
+
+3. Si el número es impar, envíalo a un arreglo denominado `odd`.
+
+4. Si el número es par, envíalo a un arreglo denominado `even`.
+
+5. Luego concatena el arreglo `odd` al arreglo `even` para combinarlos. 
+
+> Recuerda que el arreglo `odd` va primero y luego debes agregar los items del arreglo `even`.
+
+Ejemplo:
 
 ```js
 mergeTwoList([1,2,33,10,20,4]);
 
+// resultado esperado en la consola:
 [1, 33, 2, 10, 20, 4]
 ```
 
-### Pista:
-Cree variables vacías cuando necesites almacenar datos.
+### 💡 Pista:
+
++ Crea variables vacías cuando necesites almacenar datos.
