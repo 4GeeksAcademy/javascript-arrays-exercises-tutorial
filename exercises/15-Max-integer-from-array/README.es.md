@@ -1,4 +1,4 @@
-# `15`El máximo número entero dentro del arreglo 
+# `15` El máximo número entero dentro del arreglo 
 
 ## 📝Instrucciones:
 
@@ -18,4 +18,4 @@
 
 ### Resultado esperado:
 
- 5435.
+ 5435

@@ -6,7 +6,7 @@ Using a `for` loop, complete the code of the function `sum` so that it returns t
 
 ```js
 console.log(sumTheElements([2,13,34,5]))
-//el resultado debiese ser 54
+//this should print 54
 ```
 
 ### Expected result:

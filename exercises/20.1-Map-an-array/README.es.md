@@ -1,6 +1,8 @@
-La función Array.map () es una de las funciones más utilizadas en Javascript. Es sorprendente porque te permite crear un nuevo arreglo utilizando cada elemento del arreglo original como semilla.
+# `20.1` Mapea un array
 
-En este ejemplo, estamos utilizando la función de map para crear un nuevo arreglo de horas civiles a partir de un arreglo determinado de horas militares.
+La función `Array.map()` es una de las funciones más utilizadas en Javascript. Es sorprendente porque te permite crear un nuevo arreglo utilizando cada elemento del arreglo original como semilla.
+
+En este ejemplo, estamos utilizando la función de `map` para crear un nuevo arreglo de horas civiles a partir de un arreglo determinado de horas militares.
 
 ```js
 // Dado un arreglo de horas militares
@@ -14,17 +16,20 @@ var militaryToCivilian = function(hour){
 	else return hour + "am";
 }
 
-// puedes crear una nueva hora civil mapeando el arreglo original pero pasando la función militaryToCivilian a la función map
+//puedes crear una nueva hora civil mapeando el arreglo original pero pasando la función militaryToCivilian a la función map
 var civilianHours = militaryHours.map(militaryToCivilian);
 
 console.log(civilianHours);
 ```
 
-Copie y pegue el código dentro del editor de código para probarlo si lo desea.
+Copia y pega el código dentro del editor de código para probarlo si quieres.
 
-Instrucciones
-Usando la misma lógica dada en el ejemplo, agrega el código necesario para convertir un arreglo de valores Celsius en Fahrenheit dentro de la función de map.
+## 📝 Instrucciones:
 
-Pista
-Aquí hay un video de 3:40 min que explica la función del map
+1. Usando la misma lógica dada en el ejemplo, agrega el código necesario para convertir un arreglo de valores `Celsius` en `Fahrenheit` dentro de la función de `map`.
+
+## 💡 Pista:
+
+Aquí hay un video de 3:40 min que explica la función del map:
+
 https://www.youtube.com/watch?v=hfYa4ugeyuc&t=32s

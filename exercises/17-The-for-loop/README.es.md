@@ -1,3 +1,5 @@
+# `17` Un For Loop para encontrar un promedio
+
 Otra forma de recorrer un arreglo con el loop `for` es usando la declaración`in` de esta manera:
 
 ```js

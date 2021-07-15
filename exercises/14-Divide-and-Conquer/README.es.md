@@ -25,4 +25,4 @@ mergeTwoList([1,2,33,10,20,4]);
 
 ### 💡 Pista:
 
-Crea variables vacías cuando necesites almacenar datos.
++ Crea variables vacías cuando necesites almacenar datos.

@@ -1,3 +1,4 @@
+
 Otra función sorprendente para los arreglos es el filtro. Repite toda el arreglo original y solo devuelve los valores que coinciden con una condición particular.
 
 [Aquí está la documentación de la función de filtro en w3school](https://www.w3schools.com/jsref/jsref_filter.asp)

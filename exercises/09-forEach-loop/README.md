@@ -5,14 +5,16 @@ Instead of using the classic `for` statement, there is a new way to loop arrays 
 It is possible to loop an array using the `array.forEach` function. You have to specify what to do on each iteration of the loop.
 
 ```js
-/**
- * item: valor del elemento específico (requerido).
- * index: índice del elemento (opcional).
- * arr: objeto array al cual pertenece el elemento (opcional).
-*/
 myArray.forEach(function(item, index, arr){
 		
 });
+/**
+ * item: will be the value of the specific item (required).
+ * index: will be the item index(optional).
+ * arr: will be the array object to which the element belongs to (opcional).
+*/
+
+
 ```
 
 ## :pencil: Instructions:

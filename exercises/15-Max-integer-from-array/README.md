@@ -19,4 +19,4 @@
 
 ### Expected result:
 
-  5435.
+  5435

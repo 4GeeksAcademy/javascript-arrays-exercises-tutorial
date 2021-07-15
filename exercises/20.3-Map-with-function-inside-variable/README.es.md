@@ -1,9 +1,14 @@
-Los nombres de las variables contienen muchos nombres (dugh ...)
+# `20.3` Map con una función dentro de una variable
 
-La función otorgada con la variable prepender devuelve todo lo que se le pasa pero se antepone con la cadena: 'Mi nombre es:'
+Los `nombres` de las variables contienen muchos nombres (obviamente ...)
 
-Instrucciones
-Asigna el arreglo de nombres utilizando la función prepender para crear un nuev arreglo que se vea así:
+La función almacenada en la variable `prepender` devuelve todo lo que se le pasa pero anteponiendo el string: `'Mi nombre es:'`
+
+## 📝 Instrucciones:
+
+1. Usa el método `map` con la función `prepender` para crear un nuevo arreglo que se vea así:
+
+### Expected result:
 
 ```md
 [   'My name is: Alice',
@@ -16,5 +21,6 @@ Asigna el arreglo de nombres utilizando la función prepender para crear un nuev
 ```
 
 
-Pista:
-Es una línea de código, ¡pasa la función map!
+### 💡 Pista:
+
+Es una línea de código, ¡pasa la función `map`!

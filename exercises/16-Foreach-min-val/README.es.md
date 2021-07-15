@@ -4,13 +4,13 @@ Es posible recorrero una arreglo usando la función `array.forEach`. Debes espec
 ```js
 
 myArray.forEach(function(item, index, arr){
-	console.log(item, index);
-
-//item will be the value of the specific item.
-//index will be the item index.
-//arr will be the array object to which the element belongs to. 	
-
+	console.log(item, index)
+//item es el valor específico del elemento.
+//index será el índice del elemento.
+//arr será el array al cual pertenece el elemento.
 });
+
+
 ```
 ## 📝 Instrucciones:
 

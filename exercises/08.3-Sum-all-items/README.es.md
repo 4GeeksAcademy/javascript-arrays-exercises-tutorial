@@ -1,4 +1,4 @@
-# `08.3` Suma todos los elementod
+# `08.3` Suma todos los elementos
 
 ## :pencil: Instrucciones:
 
@@ -7,7 +7,7 @@
 
 ```js
 console.log(sumTheElements([2,13,34,5]))
-//this should print 54
+//el resultado debiese ser 54
 ```
 
 ### Resultado esperado:

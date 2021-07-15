@@ -5,17 +5,17 @@ Es posible encontrar un arreglo compuesto por otros arreglos (se llama arreglo o
 En este ejemplo, tenemos una array o arreglo  de coordenadas a las que puedes acceder haciendo lo siguiente:
 
 ```js
-//a la primera coordenada latitud
+//la primera coordenada latitud
 var latitude = coordinatesArray[0][0];
-//a la primera coordenada longitud
+//la primera coordenada longitud
 var longitude = coordinatesArray[0][1];
 ```
 
-## 📝 Instructions:
+## 📝 Instruciones:
 
 1. Recorre el arreglo(con un bucle) imprimiendo solo las longitudes.
 
-### Expected result:
+### Resultado esperado:
 
 ```md
 -112.633853

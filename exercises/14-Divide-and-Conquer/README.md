@@ -25,4 +25,4 @@ mergeTwoList([1,2,33,10,20,4])
 
 ### 💡 Hint:
 
-Create empty(placeholder) variables when you need to store data.
++ Create empty(placeholder) variables when you need to store data.
