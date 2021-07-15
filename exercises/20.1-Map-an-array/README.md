@@ -1,9 +1,9 @@
 # `20.1` Map an array
 
-The Array.map() function is one of the most used functions in Javascript. 
+The `Array.map()` function is one of the most used functions in Javascript. 
 It is amazing because it lets you create a new array using each item of the original array as a seed.
 
-In this example, we are using the map function to create a new array of 
+In this example, we are using the `map` function to create a new array of 
 civilian hours starting from a given array of military hours.
 
 ```js
@@ -26,9 +26,12 @@ console.log(civilianHours);
 
 Copy paste the code inside the code editor to test it if you want.
 
-# 📝Instructions:
-Using the same logic given in the example, add the needed code to convert an array of Celsius values into Fahrenheit inside the map function.
+## 📝 Instructions:
 
-## 💡Hints
-Here is a 3:40 min video explaining the array map function
+1. Using the same logic given in the example, add the needed code to convert an array of `Celsius` values into `Fahrenheit` inside the `map` function.
+
+## 💡 Hint:
+
+Here is a 3:40 min video explaining the array map function:
+
 https://www.youtube.com/watch?v=hfYa4ugeyuc&t=32s
