@@ -3,10 +3,8 @@ image:
 
 ports:
     - port: 3000
-      onOpen: open-preview
-tasks:
-    - command: >
-        learnpack start
+      onOpen: ignore
+
 github:
     prebuilds:
         # enable for the master/default branch (defaults to true)

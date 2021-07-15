@@ -1,4 +1,10 @@
 {
+    "config": {
+        "editor": {
+            "version": "1.0.66"
+        }
+    },
+    "currentExercise": null,
     "language": "node",
     "title": "Learn Javascript Arrays and Loops Interactive",
     "repository": "https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial",
