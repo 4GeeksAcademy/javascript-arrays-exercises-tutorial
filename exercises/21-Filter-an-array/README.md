@@ -3,7 +3,7 @@
 Another amazing function for arrays is `filter`. 
 It loops the entire original array and only returns the values that match a particular condition.
 
-[Here is the documentation of the filter function in w3school](https://www.w3schools.com/jsref/jsref_filter.asp)
+[Here is the documentation of the `filter` function in w3school](https://www.w3schools.com/jsref/jsref_filter.asp)
 
 For example, this algorithm filters the `allNumbers` array and returns a new array with only the odds numbers:
 
@@ -17,10 +17,14 @@ var onlyOdds = allNumbers.filter(function(number){
 console.log(onlyOdds);
 ```
 
-# 📝Instructions
-- Complete the code to make it fill the `resultingNames` array with only the names that start with letter R
-- Use the `array.filter` function
+## 📝 Instructions:
 
-## 💡Hint
-Here is a 2:29min video explaining array.filter
+1. Complete the code to make it fill the `resultingNames` array with only the names that start with letter R.
+
+2. Use the `array.filter` function
+
+## 💡 Hint:
+
+Here is a 2:29min video explaining `array.filter` function:
+
 https://www.youtube.com/watch?v=0qsFDFC2oEE
