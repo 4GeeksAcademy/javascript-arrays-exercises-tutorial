@@ -23,7 +23,7 @@ Every array has the following parts:
 
 To access any item within the array you need to know its index (position). The index is an integer value that represents the position in which the element is located. 
 
-**IMPORTANT: Every array starts from cero (0)!**
+**IMPORTANT: Every array starts from zero (0)!**
 
 # 📝 Instructions
 
