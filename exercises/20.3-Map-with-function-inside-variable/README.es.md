@@ -10,7 +10,7 @@ La función almacenada en la variable `prepender` devuelve todo lo que se le pas
 
 ### Expected result:
 
-```md
+```js
 [   'My name is: Alice',
     'My name is: Bob',
     'My name is: Marry',

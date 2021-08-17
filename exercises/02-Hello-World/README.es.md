@@ -18,5 +18,5 @@ console.log("How are you?");
 
 ## 💡 Pista:
 
-Video de 5 minutos sobre la consola:
++ Video de 5 minutos sobre la consola:
 https://www.youtube.com/watch?v=1RlkftxAo-M

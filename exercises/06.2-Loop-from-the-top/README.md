@@ -12,24 +12,10 @@ This loop is looping the array from beginning to end... increasing one by one.
 
 ## Expected result:
 
-```bash
-12
-25
-23
-55
-56432
-48
-23
-867543
-8
-654
-47889
-4
-5
-3423
-```
+![image](../../.learn/assets/06.2.png)
 
-## 💡Hint
+## 💡 Hint:
 
 1. Remember the loop works like this: https://www.youtube.com/watch?v=TSMzvFwpE_A
-2. The last position of the array will be mySampleArray.length - 1 because arrays start at 0
+
+2. The last position of the array will be `mySampleArray.length - 1` because arrays start at 0

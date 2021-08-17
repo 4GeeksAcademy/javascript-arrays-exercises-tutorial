@@ -17,5 +17,6 @@
 - Al final tendrá el mayor número almacenado en la variable.
 
 ### Resultado esperado:
-
+```js
  5435
+ ```

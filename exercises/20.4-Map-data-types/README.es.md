@@ -8,11 +8,10 @@ Algunas veces los arreglos vienen con valores mixtos y debes unificarlos en un s
 
 ### Resultado esperado:
 
-```md
+```js
 [string,string,... ,number,string,...]
 ```
 
 ### 💡 Pista:
 
-Usa la función `typeof` para obtener el tipo de datos
-Más sobre el tipo de función.
++ Usa la función `typeof` para obtener el tipo de datos

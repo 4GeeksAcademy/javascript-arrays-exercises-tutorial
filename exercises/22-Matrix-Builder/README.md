@@ -11,7 +11,8 @@ This number represents the amount of rows and columns for the matrix.
 Example: 5 means that the matrix should be 5x5. 
 
 2. This function should return an array of arrays that represents the matrix. Example: 3 should return:
-```md
+
+```js
 [
   [0, 1, 1],
   [1, 0, 1],

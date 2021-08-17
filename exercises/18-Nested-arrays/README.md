@@ -18,7 +18,7 @@ var longitude = coordinatesArray[0][1];
 
 ### Expected Result:
 
-```md
+```js
 -112.633853
 -63.987
 -81.901693

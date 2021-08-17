@@ -2,11 +2,11 @@
 
 ## 📝 Instrucciones: 
 
-1. Cuenta del 7 al 12 con un loop e imprime cada número en la consola.
+1. Cuenta del `7` al `12` con un loop e imprime cada número en la consola.
 
 ## Resultado esperado:
 
-```bash
+```js
 7
 8
 9
@@ -15,9 +15,9 @@
 12
 ```
 
-## 💡Pista:
+## 💡 Pista:
 
-Tienes que recorrer de 7 a 12 (incluyendo 12).
++ Tienes que recorrer de `7` a `12` (incluyendo 12).
 
 
 

@@ -19,4 +19,6 @@
 
 ### Expected result:
 
+```js
   5435
+```

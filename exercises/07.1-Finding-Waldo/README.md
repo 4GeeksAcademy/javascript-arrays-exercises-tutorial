@@ -4,7 +4,7 @@ tutorial: https://www.youtube.com/watch?v=5WphKLyEJaU
 
 # `07.1` Find Waldo :smile:
 
-![Finding Waldo](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial/blob/5c8f7b7dbb094e0552565227fc24faad6dc05a13/.breathecode/assets/finding_waldo.jpeg?raw=true)
+![Finding Waldo](../../.learn/assets/finding_waldo.jpeg)
 
 Have you every played finding Waldo? I used to play it a lot when I was little, this exercise is a digital version of finding Waldo.
 

@@ -7,7 +7,7 @@
 
 ### Resultado esperado:
 
-```md
+```js
 Annie
 Bart
 Cesco
@@ -25,4 +25,4 @@ Esmeralda
 
 + Use un bucle `for ()` como hemos lo hemos hecho en ejercicios anteriores.
 
-+ Recuerda que los arreglos comienzan en la posición 0.
++ Recuerda que los arreglos comienzan en la posición `0`.

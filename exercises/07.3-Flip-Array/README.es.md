@@ -7,7 +7,7 @@
 
 Por ejemplo:
 
-```md
+```js
  array inicial:  [45, 67, 87, 23, 5,  32, 60]; array array final :    [60, 32, 5 , 23, 87, 67, 45];
 ```
 

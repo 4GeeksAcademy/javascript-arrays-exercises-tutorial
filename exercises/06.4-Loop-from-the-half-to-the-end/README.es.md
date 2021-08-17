@@ -12,7 +12,7 @@ Este bucle(loop) no está recorriendo el arreglo en lo absoluto ... porque las v
 
 ### Resultado esperado:
 
-```md
+```js
 23
 48
 56432

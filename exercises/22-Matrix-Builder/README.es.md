@@ -10,7 +10,7 @@ Después de un código malicioso, creado principalmente por el Sr. Smith, la mat
 
 2. Esta función debería devolver un arreglo con arreglos que representa la matriz. Ejemplo: 3 debería devolver:
 
-```md
+```js
 [
   [0, 1, 1],
   [1, 0, 1],

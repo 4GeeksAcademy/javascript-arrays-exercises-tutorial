@@ -16,12 +16,13 @@ for (var index in myArray){
 
 ### 💡 Hint:
 
-To print the average, you have to add all the values and divide the result by the total length of the list.
++ To print the average, you have to add all the values and divide the result by the total length of the list.
 
 
 ### Expected result:
 
+```js
 27278.8125
-
+```
 
 

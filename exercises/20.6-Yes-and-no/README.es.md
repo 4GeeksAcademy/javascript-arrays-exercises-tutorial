@@ -8,7 +8,7 @@
 
 ### Resultado esperado:
 
-```md
+```js
 [ 'woko',   'wiki',   'woko',   'woko',   'wiki',   'wiki',   'wiki',   'woko',   'woko',   'wiki',   'woko',   'wiki',   'wiki',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'wiki',   'woko',   'woko',   'woko',   'woko',   'wiki' ]
 ```
 
@@ -16,8 +16,8 @@
 
 + Necesitas mapear todo el arreglo
 
-+ Dentro de tu función de mapeo, necesitas usar un condicional para verificar si el valor actual es 0 o 1.
++ Dentro de tu función de mapeo, necesitas usar un condicional para verificar si el valor actual es `0` o `1`.
 
-+ Si el valor actual es 1, imprime el string `wiki`.
++ Si el valor actual es `1`, imprime el string `wiki`.
 
-+ Si el valor actual es 0, imprime el string `woko`
++ Si el valor actual es `0`, imprime el string `woko`

@@ -32,6 +32,6 @@ Copy paste the code inside the code editor to test it if you want.
 
 ## 💡 Hint:
 
-Here is a 3:40 min video explaining the array map function:
++ Here is a 3:40 min video explaining the array map function:
 
 https://www.youtube.com/watch?v=hfYa4ugeyuc&t=32s

@@ -8,7 +8,7 @@
 
 ### Expected result:
 
-```md
+```js
 [ 'woko',   'wiki',   'woko',   'woko',   'wiki',   'wiki',   'wiki',   'woko',   'woko',   'wiki',   'woko',   'wiki',   'wiki',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'wiki',   'woko',   'woko',   'woko',   'woko',   'wiki' ]
 ```
 
@@ -16,8 +16,8 @@
 
 + You need to map the entire array
 
-+ Inside your mapping function you need to use a conditional to verify if the current value is 0 or 1.
++ Inside your mapping function you need to use a conditional to verify if the current value is `0` or `1`.
 
-+ If the current value is 1 you print the string `wiki`.
++ If the current value is `1` you print the string `wiki`.
 
-+ If the current value is 0 you print the string `woko`.
++ If the current value is `0` you print the string `woko`.

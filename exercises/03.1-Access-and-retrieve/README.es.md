@@ -15,7 +15,7 @@ Cada arreglo tiene las siguientes partes:
 
 - Index (indice): es la posición de un elemento.
 
-![Como funciona un arreglo](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial/blob/5e6a9b1276ed2b7de1b9bb0240105983c170611c/.learn/assets/DbmSOHT.png?raw=true)
+![Como funciona un arreglo](../../.learn/assets/DbmSOHT.png?raw=true)
 
 Para acceder a cualquier elemento en particular dentro del arreglo (array) debes conocer su índice (posición. El índice es un valor entero que representa la posición en la que se encuentra el elemento. 
 
@@ -32,4 +32,4 @@ Para acceder a cualquier elemento en particular dentro del arreglo (array) debes
 
 ### :bulb: Pista:
 
- Usa  null como valor y no "null" como un string.
+ + Usa `null` como valor y no `null` como un string.

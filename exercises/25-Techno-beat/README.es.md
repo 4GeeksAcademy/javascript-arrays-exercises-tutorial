@@ -14,15 +14,15 @@ Estás trabajando con un DJ y él necesita un programa que pueda crear ritmos pa
 
 ### Restricciones:
 
-1. Si encuentra sel número Uno (1) tres veces seguidas, TAMBIÉN debe AGREGARSE a la cadena "¡¡¡Break the base!!!"
+1. Si encuentra sel número Uno (1) tres veces seguidas, TAMBIÉN debe AGREGARSE a la cadena `¡¡¡Break the base!!!`
 
 ### Resultado esperado de la función:
 
-Un string que debe estar compuesto por Boom o Drop the base o !!!Break the base!!!
+Un string que debe estar compuesto por Boom o Drop the base o `!!!Break the base!!!`
 
 ### Resultado esperado:
 
-```md
+```js
 Boom Boom Drop the base Drop the base Boom Boom Boom
 Boom Boom Drop the base Drop the base Drop the base !!!Break the base!!! Boom Boom Boom
 Boom Boom Boom

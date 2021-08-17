@@ -23,6 +23,7 @@ console.log(onlyOdds);
 2. Usa la función `array.filter`.
 
 ## 💡 Pista:
-Aquí hay un video de 2:29min explicando la función `array.filter`:
+
++ Aquí hay un video de 2:29 min explicando la función `array.filter`:
 
 https://www.youtube.com/watch?v=0qsFDFC2oEE

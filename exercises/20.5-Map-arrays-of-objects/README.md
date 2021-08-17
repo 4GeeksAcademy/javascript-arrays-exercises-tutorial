@@ -8,7 +8,7 @@ The current algorithm creates an array with only the names of the people and pri
 
 1. Please update the mapping function so it creates an array where each item contains the following:
 
-```md
+```js
 Hello my name is Joe and I am 13 years old.
 ```
 
@@ -22,7 +22,7 @@ Hello my name is Joe and I am 13 years old.
 
 ### Expected result:
 
-```md
+```js
 [ 'Hello, my name is Joe and I am 32 years old',
   'Hello, my name is Bob and I am 42 years old',
   'Hello, my name is Erika and I am 28 years old',
