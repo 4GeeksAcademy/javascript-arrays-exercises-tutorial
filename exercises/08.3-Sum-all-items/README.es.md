@@ -3,7 +3,7 @@
 ## :pencil: Instrucciones:
 
 
-1. Usando un bucle (loop) `for`, completa el código de la función `sum` para que devuelva la suma de todos los elementos en un arregloarrayy dado, por ejemplo:
+1. Usando un bucle (loop) `for`, completa el código de la función `sumTheElements` para que devuelva la suma de todos los elementos en un arregloarrayy dado, por ejemplo:
 
 ```js
 console.log(sumTheElements([2,13,34,5]))

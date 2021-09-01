@@ -2,7 +2,7 @@
 tutorial: https://www.youtube.com/watch?v=QLnkSPNTgNo
 ---
 
-# `05.4` Loop and add items to Array thru looping
+# `05.4` Loop and add items to array by looping
 
 ## 📝 Instructions:
 

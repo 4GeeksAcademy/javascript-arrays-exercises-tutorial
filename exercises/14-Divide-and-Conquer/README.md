@@ -10,7 +10,7 @@
 
 4. If the number is even number push it to a placeholder array named `even`.
 
-5. Then concatenate the `odd` array to the `even` array (combine them). 
+5. Then concatenate the `odd` array to the `even` array, combine them and have the function return one single array.
 
 > Remember, the `odd` array comes first and you have to append the `even`.
 

@@ -4,13 +4,13 @@ tutorial: https://www.youtube.com/watch?v=oLTidCuisew
 
 ---
 
-# `07.2` Contador de letras
+# `07.2` Letter Counter
 
-Our customer needs a program that counts the letters repetitions in a given string, I know that's weird, but they are very adamant, We need this asap! 
+Our customer needs a program that counts the number of occurences of each letter in a given string. I know that's weird, but they are very adamant. We need this asap! 
 
 ## :pencil: Instructions:
 
-1. Create an object were the letters are the properties and the values are the number of times that letter its repeated throughout the string. 
+1. Create an object were the letters are the properties and the values are the number of times that letter is repeated throughout the string. 
 
 For example:
 
@@ -24,12 +24,12 @@ const word = "Hello World";
 
 + Loop the entire string.
 
-+ On every iteration check if the object `counts` has the letter inicialized as a property.
++ On every iteration check if the object `counts` has the letter initialized as a property.
 
-+ If its not initialized then do it and set the value equal to 1 (first time found).
++ If the letter has not been initialized, then do it and set its value equal to 1 (first time found).
 
-+ If it was already initialized just increment the property value in one.
++ If it was already initialized just increment the property value by one.
 
 + Remember to ignore white spaces in the string.
 
-+ You should lower case all letters to have an accurate count of all letters regardless of casing of the letter.
++ You should lower caseall letters to have an accurate count of all letters regardless of casing of the letter.

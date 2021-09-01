@@ -4,13 +4,17 @@ tutorial: https://www.youtube.com/watch?v=Dd2uXOwhTzY
 
 # `06.1` Loop an array
 
-Ok this is the first time you will be looping an array from scratch, please take 6 minutes to watch these video on [how to loop an array](https://www.youtube.com/watch?v=24Wpg6njlYI).
+In this exercise gaian you will be looping an array from scratch. If you need a refresher, please take 6 minutes to watch this video on [how to loop an array](https://www.youtube.com/watch?v=24Wpg6njlYI).
+
 
 ## 📝Instructions:
 
-The code right now is printing the first item in the console. Instead of doing that,
+The code right now is printing the first item in the console. 
 
-1. Print all the elements in the array. Loop through the whole array using a loop.
+Instead of doing that:
+
+1. Print all the elements in the array. Iterate through the whole array using a loop.
+
 
 ## 💡Hint:
 
