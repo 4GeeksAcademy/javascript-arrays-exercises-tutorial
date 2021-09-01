@@ -4,9 +4,9 @@ tutorial: https://www.youtube.com/watch?v=Snn7OtZY370
 
 # `07.3` Flip Array
 
-## :pencil: Instrucciones: 
+## :pencil: Instructions: 
  
-1. Using a `for` loop, invert the `arr` array and print the new array it on the console. 
+1. Using a `for` loop, invert the `arr` array and print the new array on the console. 
 
 For example:
 
@@ -19,4 +19,4 @@ Final array:    [60, 32, 5 , 23, 87, 67, 45];
 
 + You should loop the entire array [from the end to the beggining](https://stackoverflow.com/questions/1340589/are-loops-really-faster-in-reverse).
 
-+ On each loop push all the items (as you go) into a new array, this will be your flipped array.
++ On each loop push all the items (as you go) into a new array, this will be your flipped array. What other methods can you use besides `push()`?
