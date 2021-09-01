@@ -30,6 +30,6 @@ Copia y pega el código dentro del editor de código para probarlo si quieres.
 
 ## 💡 Pista:
 
-Aquí hay un video de 3:40 min que explica la función del map:
++ Aquí hay un video de 3:40 min que explica la función del map:
 
 https://www.youtube.com/watch?v=hfYa4ugeyuc&t=32s

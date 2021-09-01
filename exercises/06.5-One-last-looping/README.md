@@ -11,7 +11,7 @@ tutorial: https://www.youtube.com/watch?v=IwDDj6wN4jY
 
 ### Expected result:
 
-```md
+```js
 Annie
 Bart
 Cesco
@@ -29,4 +29,4 @@ Esmeralda
 
 + Use a `for()` loop like we have been using in previous exercises.
 
-+ Remember that arrays start at position 0.
++ Remember that arrays start at position `0`.

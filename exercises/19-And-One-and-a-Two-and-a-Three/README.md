@@ -8,7 +8,7 @@ Given a contact object:
 
 ### Expected result:
 
-```md
+```ja
 fullname : John Doe
 phone : 123-123-2134
 email : test@nowhere.com

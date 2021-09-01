@@ -8,6 +8,6 @@
 
 Ejemplo de la salida para [0,0,1,1,0]:
 
-```bash
+```js
 ['Yahoo','Yahoo','1','1','Yahoo']
 ```

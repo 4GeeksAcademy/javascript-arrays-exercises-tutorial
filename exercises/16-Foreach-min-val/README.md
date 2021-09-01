@@ -33,5 +33,6 @@ myArray.forEach(function(item, index){
 
 
 ### Expected result:
-
+```js
  23
+ ```

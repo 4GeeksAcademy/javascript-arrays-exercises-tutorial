@@ -6,11 +6,11 @@ tutorial: https://www.youtube.com/watch?v=6eLXV_IL2m0
 
 ## 📝 Instructions:
 
-1. Count from 7 to 12 with a loop and print each number on the console.
+1. Count from `7` to `12` with a loop and print each number on the console.
 
 ## Expected result:
 
-```bash
+```js
 7
 8
 9
@@ -18,9 +18,9 @@ tutorial: https://www.youtube.com/watch?v=6eLXV_IL2m0
 11
 12
 ```
-## 💡Hint:
+## 💡 Hint:
 
-You have to loop from 7 to 12 (including 12).
+You have to loop from `7` to `12` (including `12`).
 
 
 

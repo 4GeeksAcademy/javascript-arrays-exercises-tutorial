@@ -25,4 +25,4 @@ Right now, the code is printing all the items in the array:
 
 ## :bulb: Hint:
 
-A number X is divisible by 2 if: (X%2===0)
+A number X is divisible by 2 if: `(X%2===0)`.

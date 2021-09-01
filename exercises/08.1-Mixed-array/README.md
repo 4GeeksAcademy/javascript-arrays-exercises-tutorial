@@ -6,11 +6,11 @@ tutorial: https://www.youtube.com/watch?v=3o02odJhieo
 
 ## :pencil: Instructions: 
  
-1. Write a function to programmatically print in the console the types of the values that the list contains in each position.
+1. Write a function to programmatically print in the console the types of the values that the array contains in each position.
 
 ### Expected Result:
 
-```md
+```js
 [
   'number', 'boolean',
   'string', 'object',

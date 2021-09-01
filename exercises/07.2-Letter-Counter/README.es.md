@@ -11,19 +11,19 @@ Por ejemplo:
 ```js
 const word = "Hello World";
 
-// Should print on the console { h: 1, e: 1, l: 3, o: 2, w: 1, r: 1, d: 1 }
+// Debería imprimir en la consola { h: 1, e: 1, l: 3, o: 2, w: 1, r: 1, d: 1 }
 ```
 
-## :bulb: Pista
+## :bulb: Pista:
 
-1. Recorre todo el string (usa un bucle).
++ Recorre todo el string (usa un bucle).
 
-2. En cada iteración verifica si el objeto `counts` tiene la letra inicializada como una propiedad.
++ En cada iteración verifica si el objeto `counts` tiene la letra inicializada como una propiedad.
 
-3. Si no está inicializada, hazlo y establece el valor en 1 (la primera vez que se encuentra).
++ Si no está inicializada, hazlo y establece el valor en 1 (la primera vez que se encuentra).
 
-4. Si ya se inicializó, simplemente incrementa el valor de la propiedad en uno.
++ Si ya se inicializó, simplemente incrementa el valor de la propiedad en uno.
 
-5. Recuerda ignorar los espacios en blanco en el string.
++ Recuerda ignorar los espacios en blanco en el string.
 
-6. Debes colocar en minúscula(lowercase) todas las letras para tener un conteo exacto de todas las letras.
++ Debes colocar en minúscula(lowercase) todas las letras para tener un conteo exacto de todas las letras.

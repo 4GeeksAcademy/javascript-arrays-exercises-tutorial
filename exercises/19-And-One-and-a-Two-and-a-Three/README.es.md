@@ -9,7 +9,7 @@ Dado un objeto denominado contact:
 
 ### Resultado esperado:
 
-```md
+```js
 fullname : John Doe
 phone : 123-123-2134
 email : test@nowhere.com

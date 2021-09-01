@@ -1,5 +1,5 @@
 # `07.1` Encuentra a Wally :smile:
-![Finding Waldo](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial/blob/5c8f7b7dbb094e0552565227fc24faad6dc05a13/.breathecode/assets/finding_waldo.jpeg?raw=true)
+![Finding Waldo](../../.learn/assets/finding_waldo.jpeg)
 
 ¿Alguna vez has jugado a encontrar a Waldo (o Wally)? Solía jugar mucho cuando era pequeño, este ejercicio es una versión digital de encontrar a Waldo.
 

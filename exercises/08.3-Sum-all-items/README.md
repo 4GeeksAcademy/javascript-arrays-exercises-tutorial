@@ -11,7 +11,9 @@ console.log(sumTheElements([2,13,34,5]))
 
 ### Expected result:
 
-`925960`
+```js
+925960
+```
 
 # :bulb: Hint:
 

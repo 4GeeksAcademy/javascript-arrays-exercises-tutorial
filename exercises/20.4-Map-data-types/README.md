@@ -8,11 +8,10 @@ Some times arrays come with mixed values and you need to unify them into only on
 
 ### Expected result:
 
-```md
+```js
 [string,string,... ,number,string,...]
 ```
 
 ### 💡 Hint:
 
-Use the `typeof` function to get the data type
-More about the typeof function. 
++ Use the `typeof` function to get the data type

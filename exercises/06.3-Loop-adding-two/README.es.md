@@ -8,7 +8,7 @@ Este código está reproduciendo todo el conjunto, uno por uno, e imprime los el
 
 ## Resultado esperado:
 
-```md
+```js
 3423
 4
 654

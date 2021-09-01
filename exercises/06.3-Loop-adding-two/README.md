@@ -12,7 +12,7 @@ This code is looping the whole array, one by one, and printing the items on the 
 
 ## Expected result:
 
-```md
+```js
 3423
 4
 654

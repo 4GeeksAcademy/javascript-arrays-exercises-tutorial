@@ -16,7 +16,7 @@ Change nothing but the value of those 3 variables!
 
 ### Expected result:
 
-```md
+```js
 23
 48
 56432

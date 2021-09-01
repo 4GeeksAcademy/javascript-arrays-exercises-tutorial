@@ -6,7 +6,7 @@
 
 ### Expected result:
 
-```md
+```js
 [ { label: 'Eat my lunch', done: true },
   { label: 'Finish my exercises', done: true },
   { label: 'Read a book', done: true } ]

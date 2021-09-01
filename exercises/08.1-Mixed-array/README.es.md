@@ -2,18 +2,17 @@
 
 ## :pencil: Instrucciones: 
  
-1. Escribe una función que imprima automáticamente en la consola los tipos de valores que contiene la lista en cada posición.
+1. Escribe una función que imprima automáticamente en la consola los tipos de valores que contiene el array en cada posición.
 
 ### Resultado esperado:
 
-```md
-number
-boolean
-string
-object
-string
-number
-object
+```js
+[
+  'number', 'boolean',
+  'string', 'object',
+  'string', 'number',
+  'object'
+]
 ```
 
 ## :bulb: Pista 

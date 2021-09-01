@@ -10,7 +10,7 @@ The function stored in the variable `prepender` returns whatever is passed to it
 
 ### Resultado esperado:
 
-```md
+```js
 [   'My name is: Alice',
     'My name is: Bob',
     'My name is: Marry',
