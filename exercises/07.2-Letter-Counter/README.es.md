@@ -1,4 +1,4 @@
-# `07.2` Letter Counter
+# `07.2` Contador de letras
 
 Nuestro cliente necesita un programa que cuente las repeticiones de las letras en un string dado. Sé que es extraño, pero son muy testarudo ¡ Lo necesitamos lo antes posible!
 
