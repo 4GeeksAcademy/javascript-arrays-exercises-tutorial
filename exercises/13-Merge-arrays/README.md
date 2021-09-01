@@ -1,4 +1,4 @@
-# `13` Uniendo arrays:
+# `13` Merging arrays:
 
 Since we live in a new world, there should be no colors or labels, right?
 
