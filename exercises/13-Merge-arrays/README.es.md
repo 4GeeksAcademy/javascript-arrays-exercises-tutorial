@@ -1,4 +1,4 @@
-# `13` Merge array:
+# `13` Uniendo arrays:
 
 Como vivimos en un mundo nuevo, no debería haber colores ni etiquetas, ¿cierto?
 
