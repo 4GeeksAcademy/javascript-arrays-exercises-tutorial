@@ -1,10 +1,16 @@
 # `13` Merging arrays:
 
-Since we live in a new world, there should be no colors or labels, right?
+
+In this exercise we will learn how to combine two arrays. 
+
 
 ## 📝Instructions:
 
-1. Write a function that merges two array and returns a single new array with all the items from both arrays inside.
+1. Write a function that merges and returns the two arrays into a single new array, with all the items from both arrays inside.
+2. Be sure not to create an array with two nested arrays. It should be a single array with all the names in their original order.
+3. Find out why you souldn't use the `.push()` method? 
+
+
 
 ### Expected result:
 
@@ -15,4 +21,7 @@ Since we live in a new world, there should be no colors or labels, right?
 
 ### 💡 Hint:
 
-+ You will have to loop though each array and insert their items into a new array.
++ You can find more information on the different ways to merge arrays [here](https://dmitripavlutin.com/javascript-merge-arrays/)
+
++ If you are struggling with preventing getting a nested array, take a look at the concept of the JS [spread operator](https://www.educative.io/edpresso/what-is-the-spread-operator-in-javascript)
+
