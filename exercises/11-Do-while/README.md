@@ -18,9 +18,12 @@ do {
 
 ## 📝 Instructions:
 
-1. Print every iteration number on the console from 20 to 0 but concatenate an exclamation point to the output if the number is a module of 5.
+1. Print every iteration number on the console from 20 to 0.
 
-2. At the end `console.log()`de `LIFTOFF`.
+2. Print the numbers that are module of 5 with a concatenated exclamation mark.
+
+3. When the loop reaches zero, print `LIFTOFF` instead of `0`. This `console.log()` statement must go **inside** of the loop.
+ 
 
 ### Expected result:
 
@@ -38,5 +41,6 @@ do {
 10!
 .
 .
+1
 LIFTOFF
 ```
