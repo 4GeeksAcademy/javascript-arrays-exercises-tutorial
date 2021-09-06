@@ -3,22 +3,26 @@
 
 ## 📝Instructions:
 
-1. Write a script that finds the biggest integer in `Myarray`.
+1. Write a function `findMax` that finds the greatest integer in any array that is passed to it as a parameter.
 
-2. Print that number in the console with the `console.log()` function.
+2. Print that greatest integer in the console with the `console.log()` function.
+
 
 ### 💡 Hint:
 
-- Define an auxiliar variable and set the first value to 0.
+- Define an auxiliary variable. What should its initial value be?
 
-- Then compare the variables with all the items in the list.
+- Then compare the auxiliary variable with every number in the list.
 
-- Replace the value every time the new element is bigger than the one stored in the auxiliar variable.
+- Replace the value of the auxiliary variable with that of every encountered number that is greater than the auxiliary.
 
 - At the end you will have the biggest number stored in the variable.
+
 
 ### Expected result:
 
 ```js
-  5435
+
+  console.log(findMax(myArray)); //prints 5435
+
 ```
