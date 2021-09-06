@@ -1,9 +1,6 @@
-var people = ['juan','ana','michelle','daniella','stefany','lucy','barak'];
+var people = ['juan','ana','michelle','daniella','stefany','lucy','barak', 'emilio'];
 
-function deletePerson(personName)
-{
-	//your code here
-}
+//your code below
 
 console.log(deletePerson('daniella'));
 console.log(deletePerson('juan'));
