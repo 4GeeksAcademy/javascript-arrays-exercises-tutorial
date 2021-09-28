@@ -10,9 +10,9 @@ myArray.forEach(function(item, index, arr){
 //arr será el array al cual pertenece el elemento.
 });
 
-
 ```
 ## 📝 Instrucciones:
+
 
 1. Utiliza la función `forEach` para obtener el valor mínimo del arreglo e imprimirlo en la consola.
 
@@ -27,6 +27,7 @@ myArray.forEach(function(item, index, arr){
 - Fuera del bucle, una vez finalizado el bucle, imprima el valor auxiliar.
 
 ### Resultado esperado:
+
 ```js
 23
 ```

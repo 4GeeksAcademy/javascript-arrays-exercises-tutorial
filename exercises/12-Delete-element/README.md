@@ -20,15 +20,14 @@ let newArray = array.filter((element) => element === 2 || element === 4);
 console.log(newArray); // outcome is [2, 4, 2, 4]
 
 ```
+
 The `.filter()` method automatically creates a new array in which only the elements that pass the condition are kept. Any other elements are dropped from the newArray. 
 
 You can learn more about this method [here](https://www.w3schools.com/jsref/jsref_filter.asp)
 
-
-### Instructions:
+## Instructions:
 
 1. Please create a `deletePerson` function that deletes any given person from an array and returns a new array without that person.
-
 
 ### Expected result:
 

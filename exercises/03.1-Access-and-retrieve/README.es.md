@@ -7,6 +7,7 @@ Por ejemplo, podríamos tener un arreglo (array) que almacena los días de la se
 ```js
 var myArray = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday'];
 ```
+
 Cada arreglo tiene las siguientes partes:
 
 - Items: son los valores reales dentro de cada posición del arreglo (array).
@@ -17,7 +18,7 @@ Cada arreglo tiene las siguientes partes:
 
 ![Como funciona un arreglo](../../.learn/assets/DbmSOHT.png?raw=true)
 
-Para acceder a cualquier elemento en particular dentro del arreglo (array) debes conocer su índice (posición. El índice es un valor entero que representa la posición en la que se encuentra el elemento. 
+Para acceder a cualquier elemento en particular dentro de un arreglo (array) debes conocer su índice (posición). El índice es un valor entero que representa la posición en la que se encuentra el elemento. 
 
 **IMPORTANTE: ¡Cada arreglo comienza desde cero (0)!**
 
@@ -25,11 +26,11 @@ Para acceder a cualquier elemento en particular dentro del arreglo (array) debes
 
 1. Usando la función `console.log`, imprime el tercer elemento del arreglo.
 
-2. Cambia el valor en la posición donde se encuentra `jueves` a `null`(nulo).
+2. Cambia el valor en la posición donde se encuentra `jueves` a `null` (nulo).
 
 3. Imprime esa posición en particular.
 
 
 ### :bulb: Pista:
 
- + Usa `null` como valor y no `null` como un string.
+ + Usa `null` como valor y no como un string.

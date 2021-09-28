@@ -8,7 +8,6 @@ Given an array `names`, please create a function that filters only the names con
 
 **The search should NOT be Case Sensitive.**
 
-
 ## 💡 Hint:
 
 ```js

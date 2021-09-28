@@ -14,7 +14,7 @@ You are working with a DJ and he needs a program that can create a beats for his
 
 ### Constraints:
 
-1. If you find the number One (1) three times in a row, should ALSO ADD to the string `!!!Break the base!!!`
++ If you find the number One (1) three times in a row, should ALSO ADD to the string `!!!Break the base!!!`
 
 ### Expected Function Output:
 

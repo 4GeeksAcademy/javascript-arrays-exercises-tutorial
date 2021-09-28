@@ -3,8 +3,7 @@
 The `Array.map()` function is one of the most used functions in Javascript. 
 It is amazing because it lets you create a new array using each item of the original array as a seed.
 
-In this example, we are using the `map` function to create a new array of 
-civilian hours starting from a given array of military hours.
+In this example, we are using the `map` function to create a new array of civilian hours starting from a given array of military hours.
 
 ```js
 // Given an array of militar hours

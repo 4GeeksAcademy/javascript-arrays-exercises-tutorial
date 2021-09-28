@@ -2,7 +2,7 @@
 
 La función `Array.map()` es una de las funciones más utilizadas en Javascript. Es sorprendente porque te permite crear un nuevo arreglo utilizando cada elemento del arreglo original como semilla.
 
-En este ejemplo, estamos utilizando la función de `map` para crear un nuevo arreglo de horas civiles a partir de un arreglo determinado de horas militares.
+En este ejemplo, estamos utilizando la función de `map` para crear un nuevo arreglo de horas civiles a partir de un arreglo dado de horas militares.
 
 ```js
 // Dado un arreglo de horas militares

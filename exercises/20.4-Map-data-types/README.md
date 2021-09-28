@@ -11,7 +11,6 @@ Some times arrays come with mixed values and you need to unify them into only on
 ```js
 [string,string,... ,number,string,...]
 ```
-
 ### 💡 Hint:
 
 + Use the `typeof` function to get the data type

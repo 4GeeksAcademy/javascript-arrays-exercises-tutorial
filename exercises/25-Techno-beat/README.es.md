@@ -5,9 +5,11 @@ Estás trabajando con un DJ y él necesita un programa que pueda crear ritmos pa
 ## 📝 Instrucciones:
 
 1. Crear una función `lyricsGenerator` que recibe un arreglo. El arreglo enviado a la función será algo como así:
+
 ```js
 [0,0,1,1,0,0,0] 
 ```
+
 2. Por cada `0`, agrégale al string '`Boom'`.
 
 3. Por cada `1`, agrégale al string `'Drop the base'`.

@@ -20,7 +20,7 @@ Hello my name is Joe and I am 13 years old.
 
 + Inside your simplifier function you have to return a concatenation.
 
-### Expected result:
+## Expected result:
 
 ```js
 [ 'Hello, my name is Joe and I am 32 years old',

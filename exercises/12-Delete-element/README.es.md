@@ -6,7 +6,7 @@ La única forma de eliminar a `Daniella` del array o arreglo (sin hacer trampa) 
 
 1. Crea una función `deletePerson` que elimine a cualquier persona del arreglo y devuelva un nuevo arreglo sin esa persona.
 
-### Resultado esperado
+### Resultado esperado:
 
  ```js
  ['juan', 'ana', 'michelle', 'stefany', 'lucy', 'barak']

@@ -18,6 +18,7 @@ for (var index in myArray){
 + Para imprimir el promedio, debes sumar todos los valores y dividir el resultado por la longitud  (length) total del arreglo.
 
 ### Resultado esperado:
+
 ```js
 27278.8125
 ```

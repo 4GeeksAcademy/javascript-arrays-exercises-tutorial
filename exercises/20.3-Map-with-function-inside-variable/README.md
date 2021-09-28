@@ -8,7 +8,7 @@ The function stored in the variable `prepender` returns whatever is passed to it
 
 1. Please map the names array using the `prepender` function to create a new array that looks like this:
 
-### Resultado esperado:
+### Expected result:
 
 ```js
 [   'My name is: Alice',
@@ -23,4 +23,4 @@ The function stored in the variable `prepender` returns whatever is passed to it
 
 ### 💡 Hint:
 
-It's one line of code, pass the function to the map!
++ It's one line of code, pass the function to the map!

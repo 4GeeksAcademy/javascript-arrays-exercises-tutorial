@@ -12,7 +12,7 @@ Dados los nombres del arreglo `names`, crea una función `filter` que liste solo
 ## 💡 Pista:
 
 ```js
- // Use cualquiera de los métodos incorporados
+ // Usa cualquiera de los métodos incorporados
 
  array.push();
  array.filter();

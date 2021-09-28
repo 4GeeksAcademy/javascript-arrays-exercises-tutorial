@@ -16,6 +16,6 @@ This loop is looping the array from beginning to end... increasing one by one.
 
 ## 💡 Hint:
 
-1. Remember the loop works like this: https://www.youtube.com/watch?v=TSMzvFwpE_A
++ Remember the loop works like this: https://www.youtube.com/watch?v=TSMzvFwpE_A
 
-2. The last position of the array will be `mySampleArray.length - 1` because arrays start at 0
++ The last position of the array will be `mySampleArray.length - 1` because arrays start at 0

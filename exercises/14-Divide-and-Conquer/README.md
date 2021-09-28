@@ -1,6 +1,5 @@
 # `14` Divide and conquer
 
-
 ## 📝 Instructions:
 
 1. Create a function called `mergeTwoList` that expects an array of numbers (integers).

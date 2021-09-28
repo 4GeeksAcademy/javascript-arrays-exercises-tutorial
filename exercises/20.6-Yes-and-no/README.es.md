@@ -6,12 +6,6 @@
 
 2. Imprime ese arreglo en la consola.
 
-### Resultado esperado:
-
-```js
-[ 'woko',   'wiki',   'woko',   'woko',   'wiki',   'wiki',   'wiki',   'woko',   'woko',   'wiki',   'woko',   'wiki',   'wiki',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'wiki',   'woko',   'woko',   'woko',   'woko',   'wiki' ]
-```
-
 ## 💡 Pista:
 
 + Necesitas mapear todo el arreglo
@@ -21,3 +15,9 @@
 + Si el valor actual es `1`, imprime el string `wiki`.
 
 + Si el valor actual es `0`, imprime el string `woko`
+
+### Resultado esperado:
+
+```js
+[ 'woko',   'wiki',   'woko',   'woko',   'wiki',   'wiki',   'wiki',   'woko',   'woko',   'wiki',   'woko',   'wiki',   'wiki',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'wiki',   'woko',   'woko',   'woko',   'woko',   'wiki' ]
+```

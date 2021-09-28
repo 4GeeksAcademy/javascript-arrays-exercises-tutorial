@@ -14,6 +14,7 @@ We recomend you watching [this short video about loops](https://www.youtube.com/
 2. forEach.
 
 3. while.
+
 4. map.
 
 5. filter.

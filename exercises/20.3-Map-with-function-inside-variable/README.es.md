@@ -1,6 +1,6 @@
 # `20.3` Map con una función dentro de una variable
 
-Los `nombres` de las variables contienen muchos nombres (obviamente ...)
+Los `nombres` de las variables contienen muchos nombres (obviamente...)
 
 La función almacenada en la variable `prepender` devuelve todo lo que se le pasa pero anteponiendo el string: `'Mi nombre es:'`
 
@@ -8,7 +8,7 @@ La función almacenada en la variable `prepender` devuelve todo lo que se le pas
 
 1. Usa el método `map` con la función `prepender` para crear un nuevo arreglo que se vea así:
 
-### Expected result:
+### Resultado esperado:
 
 ```js
 [   'My name is: Alice',
@@ -23,4 +23,4 @@ La función almacenada en la variable `prepender` devuelve todo lo que se le pas
 
 ### 💡 Pista:
 
-Es una línea de código, ¡pasa la función `map`!
+Es una línea de código, ¡pasa la función a `map`!
