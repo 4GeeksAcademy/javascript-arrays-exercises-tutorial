@@ -16,12 +16,15 @@ Estás trabajando con un DJ y él necesita un programa que pueda crear ritmos pa
 
 ### Restricciones:
 
-1. Si encuentra sel número Uno (1) tres veces seguidas, TAMBIÉN debe AGREGARSE a la cadena `¡¡¡Break the base!!!`
++ Si encuentra sel número Uno (1) tres veces seguidas, TAMBIÉN debes AGREGAR al string `¡¡¡Break the base!!!`
 
 ### Resultado esperado de la función:
 
 Un string que debe estar compuesto por Boom o Drop the base o `!!!Break the base!!!`
 
+### :bulb: Pista:
+
++ Recuerda usar variables auxiliares
 ### Resultado esperado:
 
 ```js
@@ -32,6 +35,3 @@ Drop the base Boom Drop the base
 Drop the base Drop the base Drop the base !!!Break the base!!!
 ```
 
-### :bulb: Pista:
-
-+ Recuerda usar variables auxiliares

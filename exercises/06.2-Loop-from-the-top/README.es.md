@@ -6,9 +6,9 @@ Este loop o bucle está haciendo un bucle al arreglo o array de principio a fin 
 
 1. Intenta hacer un bucle desde el final hasta el principio.
 
-## 💡Pista
+## 💡 Pista:
 
-+ Recuerde que el ciclo funciona así: https://www.youtube.com/watch?v=TSMzvFwpE_A
++ Recuerde que un bucle funciona [así](https://www.youtube.com/watch?v=TSMzvFwpE_A)
 
 + La última posición del arreglo será `mySampleArray.length - 1` porque los arreglos comienzan en `0`
 

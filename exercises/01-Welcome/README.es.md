@@ -7,7 +7,7 @@ intro: https://www.youtube.com/watch?v=ooHdelGf0gI
 
 Practicaremos los bucles o loops en javascript hasta que te sientas cómodo con ellos.  
 
-Te recomendamos ver el siguiente ![video sbre loops o bucles](https://www.youtube.com/watch?v=U3ZlQSOcOI0) antes de empezar. Nos centraremos en:
+Te recomendamos ver el siguiente [video sobre loops o bucles](https://www.youtube.com/watch?v=U3ZlQSOcOI0) antes de empezar. Nos centraremos en:
 
 1. For loop.
 

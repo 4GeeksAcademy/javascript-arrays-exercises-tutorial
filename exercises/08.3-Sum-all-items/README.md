@@ -23,5 +23,5 @@ console.log(sumTheElements([2,13,34,5]))
 ### Expected result:
 
 ```js
-925960
+54
 ```

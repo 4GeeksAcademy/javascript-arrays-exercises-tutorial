@@ -2,7 +2,6 @@
 
 ## :pencil: Instrucciones:
 
-
 1. Usando un bucle (loop) `for`, completa el código de la función `sumTheElements` para que devuelva la suma de todos los elementos en un arreglo (array) dado, por ejemplo:
 
 ```js
@@ -23,5 +22,5 @@ console.log(sumTheElements([2,13,34,5]))
 ### Resultado esperado:
 
 ```js
- 925960
+54
 ```

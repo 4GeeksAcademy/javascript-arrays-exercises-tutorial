@@ -4,7 +4,7 @@ tutorial: https://www.youtube.com/watch?v=Dd2uXOwhTzY
 
 # `06.1` Loop an array
 
-In this exercise gaian you will be looping an array from scratch. If you need a refresher, please take 6 minutes to watch this video on [how to loop an array](https://www.youtube.com/watch?v=24Wpg6njlYI).
+In this exercise you will be looping an array from scratch. If you need a refresher, please take 6 minutes to watch this video on [how to loop an array](https://www.youtube.com/watch?v=24Wpg6njlYI).
 
 ## 📝Instructions:
 

@@ -1,6 +1,6 @@
 # `06.1` Haz un bucle (loop) a un array (recorre un array)
 
-Ok, esta es la primera vez que recorrer un loop desde cero, tómate 6 minutos para ver este video sobre  [cómo recorrer un arreglo](https://www.youtube.com/watch?v=24Wpg6njlYI).
+Ok, esta es la primera vez que vas a recorrer un loop o bucle desde cero, tómate 6 minutos para ver este video sobre  [cómo recorrer un arreglo](https://www.youtube.com/watch?v=24Wpg6njlYI).
 
 ## 📝Instrucciones:
 
