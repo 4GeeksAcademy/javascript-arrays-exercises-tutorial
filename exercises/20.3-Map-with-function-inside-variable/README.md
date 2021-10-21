@@ -23,4 +23,4 @@ The function stored in the variable `prepender` returns whatever is passed to it
 
 ### 💡 Hint:
 
-+ It's one line of code, pass the function to the map!
++ It's one line of code, pass the function to the `array.map()`!

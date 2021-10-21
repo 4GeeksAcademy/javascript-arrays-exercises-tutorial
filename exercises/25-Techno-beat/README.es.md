@@ -10,22 +10,23 @@ Estás trabajando con un DJ y él necesita un programa que pueda crear ritmos pa
 [0,0,1,1,0,0,0] 
 ```
 
-2. Por cada `0`, agrégale al string '`Boom'`.
+2. Por cada `0`, agrégale al string `'Boom'`.
 
 3. Por cada `1`, agrégale al string `'Drop the base'`.
 
-### Restricciones:
+## Restricciones:
 
-+ Si encuentra sel número Uno (1) tres veces seguidas, TAMBIÉN debes AGREGAR al string `¡¡¡Break the base!!!`
++ Si encuentras el número Uno (1) tres veces seguidas, TAMBIÉN debes AGREGAR al string `¡¡¡Break the base!!!`
 
-### Resultado esperado de la función:
+## Resultado esperado de la función:
 
 Un string que debe estar compuesto por Boom o Drop the base o `!!!Break the base!!!`
 
-### :bulb: Pista:
+## 💡 Pista:
 
 + Recuerda usar variables auxiliares
-### Resultado esperado:
+
+## Resultado esperado:
 
 ```js
 Boom Boom Drop the base Drop the base Boom Boom Boom

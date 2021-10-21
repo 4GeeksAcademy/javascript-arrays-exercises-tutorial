@@ -16,7 +16,7 @@ console.log(sumTheElements([2,13,34,5]))
 
 + Loop the entire array inside of the function.
 
-+ On every loop add the value of each item into the `total`. variable.
++ On every loop add the value of each item into the `total` variable.
 
 + Return the `total` variable (outside of the loop but inside of the function).
 

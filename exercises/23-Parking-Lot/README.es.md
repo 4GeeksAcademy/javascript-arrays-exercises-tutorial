@@ -18,7 +18,7 @@ parking_state = [
 
 ## 📝 Instrucciones:
 
-1. Crea una función `getParkingLotState()` que devuelva un objeto con `totalSlots`(cantidad total de estacionamientos), `availableSlots` (estacionamientos disponibles) y `occupiedSlots` (estacionamientos ocupados) de esta forma:
+1. Crea una función `getParkingLotState()` que devuelva un objeto con `totalSlots` (cantidad total de estacionamientos), `availableSlots` (estacionamientos disponibles) y `occupiedSlots` (estacionamientos ocupados) de esta forma:
 
 ```js
 const state = {

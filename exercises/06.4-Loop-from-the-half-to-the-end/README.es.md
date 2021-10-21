@@ -1,6 +1,6 @@
 # `06.4` Loop desde la mitad hasta el final
 
-Este bucle (loop) no está recorriendo el arreglo porque las variables `initialValue`, `stopValue` y`increasingValue` son iguales a cero.
+Este bucle (loop) no está recorriendo el arreglo porque las variables `initialValue`, `stopValue` y `increasingValue` son iguales a cero.
 
 ## 📝 Instrucciones:
 
