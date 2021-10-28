@@ -10,6 +10,6 @@ El código ahora imprime el primer elemento en la consola.
 
 ## 💡Pista:
 
-+ Recuerda que para acceder al valor de una posición debe usar el índice `(myArray [index]);`.
++ Recuerda que para acceder al valor de una posición debe usar el índice `(myArray [index])`.
 
 + [Aquí tienes un video genial](https://www.youtube.com/watch?v=24Wpg6njlYI) que explica cómo usar el bucle `for` para recorrer el loop de un arreglo o array.
