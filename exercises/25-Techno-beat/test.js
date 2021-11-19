@@ -20,38 +20,21 @@ test('console.log() function should have been called 5 times', function () {
     expect(console.log.mock.calls.length).toBe(5);
 });
 
-test('The output in the console should match the one in the instructions!', function () {
-    const _app = rewire('./app.js');
-    
-    function _lyricsGenerator(param){
-      let string = "";
-        for (let x =0; x < param.length; x++){
-          if (param[x] === 0){
-            string += "Boom "
-          }
-          else if (param[x] === 1){
-            string += "Drop the base "
-            if (param[x-1] === 1 && param[x-2] === 1){
-              string += '!!!Break the base!!! '
-            }
-          }
-        }
-      return string.trim()
-    }
+test('The functions returns the correct value when passing different parameters', function () {
+    const app = rewire('./app.js');
+    const lyricsGenerator = app.__get__('lyricsGenerator');
 
-    let _test1 = _lyricsGenerator([0,0,1,1,0,0,0])
-    let _test2 = _lyricsGenerator([0,0,1,1,1,0,0,0])
-    let _test3 = _lyricsGenerator([0,0,0])
-    let _test4 = _lyricsGenerator([1,0,1])
-    let _test5 = _lyricsGenerator([1,1,1])
+    let _test1 = lyricsGenerator([0,0,1,1,0,0,0]).trim()
+    let _test2 = lyricsGenerator([0,0,1,1,1,0,0,0]).trim()
+    let _test3 = lyricsGenerator([0,0,0]).trim()
+    let _test4 = lyricsGenerator([1,0,1]).trim()
+    let _test5 = lyricsGenerator([1,1,1]).trim()
+    let _test6 = lyricsGenerator([1,1,1,0,1,0,1]).trim()
 
-    expect(console.log).toHaveBeenCalledWith(_test1);
-    expect(console.log).toHaveBeenCalledWith(_test2);
-    expect(console.log).toHaveBeenCalledWith(_test3);
-    expect(console.log).toHaveBeenCalledWith(_test4);
-    expect(console.log).toHaveBeenCalledWith(_test5);
-  });
-
-
-
-
+    expect(_test1).toBe("Boom Boom Drop the base Drop the base Boom Boom Boom");
+    expect(_test2).toBe("Boom Boom Drop the base Drop the base Drop the base !!!Break the base!!! Boom Boom Boom");
+    expect(_test3).toBe("Boom Boom Boom");
+    expect(_test4).toBe("Drop the base Boom Drop the base");
+    expect(_test5).toBe("Drop the base Drop the base Drop the base !!!Break the base!!!");
+    expect(_test6).toBe("Drop the base Drop the base Drop the base !!!Break the base!!! Boom Drop the base Boom Drop the base");
+});

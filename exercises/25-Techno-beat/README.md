@@ -20,7 +20,7 @@ You are working with a DJ and he needs a program that can create a beats for his
 
 A string which should be comprise of Boom or Drop the base or `!!!Break the base!!!`
 
-### Excepted Output:
+### Expected Output:
 
 ```js
 Boom Boom Drop the base Drop the base Boom Boom Boom

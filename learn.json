@@ -1,5 +1,6 @@
 {
     "language": "node",
+    "slug": "javascript-arrays",
     "title": "Learn Javascript Arrays and Loops Interactive",
     "repository": "https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial",
     "preview": "https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial/blob/master/preview.png?raw=true",
@@ -10,7 +11,7 @@
     "graded": true,
     "config": {
         "editor": {
-            "version": "1.0.70"
+            "version": "1.0.71"
         }
     }
 }
