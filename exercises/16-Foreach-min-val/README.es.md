@@ -13,7 +13,6 @@ myArray.forEach(function(item, index, arr){
 ```
 ## 📝 Instrucciones:
 
-
 1. Utiliza la función `forEach` para obtener el valor mínimo del arreglo e imprimirlo en la consola.
 
 ### 💡 Pista:
