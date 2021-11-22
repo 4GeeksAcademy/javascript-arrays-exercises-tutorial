@@ -9,6 +9,7 @@ Como vivimos en un mundo nuevo, no debería haber colores ni etiquetas, ¿cierto
 ### 💡 Pista:
 
 + Tendrás que recorrer cada arreglo e insertar sus elementos en un nuevo arreglo.
+
 ### Resultado esperado:
 
 ```js
