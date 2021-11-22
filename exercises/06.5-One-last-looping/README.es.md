@@ -1,6 +1,5 @@
 # `06.5` Un último loop
 
-
 ## 📝 Instrucciones:
 
 1. Sin usar la función `array.reverse`, invierte el bucle (desde el final hasta el principio) todo el arreglo o array e imprime todos los elementos en la consola a medida que lo recorre.
