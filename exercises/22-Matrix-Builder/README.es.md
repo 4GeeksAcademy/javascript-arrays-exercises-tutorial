@@ -2,9 +2,9 @@
 
 Reconstruyendo coaliciones en la Matrix
 
-Después de un código malicioso, creado principalmente por el Sr. Smith, la matrix tiene un hueco enorme y necesita ayuda para reconstruirse. Crea una arreglo/matriz de 0  y 1 aleatorios basado en un parámetro.
+Después de un código malicioso, creado principalmente por el Sr. Smith, la matrix tiene un hueco enorme y necesita ayuda para reconstruirse. Crea una arreglo/matriz con 0s  y 1s aleatorios basado en un parámetro.
 
-## 📝 Instructions:
+## 📝 Instructiones:
 
 1. Crea una función llamada `matrixBuilder`, que esperará 1 parámetro (un entero). Este número representa la cantidad de filas y columnas para la matriz. Ejemplo: 5 significa que la matriz debe ser 5x5.
 
@@ -19,4 +19,4 @@ Después de un código malicioso, creado principalmente por el Sr. Smith, la mat
 ```
 
  
-**Recuerde que los 1 y 0 son aleatorios.**
+**Recuerde que los 1s y 0s son aleatorios.**

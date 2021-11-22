@@ -8,6 +8,10 @@ tutorial: https://www.youtube.com/watch?v=6eLXV_IL2m0
 
 1. Count from `7` to `12` with a loop and print each number on the console.
 
+## 💡 Hint:
+
+You have to loop from `7` to `12` (including `12`).
+
 ## Expected result:
 
 ```js
@@ -18,9 +22,4 @@ tutorial: https://www.youtube.com/watch?v=6eLXV_IL2m0
 11
 12
 ```
-## 💡 Hint:
-
-You have to loop from `7` to `12` (including `12`).
-
-
 

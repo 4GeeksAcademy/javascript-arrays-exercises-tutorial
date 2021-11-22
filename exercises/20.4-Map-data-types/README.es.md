@@ -4,14 +4,14 @@ Algunas veces los arreglos vienen con valores mixtos y debes unificarlos en un s
 
 ## 📝 Instrucciones:
 
-1. Actualiza la función `map` para que cree un nuevo arreglo que contenga los tipos de datos de cada elemento correspondiente al arreglo original.
+1. Actualiza la función `array.map()` para que cree un nuevo arreglo que contenga los tipos de datos de cada elemento correspondiente al arreglo original.
 
-### Resultado esperado:
+## 💡 Pista:
+
++ Usa la función `typeof` para obtener el tipo de datos
+
+## Resultado esperado:
 
 ```js
 [string,string,... ,number,string,...]
 ```
-
-### 💡 Pista:
-
-+ Usa la función `typeof` para obtener el tipo de datos

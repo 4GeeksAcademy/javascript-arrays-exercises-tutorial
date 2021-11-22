@@ -10,7 +10,6 @@ myArray.forEach(function(item, index, arr){
 //arr será el array al cual pertenece el elemento.
 });
 
-
 ```
 ## 📝 Instrucciones:
 
@@ -27,6 +26,7 @@ myArray.forEach(function(item, index, arr){
 - Fuera del bucle, una vez finalizado el bucle, imprima el valor auxiliar.
 
 ### Resultado esperado:
+
 ```js
 23
 ```

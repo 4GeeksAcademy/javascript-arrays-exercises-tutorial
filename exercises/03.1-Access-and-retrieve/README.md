@@ -35,5 +35,5 @@ To access any item within the array you need to know its index (position). The i
 
 ### :bulb: Hint:
 
- + Use `null` as a value and not `null` as a string.
+ + Use `null` as a value and not as a string.
 

@@ -6,12 +6,6 @@
 
 2. Print that array on the console.
 
-### Expected result:
-
-```js
-[ 'woko',   'wiki',   'woko',   'woko',   'wiki',   'wiki',   'wiki',   'woko',   'woko',   'wiki',   'woko',   'wiki',   'wiki',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'wiki',   'woko',   'woko',   'woko',   'woko',   'wiki' ]
-```
-
 ## 💡 Hint:
 
 + You need to map the entire array
@@ -21,3 +15,9 @@
 + If the current value is `1` you print the string `wiki`.
 
 + If the current value is `0` you print the string `woko`.
+
+### Expected result:
+
+```js
+[ 'woko',   'wiki',   'woko',   'woko',   'wiki',   'wiki',   'wiki',   'woko',   'woko',   'wiki',   'woko',   'wiki',   'wiki',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'wiki',   'woko',   'woko',   'woko',   'woko',   'wiki' ]
+```

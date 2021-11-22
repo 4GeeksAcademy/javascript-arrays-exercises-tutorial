@@ -1,6 +1,6 @@
 # `21` Filter an Array
 
-Another amazing function for arrays is `filter`. 
+Another amazing function for arrays is `array.filter()`. 
 It loops the entire original array and only returns the values that match a particular condition.
 
 [Here is the documentation of the `filter` function in w3school](https://www.w3schools.com/jsref/jsref_filter.asp)
@@ -25,6 +25,4 @@ console.log(onlyOdds);
 
 ## 💡 Hint:
 
-+ Here is a 2:29 min video explaining `array.filter` function:
-
-https://www.youtube.com/watch?v=0qsFDFC2oEE
++ Here is a 2:29 min video explaining [`array.filter` function](https://www.youtube.com/watch?v=0qsFDFC2oEE)

@@ -1,4 +1,4 @@
-# `07.1` Encuentra a Wally :smile:
+# `07.1` Encuentra a Waldo (Wally) :smile:
 ![Finding Waldo](../../.learn/assets/finding_waldo.jpeg)
 
 ¿Alguna vez has jugado a encontrar a Waldo (o Wally)? Solía jugar mucho cuando era pequeño, este ejercicio es una versión digital de encontrar a Waldo.
