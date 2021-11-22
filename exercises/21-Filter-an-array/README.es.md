@@ -1,4 +1,4 @@
-# `21` Usando `Filter`en un Array
+# `21` Filter an Array
 
 Otra función sorprendente para los arreglos o arrays es `array.filter()` (filtrar). Recorre toda el arreglo original y solo devuelve los valores que coinciden con una condición particular.
 
