@@ -9,6 +9,7 @@ Esa funcion **callback** (de retorno) se llama `array.filter()` que acepta hasta
 ```js
 (elementBeingIterated, indexOfThatElement, theIteratedArray) => condition;
 ```
+
 Asi que quieres quedarte solo con los números 2 y 4 del array o arreglo de números, tu método `array.filter()` se vería de esta forma:
 
 ```js
@@ -18,7 +19,7 @@ let newArray = array.filter((element) => element === 2 || element === 4);
 console.log(newArray); // resultado es [2, 4, 2, 4]
 ```
 
-El método `array.filter()` automáticamente crea un nuevo array o arreglo (`newArray`) en el cuales solo están los elementos que cumplan con la condición. El resto de los elements quedan fuera del `newArray`.  
+El método `array.filter()` automáticamente crea un nuevo array o arreglo (`newArray`) en el cual solo están los elementos que cumplan con la condición. El resto de los elements quedan fuera del `newArray`.  
 
 Puedes aprender más sobre este método [aquí](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 
