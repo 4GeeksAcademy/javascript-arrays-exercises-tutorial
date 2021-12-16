@@ -26,7 +26,7 @@ test('console.log() function should have been called 3 times', function () {
 test('The output in the console should match the one in the instructions!', function () {
     const _app = rewire('./app.js');
     
-    var _people = ['juan','ana','michelle','daniella','stefany','lucy','barak'];
+    var _people = ['juan','ana','michelle','daniella','stefany','lucy','barak','emilio'];
 
     function _deletePerson(personName)
     {
