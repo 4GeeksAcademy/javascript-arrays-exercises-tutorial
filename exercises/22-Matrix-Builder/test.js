@@ -14,11 +14,6 @@ test("You should create a function named matrixBuilder.", function(){
   expect(myFunc).toBeTruthy();
 });
 
-test('You have to use the console.log function to print the correct output.', function () {
-    const app = require('./app.js');
-    expect(console.log.mock.calls.length > 0).toBe(true);
-});
-
 test('The matrix should have the ammount of rows and columns required as parameter.', function () {
     const file = rewire("./app.js");
     const myFunc = file.__get__('matrixBuilder');
