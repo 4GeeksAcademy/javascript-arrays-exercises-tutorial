@@ -9,7 +9,7 @@ The current algorithm creates an array with only the names of the people and pri
 1. Please update the mapping function so it creates an array where each item contains the following:
 
 ```js
-Hello my name is Joe and I am 13 years old.
+Hello, my name is Joe and I am 13 years old
 ```
 
 ## 💡 Hint:
