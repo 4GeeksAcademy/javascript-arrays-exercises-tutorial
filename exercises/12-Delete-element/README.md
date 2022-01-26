@@ -25,9 +25,10 @@ You can learn more about this method [here](https://www.w3schools.com/jsref/jsre
 
 ## Instructions:
 
-1. Please create a `deletePerson` function that deletes any given person from an array and returns a new array without that person.
+1. Please create a `deletePerson` function that "deletes" any given person from an array and returns a new array without that person.
 
-### Expected result:
+
+## Expected result:
 
  ```js 
 ['juan', 'ana', 'michelle', 'stefany', 'lucy', 'barak', 'emilio']
