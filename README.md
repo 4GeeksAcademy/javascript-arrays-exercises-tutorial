@@ -57,7 +57,7 @@ Note: The exercises have automatic grading but its very rigid and string, my rec
 
 Each exercise is a small react application containing the following files:
 
-1. **app.js:** represents the entry python file that will be executed by the computer.
+1. **app.js:** represents the entry Javascript file that will be executed by the computer.
 2. **README.md:** contains exercise instructions.
 3. **test.js:** you don't have to open this file, it contains the testing script for the exercise.
 

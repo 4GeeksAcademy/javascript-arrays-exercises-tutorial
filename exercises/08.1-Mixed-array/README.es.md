@@ -2,7 +2,7 @@
 
 ## :pencil: Instrucciones: 
  
-1. Escribe una función que imprima automáticamente en la consola los tipos de valores que contiene el array en cada posición.
+1. Escribe una función que imprima un arreglo en la consola que contenga los tipos de valores (data-types) que contiene el array `mix` en cada posición.
 
 ### Resultado esperado:
 

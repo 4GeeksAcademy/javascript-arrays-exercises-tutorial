@@ -32,7 +32,7 @@ The current loop is looping from zero to ten,
 17
 ```
 
-## 💡Hint:
+## 💡 Hint:
 
 + You have to loop from 1 to 17 (not from 0 to 17).
 

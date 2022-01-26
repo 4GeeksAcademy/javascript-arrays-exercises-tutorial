@@ -4,7 +4,7 @@ Este código está reproduciendo todo el conjunto, uno por uno, e imprime los el
 
 ## 📝 Instrucciones:
 
-1. Cambie el bucle para que se repita de dos en dos en lugar de uno por uno.
+1. Cambia el bucle para que se repita de dos en dos en lugar de uno por uno.
 
 ## Resultado esperado:
 

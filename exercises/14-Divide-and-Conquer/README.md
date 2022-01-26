@@ -10,11 +10,12 @@
 
 4. If the number is even number push it to a placeholder array named `even`.
 
-5. Then concatenate the `odd` array to the `even` array, combine them and have the function return one single array.
+5. Then add the `even` array to the `odd` array, and have the function return them as one single array.
 
-> Remember, the `odd` array comes first and you have to append the `even`.
+> Remember, the `odd` array comes first and you have to append the `even` array to it. Use the `.push()` method.  
 
-Ejemplo:
+
+Example:
 
 ```js
 mergeTwoList([1,2,33,10,20,4])
@@ -25,4 +26,4 @@ mergeTwoList([1,2,33,10,20,4])
 
 ### 💡 Hint:
 
-+ Create empty(placeholder) variables when you need to store data.
++ Create local empty ***placeholder*** or ***auxiliary*** variables when you need to store data in a function.

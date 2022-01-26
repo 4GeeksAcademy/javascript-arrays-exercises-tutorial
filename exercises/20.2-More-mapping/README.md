@@ -1,7 +1,6 @@
 # `20.2` More Mapping
 
-The `array.map` method calls a function for each value in an array and 
-then outputs a new array with the modified values. 
+The `array.map()` method calls a function for each value in an array and then outputs a new array with the modified values. 
 
 ```js
 incrementByOne = function (number) {
@@ -17,7 +16,7 @@ myArray.map(incrementByOne); //returns [2, 3, 4, 5]
 
 1. Create a function named `myFunction` that will multiply each number by 3. 
 
-2. Use the `array.map` function to run the `myFunction` function through each value in the array. 
+2. Use the `array.map()` function to run the `myFunction` function through each value in the array. 
 
 3. Store the new array in a variable named `newArray` and `console.log()` the new array. 
 

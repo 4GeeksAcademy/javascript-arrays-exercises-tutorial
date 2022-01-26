@@ -7,7 +7,6 @@ Debes envolver el índice entre corchetes de esta manera:
 ```js
 var myValue = array[index];
 ```
-
 ## 📝 Instrucciones
 
 1. Imprima en la consola el 1er elemento de array o arreglo.

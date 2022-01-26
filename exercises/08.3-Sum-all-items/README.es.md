@@ -2,20 +2,14 @@
 
 ## :pencil: Instrucciones:
 
-
-1. Usando un bucle (loop) `for`, completa el código de la función `sumTheElements` para que devuelva la suma de todos los elementos en un arregloarrayy dado, por ejemplo:
+1. Usando un bucle (loop) `for`, completa el código de la función `sumTheElements` para que devuelva la suma de todos los elementos en un arreglo (array) dado, por ejemplo:
 
 ```js
 console.log(sumTheElements([2,13,34,5]))
 //el resultado debiese ser 54
 ```
 
-### Resultado esperado:
-```js
- 925960
-````
-
-# :bulb: Pista:
+## :bulb: Pista:
 
 + Inicializa una variable `total` en 0.
 
@@ -24,3 +18,9 @@ console.log(sumTheElements([2,13,34,5]))
 + En cada bucle, agrega el valor de cada elemento en la variable `total`.
 
 + Devuelve la variable `total` (fuera del bucle pero dentro de la función).
+
+### Resultado esperado:
+
+```js
+54
+```

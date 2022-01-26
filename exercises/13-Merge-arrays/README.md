@@ -10,12 +10,13 @@ In this exercise we will learn how to combine two arrays.
 2. Be sure not to create an array with two nested arrays. It should be a single array with all the names in their original order.
 3. Find out why you souldn't use the `.push()` method? 
 
+## 💡 Hint:
 
++ You will have to loop through each array and insert their items into a new array.
 
-### Expected result:
+## Expected result:
 
 ```js
-
  ['Lebron', 'Aaliyah', 'Diamond', 'Dominique', 'Aliyah', 'Jazmin', 'Darnell', 'Lucas', 'Jake', 'Scott', 'Amy', 'Molly', 'Hannah', 'Lucas']
 ```
 

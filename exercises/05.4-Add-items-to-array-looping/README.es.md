@@ -1,4 +1,4 @@
-# `05.3` Loop y añade Items al Array
+# `05.4` Loop y añade Items al Array
 
 ## 📝 Instrucciones:
 

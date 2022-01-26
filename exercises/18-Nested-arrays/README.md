@@ -15,7 +15,6 @@ var longitude = coordinatesArray[0][1];
 
 1. Loop through the array printing only the longitudes.
 
-
 ### Expected Result:
 
 ```js

@@ -12,8 +12,6 @@ myArray.forEach(function(item, index){
 //arr will be the array object to which the element belongs to. 
 });
 
-
-
 ```
 
 
@@ -33,6 +31,7 @@ myArray.forEach(function(item, index){
 
 
 ### Expected result:
+
 ```js
  23
  ```

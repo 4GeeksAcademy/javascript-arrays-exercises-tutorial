@@ -1,6 +1,5 @@
 # `07.3` Invierte el Array
  
-
 ## :pencil: Instrucciones: 
  
 1. Usando un bucle `for`, invierte el arreglo o array `arr` e imprime el nuevo arreglo o array en la consola.

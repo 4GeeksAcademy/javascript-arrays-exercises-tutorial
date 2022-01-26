@@ -9,7 +9,7 @@ The current algorithm creates an array with only the names of the people and pri
 1. Please update the mapping function so it creates an array where each item contains the following:
 
 ```js
-Hello my name is Joe and I am 13 years old.
+Hello, my name is Joe and I am 13 years old
 ```
 
 ## 💡 Hint:
@@ -20,7 +20,7 @@ Hello my name is Joe and I am 13 years old.
 
 + Inside your simplifier function you have to return a concatenation.
 
-### Expected result:
+## Expected result:
 
 ```js
 [ 'Hello, my name is Joe and I am 32 years old',
