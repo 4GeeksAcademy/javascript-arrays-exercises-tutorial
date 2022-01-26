@@ -1,10 +1,10 @@
 # `13` Uniendo arrays:
 
-Como vivimos en un mundo nuevo, no debería haber colores ni etiquetas, ¿cierto?
+En este ejercicio vamos a combinar dos arreglos programaticamente.
 
 ## 📝Instrucciones:
 
-1. Escribe una función que combine dos arreglos y retorne un único arreglo nuevo que combine todos los valores de ambos arreglos.
+Escribe una función que combine dos arreglos y retorne un único arreglo nuevo que combine todos los valores de ambos arreglos en un solo arreglo.
 
 ### 💡 Pista:
 
