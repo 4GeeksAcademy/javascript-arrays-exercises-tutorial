@@ -26,6 +26,7 @@ Puedes aprender más sobre este método [aquí](https://developer.mozilla.org/es
 ## 📝Instrucciones:
 
 1. Crea una función `deletePerson` que "elimine" a cualquier persona del arreglo y devuelva un nuevo arreglo sin esa persona.
+
 ## Resultado esperado:
 
  ```js
