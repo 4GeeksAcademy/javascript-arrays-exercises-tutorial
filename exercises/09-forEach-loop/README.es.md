@@ -23,4 +23,6 @@ En este momento, el código está imprimiendo todos los elementos en el arreglo 
 
 ## :bulb: Pista:
 
-+ Un número X es divisible por 2 si `(X%2===0)`.
++ Un número X es divisible por 2 si `(X%2===0)`
+
++ Este video puede ayudarte a comprender mejor el [loop forEach](https://www.loom.com/share/bb0aa485cc334afbb8ff6ef1d9c6ac5b) 

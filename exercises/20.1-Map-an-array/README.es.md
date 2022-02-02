@@ -33,3 +33,5 @@ Copia y pega el código dentro del editor de código para probarlo si quieres.
 + Aquí hay un video de 3:40 min que explica la función del map:
 
 https://www.youtube.com/watch?v=hfYa4ugeyuc&t=32s
+
++ Este video puede ayudarte a comprender mejor [la función map](https://www.loom.com/share/bb0aa485cc334afbb8ff6ef1d9c6ac5b) 

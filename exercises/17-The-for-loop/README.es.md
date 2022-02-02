@@ -17,6 +17,7 @@ for (var index in myArray){
 ### 💡 Pista:
 + Para imprimir el promedio, debes sumar todos los valores y dividir el resultado por la longitud  (length) total del arreglo.
 
++ Este video puede ayudarte a comprender mejor el [loop for](https://www.loom.com/share/bb0aa485cc334afbb8ff6ef1d9c6ac5b) 
 ### Resultado esperado:
 
 ```js
