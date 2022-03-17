@@ -1,14 +1,17 @@
 # `08.3` Sum All Items
 
-## :pencil: Instructions:
+## 📝 Instructions:
 
-Using a `for` loop, complete the code of the function `sumTheElements` so that it returns the sum of all the items in a given array, for example:
+Using a `for` loop, complete the code of the function `sumTheElements` so that it returns the sum of all the items in a given array.
+
+## Example:
 
 ```js
 console.log(sumTheElements([2,13,34,5]))
 //this should print 54
 ```
-## :bulb: Hint:
+
+## 💡 Hints:
 
 + Initilize a variable `total` at 0.
 
@@ -20,8 +23,3 @@ console.log(sumTheElements([2,13,34,5]))
 
 + Return the `total` variable (outside of the loop but inside of the function).
 
-### Expected result:
-
-```js
-54
-```

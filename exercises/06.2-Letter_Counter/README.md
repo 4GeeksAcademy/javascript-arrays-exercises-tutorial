@@ -4,23 +4,23 @@ tutorial: https://www.youtube.com/watch?v=oLTidCuisew
 
 ---
 
-# `07.2` Letter Counter
+# `06.2` Letter Counter
 
-Our customer needs a program that counts the number of occurences of each letter in a given string. I know that's weird, but they are very adamant. We need this asap! 
+Our customer needs a program that counts the number of occurences of each letter in a given string. I know that's weird, but he is very adamant. We need this asap! 
 
-## :pencil: Instructions:
+## 📝 Instructions:
 
 1. Create an object were the letters are the properties and the values are the number of times that letter is repeated throughout the string. 
 
-For example:
+## Example:
 
 ```js
 const word = "Hello World";
 
-// La consola debe imprimir { h: 1, e: 1, l: 3, o: 2, w: 1, r: 1, d: 1 }
+// The console should print { h: 1, e: 1, l: 3, o: 2, w: 1, r: 1, d: 1 }
 ```
 
-## :bulb: Hint
+## 💡 Hint
 
 + Loop the entire string.
 

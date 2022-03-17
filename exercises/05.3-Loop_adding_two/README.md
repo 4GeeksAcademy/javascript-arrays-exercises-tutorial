@@ -2,7 +2,7 @@
 tutorial: https://www.youtube.com/watch?v=VpXGQbY6UFs
 ---
 
-# `06.3`  Loop adding two
+# `05.3`  Loop adding two
 
 This code is looping the whole array, one by one, and printing the items on the console.
 

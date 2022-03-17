@@ -1,8 +1,8 @@
-# `08.2` Count On
+# `07.2` Count On
 
 As you saw in the last exercise your array can be a mix of data types.
 
-## :pencil: Instructions:
+## 📝Instructions:
 
 1. Add all the items with data type 'object' into the `hello` array.
 
@@ -17,7 +17,7 @@ for(let index = 0; index < myArray.length; index++){
 }
 ```
 
-## :bulb: Hint:
+## 💡 Hints:
 
 + Loop the given array.
 

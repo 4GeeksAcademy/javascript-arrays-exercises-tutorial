@@ -1,4 +1,4 @@
-# `06.4` Loop desde la mitad hasta el final
+# `05.4` Loop from the half to the end
 
 Este bucle (loop) no está recorriendo el arreglo porque las variables `initialValue`, `stopValue` y `increasingValue` son iguales a cero.
 
@@ -6,11 +6,7 @@ Este bucle (loop) no está recorriendo el arreglo porque las variables `initialV
 
 1. Cambia el valor de esas variables para que el bucle imprima solo la última mitad del arreglo.
 
-### :bulb: Pista:
-
-¡Solo cambia el valor de esas 3 variables!
-
-### Resultado esperado:
+## Resultado esperado:
 
 ```js
 23
@@ -21,3 +17,8 @@ Este bucle (loop) no está recorriendo el arreglo porque las variables `initialV
 25
 12
 ```
+
+## 💡 Pista:
+
++ ¡Solo cambia el valor de esas 3 variables!
+

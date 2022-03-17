@@ -10,11 +10,7 @@ This loop is not looping at all... because the variables `initialValue`, `stopVa
 
 1. Change the value of those variables to make the loop print only the last half of the array.
 
-### :bulb: Hint:
-
-+ Change nothing but the value of those 3 variables!
-
-### Expected result:
+## Expected result:
 
 ```js
 23
@@ -25,3 +21,8 @@ This loop is not looping at all... because the variables `initialValue`, `stopVa
 25
 12
 ```
+
+## 💡 Hint:
+
++ Change nothing but the value of those 3 variables!
+

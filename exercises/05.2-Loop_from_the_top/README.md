@@ -2,7 +2,7 @@
 tutorial: https://www.youtube.com/watch?v=IX2m3SWq7tg
 ---
 
-# `06.2` Loop from the top
+# `05.2` Loop from the top
 
 This loop is looping the array from beginning to end... increasing one by one.
 
@@ -12,9 +12,21 @@ This loop is looping the array from beginning to end... increasing one by one.
 
 ## Expected result:
 
-![image](../../.learn/assets/06.2.png)
+```js
+12
+25
+23
+55
+56432
+48
+23
+867543
+8
+654
+47889
+```
 
-## 💡 Hint:
+## 💡 Hints:
 
 + Remember the loop works like [this](https://www.youtube.com/watch?v=TSMzvFwpE_A)
 

@@ -1,8 +1,8 @@
-# `08.2` Count On
+# `07.2` Count On
   
-Como viste en el último ejercicio, tu arreglo o array puede tener una mezcla de tipos de datos.
+Como viste en el último ejercicio, tu array o array puede tener una mezcla de tipos de datos.
 
-## :pencil: Instrucciones
+## 📝 Instrucciones
 
 1. Agrega todos los elementos con tipo de dato objeto dentro del array `hello`.
 
@@ -17,12 +17,12 @@ for(let index = 0; index < myArray.length; index++){
 }
 ```
 
-## :bulb: Pista
+## 💡 Pistas:
 
 + Recorre el array dado con un loop.
 
 + Agrega una condición dentro del bucle(loop) que verifique que el elemento sea un objeto.
 
-+ Si el elemento es un objeto, se agrega al arreglo `hello`.
++ Si el elemento es un objeto, se agrega al array `hello`.
 
 + Usa `console.log()`para imprimir el array `hello` en la consola.

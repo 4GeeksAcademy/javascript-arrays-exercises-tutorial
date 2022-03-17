@@ -1,4 +1,4 @@
-# `06.3`  Loop de dos en dos
+# `05.3` Loop adding two
 
 Este código está reproduciendo todo el conjunto, uno por uno, e imprime los elementos en la consola.
 
