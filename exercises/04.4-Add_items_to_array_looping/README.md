@@ -2,13 +2,13 @@
 tutorial: https://www.youtube.com/watch?v=QLnkSPNTgNo
 ---
 
-# `05.4` Loop and add items to array by looping
+# `04.4` Loop and add items to array by looping
 
 ## 📝 Instructions:
 
 1. Add 10 random integers to the `arr` list and print the array on the console.
 
-## 💡 Hint:
+## 💡 Hints:
 
 + You can google "How to loop 10 times in javascript".
 

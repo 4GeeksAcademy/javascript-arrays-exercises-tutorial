@@ -1,4 +1,4 @@
-# `05.1` Loop del uno al diecisiete
+# `04.1`  Loop from one to seventeen
 
 El loop (bucle) actual se repite del cero a diez, 
 
@@ -6,9 +6,9 @@ El loop (bucle) actual se repite del cero a diez,
 
 1. Por favor, haz un loop de 1 a 17.
 
-### Resultado esperado:
+## Ejemplo de salida:
 
-```bash
+```js
 1
 2
 3
@@ -28,11 +28,8 @@ El loop (bucle) actual se repite del cero a diez,
 17
 ```
 
-## 💡Pista:
+## 💡 Pista:
 
 + Tienes que recorrer del 1 al 17 (no del 0 al 17).
 
 + Aquí esta un [video de 2 min explicando como hacer un loop](https://www.youtube.com/watch?v=s9wW2PpJsmQ).
-
-
-

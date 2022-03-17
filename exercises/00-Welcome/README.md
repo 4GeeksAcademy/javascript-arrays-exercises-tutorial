@@ -27,6 +27,7 @@ Click `next →` when you are ready to start the exercises.
 
 ***
 If you need to go to a specific exercise you may select the top menu
+
 <p align="center">
   <img src="./menu.png">
 </p>

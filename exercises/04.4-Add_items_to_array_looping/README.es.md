@@ -1,10 +1,10 @@
-# `05.4` Loop y añade Items al Array
+# `04.4` Loop and add items to array by looping
 
 ## 📝 Instrucciones:
 
 1. Agrega 10 enteros aleatorios a la lista `arr` e imprime el array o arreglo en la consola.
 
-## 💡 Pista:
+## 💡 Pistas:
 
 + Puedes buscar en Google "Cómo hacer un bucle 10 veces en javascript".
 

@@ -28,6 +28,7 @@ Haga click en `next →` cuando estés listo para iniciar los ejercicios.
 
 ***
 Si necesitas ir a un ejercicio en particular puedes seleccionar en el menu superior.
+
 <p align="center">
   <img src="./menu.png">
 </p>
