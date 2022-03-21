@@ -1,10 +1,10 @@
-# `21.2` Filtra las tareas hechas
+# `20.2` Filtra las tareas hechas
 
 ## 📝 Instrucciones:
 
-1. Usa la función `filter` para eliminar todas las tareas sin hacer del arreglo `tasks` e imprime el nuevo arreglo en la consola.
+1. Usa la función `array.filter()` para eliminar todas las tareas sin hacer del array `tasks` e imprime el nuevo array en la consola.
 
-### Resultado esperado:
+## Resultado esperado:
 
 ```js
 [ { label: 'Eat my lunch', done: true },

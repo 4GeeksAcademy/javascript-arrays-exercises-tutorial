@@ -1,6 +1,6 @@
-# `23` Estacionamiento (Parking lot)
+# `22` Parking lot
 
-Podemos usar un arreglo bidimensional (matriz) para representar el estado actual de un estacionamiento así:
+Podemos usar un array bidimensional (matriz) para representar el estado actual de un estacionamiento así:
 
 
 ![Parking Lot BreatheCode](../../.learn/assets/23.png)
@@ -30,4 +30,4 @@ const state = {
 
 ## 💡 Pista:
 
-+ Tienes que hacer un bucle anidado
++ Tienes que hacer un loop o bucle anidado

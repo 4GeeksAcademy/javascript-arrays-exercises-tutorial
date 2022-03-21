@@ -1,14 +1,14 @@
-# `20.3` Map con una función dentro de una variable
+# `19.3` Map with function inside a variable
 
-Los `names` de las variables contienen muchos nombres (obviamente...)
+Los nombres de las variables contienen muchos nombres (obviamente...)
 
 La función almacenada en la variable `prepender` devuelve todo lo que se le pasa pero anteponiendo el string: `'My name is:'`
 
 ## 📝 Instrucciones:
 
-1. Usa el método `map` con la función `prepender` para crear un nuevo arreglo que se vea así:
+1. Usa el método `array.map()` con la función `prepender()` para crear un nuevo array que se vea así:
 
-### Resultado esperado:
+## Resultado esperado:
 
 ```js
 [   'My name is: Alice',
@@ -20,7 +20,6 @@ La función almacenada en la variable `prepender` devuelve todo lo que se le pas
     'My name is: Dylan' ]
 ```
 
+## 💡 Pista:
 
-### 💡 Pista:
-
-Es una línea de código, ¡pasa la función a `array.map()`!
++ Es solo una línea de código, ¡pasa la función a `array.map()`!

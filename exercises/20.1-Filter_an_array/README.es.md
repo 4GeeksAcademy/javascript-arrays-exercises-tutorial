@@ -1,10 +1,12 @@
-# `21` Filter an Array
+# `20.1` Filter an Array
 
-Otra función sorprendente para los arreglos o arrays es `array.filter()` (filtrar). Recorre toda el arreglo original y solo devuelve los valores que coinciden con una condición particular.
+Otra función sorprendente para los arrays o arrays es `array.filter()` (filtrar). Recorre toda el array original y solo devuelve los valores que coinciden con una condición particular.
 
 [Aquí está la documentación de la función `filter` en w3school](https://www.w3schools.com/jsref/jsref_filter.asp)
 
-Por ejemplo, este algoritmo filtra el arreglo `allNumbers` y devuelve un nuevo arreglo con solo los números impares:
+## Ejemplo:
+
+Por ejemplo, este algoritmo filtra el array `allNumbers` y devuelve un nuevo array con solo los números impares:
 
 ```js
 var allNumbers = [23,12,35,5,3,2,3,54,3,21,534,23,42,1];
@@ -18,7 +20,7 @@ console.log(onlyOdds);
 
 ## 📝 Instrucciones:
 
-1. Completa el código para que llene el arreglo `resultingNames` con solo los nombres que comienzan con la letra R.
+1. Completa el código para que llene el array `resultingNames` con solo los nombres que comienzan con la letra R.
 
 2. Usa la función `array.filter()`.
 

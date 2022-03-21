@@ -1,4 +1,4 @@
-# `23` Parking Lot
+# `22` Parking Lot
 
 We can use a 2 dimensional array (matrix) to represent the current state of a parking lot like this:
 
@@ -15,6 +15,7 @@ parking_state = [
   [1,0,1,1,0,1],
 ]
 ```
+
 ## 📝 Instructions:
 
 1. Create a function `getParkingLotState()` that returns an object with `totalSlots`, `availableSlots` and `occupiedSlots` like the following:
@@ -26,6 +27,7 @@ const state = {
      occupiedSlots: 9
 }
 ```
+
 ## 💡 Hint:
 
-+ You have to do a nested loop
++ You have to do a nested loop.

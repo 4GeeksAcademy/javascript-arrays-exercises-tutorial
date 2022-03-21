@@ -1,6 +1,8 @@
-# `20.2` More Mapping
+# `29.2` More Mapping
 
 The `array.map()` method calls a function for each value in an array and then outputs a new array with the modified values. 
+
+## Example:
 
 ```js
 incrementByOne = function (number) {
@@ -20,7 +22,7 @@ myArray.map(incrementByOne); //returns [2, 3, 4, 5]
 
 3. Store the new array in a variable named `newArray` and `console.log()` the new array. 
 
-## 💡 Hint:
+## 💡 Hints:
 
 + The function will take a parameter with the original item being transformed and added into the new array.
 

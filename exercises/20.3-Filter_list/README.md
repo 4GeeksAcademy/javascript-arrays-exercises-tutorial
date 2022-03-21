@@ -1,4 +1,4 @@
-# `21.3` Filter Array of Strings
+# `20.3` Filter Array of Strings
 
 ## 📝 Instructions:
 
