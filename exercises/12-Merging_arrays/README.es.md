@@ -20,7 +20,7 @@ Asegúrate de no crear un array con dos arrys anidados. Debe ser un solo array c
 
 + Averigua por qué no deberías usar el método `.push()`
 
-+ Puedes encontrar más información sobre las diferentes formas de combinar arrays [aquí] (https://dmitripavlutin.com/javascript-merge-arrays/)
++ Puedes encontrar más información sobre las diferentes formas de combinar arrays [aquí](https://dmitripavlutin.com/javascript-merge-arrays/)
 
 + Si tienes dificultades para evitar obtener un array anidado, dale un vistazo al concepto de JS [spread operator](https://www.educative.io/edpresso/what-is-the-spread-operator-in-javascript)
 

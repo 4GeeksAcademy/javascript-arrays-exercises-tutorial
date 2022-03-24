@@ -1,6 +1,6 @@
 # `15` Minimum integer:
 
-Es posible recorrero una array usando la función `array.forEach`. Debes especificar qué hacer en cada iteración del bucle.
+Es posible recorrero una array usando la función `array.forEach()`. Debes especificar qué hacer en cada iteración del bucle.
 
 ```js
 myArray.forEach(function(item, index, arr){

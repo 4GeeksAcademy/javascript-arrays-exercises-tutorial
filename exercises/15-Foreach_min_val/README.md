@@ -1,7 +1,7 @@
 
 # `15` Minimum integer:
 
-It is possible to traverse an array using the `array.forEach` function. You have to specify what to do on each iteration of the loop.
+It is possible to traverse an array using the `array.forEach()` function. You have to specify what to do on each iteration of the loop.
 
 ```js
 myArray.forEach(function(item, index){
