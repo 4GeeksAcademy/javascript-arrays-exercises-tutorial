@@ -11,6 +11,8 @@
 
 Dozens of looping exercises to sharpen your looping skills with for, forEach, map, filter, looping a dictionary, looping bidimentional arrays, adding conditions to loops, finding an element, and more!
 
+#### Before you start... Some relatives tutorials:
+
 1. [Javascript for Beginners](https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial)
 2. [Looping with Javascript](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial) ← your are here now 🔥
 3. [Javascript Functions](https://github.com/4GeeksAcademy/javascript-functions-exercises-tutorial)
@@ -21,10 +23,9 @@ We need you! These exercises are built and maintained in collaboration with cont
   <img src="https://raw.githubusercontent.com/4GeeksAcademy/react-exercises/master/preview.gif">
 </p>
 
-<h2>One click installation:</h2>
+## >One click installation:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial.git)
-
 
 ## Local Installation
 
