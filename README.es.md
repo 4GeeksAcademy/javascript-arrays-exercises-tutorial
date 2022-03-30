@@ -11,10 +11,12 @@
 
 ¡Docenas de ejercicios de loops para mejorar tus habilidades de loop con for, forEach, mapear, filtrar, hacer un loop a un diccionario, hacer un loop en  arrays bidimensionales, agregar condiciones a los loops, encontrar un elemento y más!
 
-1. [Javascript para Principiantes](https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial)
-2. [Looping con Javascript](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial) ← estas aquí 🔥
-3. [Funciones de Javascript ](https://github.com/4GeeksAcademy/javascript-functions-exercises-tutorial)
-
+<ol>
+  <li><a href="https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial">Javascript para Principiantes</a></li>
+  <li><a href="https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial">Looping con Javascript</a>← Estás aquí</li>
+  <li><a href="https://github.com/4GeeksAcademy/javascript-functions-exercises-tutorial">Funciones de Javascript </a></li>
+  <li><a href="(https://github.com/4GeeksAcademy/master-javascript-programming-exercises">Master Javascripts</a></li>
+</ol>
 ¡Te necesitamos! Estos ejercicios se crean y mantienen  con colaboradores como tú. Si encuentra salgún error o falta de ortografía, contribuye y/o infórmanos.
 
 <p align="center">
