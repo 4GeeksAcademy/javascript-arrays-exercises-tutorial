@@ -1,4 +1,4 @@
-# `02` Hello World
+# `01` Hello World
 
 En JavaScript, usamos `console.log` para hacer que la computadora escriba lo que queramos (el contenido de una variable, una cadena dada, etc.) en algo llamado `la consola`.
 
@@ -18,5 +18,4 @@ console.log("How are you?");
 
 ## 💡 Pista:
 
-+ Video de 5 minutos sobre la consola:
-https://www.youtube.com/watch?v=1RlkftxAo-M
++ Video de 5 minutos sobre la consola: https://www.youtube.com/watch?v=1RlkftxAo-M

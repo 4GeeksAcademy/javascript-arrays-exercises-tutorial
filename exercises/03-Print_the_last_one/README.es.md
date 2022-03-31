@@ -1,4 +1,4 @@
-# `04.1` Print the last one
+# `03` Print the last one
 
 Nunca sabrás cuántos elementos tiene `myStupidArray` porque se genera aleatoriamente durante el tiempo de ejecución utilizando la función `generateRandomArray`.
 

@@ -2,7 +2,7 @@
 tutorial: https://www.youtube.com/watch?v=miBzmGgMIbU
 ---
 
-# `02` Hello World
+# `01` Hello World
 
 In JavaScript, we use `console.log` to make the computer write anything we want (the content of a variable, a given string, etc.) in something called `the console`.
 
@@ -22,5 +22,4 @@ console.log("How are you?");
 
 ## 💡 Hint:
 
-+ 5 minutes video about the console:
-https://www.youtube.com/watch?v=1RlkftxAo-M
++ 5 minutes video about the console: https://www.youtube.com/watch?v=1RlkftxAo-M
