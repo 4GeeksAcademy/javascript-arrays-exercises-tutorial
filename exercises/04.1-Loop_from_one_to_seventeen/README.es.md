@@ -1,4 +1,4 @@
-# `04.1`  Loop from one to seventeen
+# `04.1` Loop from one to seventeen
 
 El loop (bucle) actual se repite del cero a diez, 
 
