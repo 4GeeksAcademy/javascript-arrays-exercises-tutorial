@@ -1,10 +1,10 @@
 # `17` Un For Loop para encontrar un promedio
 
-Otra forma de recorrer un arreglo con el loop `for` es usando la declaración`in` de esta manera:
+Otra forma de recorrer un arreglo con el loop `for` es usando la declaración `of` de esta manera:
 
 ```js
-for (var index in myArray){
-    console.log(myArray[index]);
+for (let item of myArray){
+    console.log(item);
 }
 ```
 
@@ -14,10 +14,11 @@ for (var index in myArray){
 
 2. Imprímelo en la consola.
 
-### 💡 Pista:
+## 💡 Pista:
+
 + Para imprimir el promedio, debes sumar todos los valores y dividir el resultado por la longitud  (length) total del arreglo.
 
-### Resultado esperado:
+## Resultado esperado:
 
 ```js
 27278.8125
