@@ -10,7 +10,7 @@ Esa funcion **callback** (de retorno) se llama `array.filter()` que acepta hasta
 (elementBeingIterated, indexOfThatElement, theIteratedArray) => condition;
 ```
 
-Asi que quieres quedarte solo con los números 2 y 4 del array o arreglo de números, tu método `array.filter()` se vería de esta forma:
+Asi que si quieres quedarte solo con los números 2 y 4 del array o arreglo de números, tu método `array.filter()` se vería de esta forma:
 
 ```js
 let array = [2, 9, 5, 6, 4, 1, 2, 3, 4];
