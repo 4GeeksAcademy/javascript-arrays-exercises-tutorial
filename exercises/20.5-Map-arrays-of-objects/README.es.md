@@ -24,7 +24,7 @@ Hello my name is Joe and I am 13 years old.
 ### Resultado esperado:
 
 ```js
-[ 'Hello, my name is Joe and I am 32 years old',
+[ 'Hello, my name is Joe and I am 13 years old',
   'Hello, my name is Bob and I am 42 years old',
   'Hello, my name is Erika and I am 28 years old',
   'Hello, my name is Dylan and I am 18 years old',
