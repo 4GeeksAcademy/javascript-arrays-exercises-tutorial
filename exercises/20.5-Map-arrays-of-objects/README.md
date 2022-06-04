@@ -18,6 +18,8 @@ Hello, my name is Joe and I am 13 years old
 
 + Search in Google "How to get the age of given birth date in javascript".
 
++ Remember that the age also depends on the month, if the month of the current date is greater than or equal to the current month it adds up to one year".
+
 + Inside your simplifier function you have to return a concatenation.
 
 ## Expected result:
