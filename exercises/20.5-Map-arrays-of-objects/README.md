@@ -12,15 +12,9 @@ The current algorithm creates an array with only the names of the people and pri
 Hello, my name is Joe and I am 36 years old
 ```
 
-## 💡 Hint:
-
-+ You have to get the age of each people based on their birthDate. 
-
-+ Search in Google "How to get the age of given birth date in javascript".
-
-+ Inside your simplifier function you have to return a concatenation.
-
 ## Expected result:
+
+The result should be similar to this, but the ages might be different.
 
 ```js
 [ 'Hello, my name is Joe and I am 36 years old',
@@ -30,3 +24,10 @@ Hello, my name is Joe and I am 36 years old
   'Hello, my name is Steve and I am 19 years old' ]
 ```
 
+## 💡 Hint:
+
++ You have to get the age of each people based on their birthDate. 
+
++ Search in Google "How to get the age of given birth date in javascript".
+
++ Inside your simplifier function you have to return a concatenation.
