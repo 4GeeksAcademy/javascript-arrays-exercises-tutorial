@@ -12,16 +12,9 @@ El algoritmo actual crea un arreglo con solo los nombres de las personas y los i
 Hello my name is Joe and I am 36 years old.
 ```
 
-## 💡 Pista:
+## Resultado esperado:
 
-+ Debes determinar la edad de cada persona según su fecha de nacimiento (birthDate).++
-
-+ Busca en Google "Cómo obtener la edad de la fecha de nacimiento dada en JavaScript".
-
-+ Dentro de tu función simplifier, debe devolver una concatenación.
-
-
-### Resultado esperado:
+Debe quedar algo similar a esto, sin embargo las edades pueden variar.
 
 ```js
 [ 'Hello, my name is Joe and I am 36 years old',
@@ -31,4 +24,10 @@ Hello my name is Joe and I am 36 years old.
   'Hello, my name is Steve and I am 19 years old' ]
 ```
 
+## 💡 Pista:
 
++ Debes determinar la edad de cada persona según su fecha de nacimiento (birthDate).++
+
++ Busca en Google "Cómo obtener la edad de la fecha de nacimiento dada en JavaScript".
+
++ Dentro de tu función simplifier, debe devolver una concatenación.
