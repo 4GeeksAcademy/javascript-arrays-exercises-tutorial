@@ -2,7 +2,7 @@
 
 ## 📝 Instrucciones:
 
-1. Agrega 10 enteros aleatorios a la lista `arr` e imprime el array o arreglo en la consola.
+1. Agrega 10 numeros enteros aleatorios a la lista `arr` e imprime el array o arreglo en la consola.
 
 ## 💡 Pistas:
 
@@ -12,4 +12,4 @@
 
 + Puedes usar las funciones `Math.random()` y `Math.floor()` para obtener números aleatorios, debes hacerlo dentro del loop.
 
-+ En cada iteración del loop, debes usar la función `.push (item)` para agregar el nuevo número aleatorio al array o 
++ En cada iteración del loop, debes usar la función `.push (item)` para agregar el nuevo número aleatorio al array. 
