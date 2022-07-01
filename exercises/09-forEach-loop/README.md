@@ -1,6 +1,6 @@
 # `09.1` forEach Loop
 
-Instead of using the classic `for` statement, there is a new way to loop arrays called [higher order functions](https://www.youtube.com/watch?v=rRgD1yVwIvE)
+Instead of using the classic `for` statement, there is a new way to loop arrays called [higher order functions](https://www.youtube.com/watch?v=rRgD1yVwIvE).
 
 It is possible to loop an array using the `array.forEach` function. You have to specify what to do on each iteration of the loop.
 
