@@ -10,7 +10,7 @@ Our customer needs a program that counts the number of occurences of each letter
 
 ## :pencil: Instructions:
 
-1. Create an object were the letters are the properties and the values are the number of times that letter is repeated throughout the string. 
+1. Create an object where the letters are the properties and the values are the number of times that letter is repeated throughout the string. 
 
 For example:
 
