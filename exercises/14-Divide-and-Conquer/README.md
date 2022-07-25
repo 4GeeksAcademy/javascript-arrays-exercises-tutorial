@@ -10,7 +10,7 @@
 
 4. If the number is even number push it to a placeholder array named `even`.
 
-5. The function  should return a new array that contains both odd and even elements. 
+5. The function should return a new array that contains both odd and even elements. 
 > Remember, the `odd` array comes first and you have to append the `even` array to it. Use the `.concat()` method.  
 
 
