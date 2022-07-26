@@ -12,7 +12,7 @@
 
 5. Luego concatena el arreglo `odd` al arreglo `even` para combinarlos. 
 
-> Recuerda que el arreglo `odd` va primero y luego debes agregar los items del arreglo `even`.
+> Recuerda que el arreglo `odd` va primero y luego debes agregar los items del arreglo `even` usando el método `.concat()`.
 
 Ejemplo:
 
