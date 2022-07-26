@@ -8,7 +8,8 @@ let _log = console.log;
 
 // lets override the console.log function to mock it,
 // but we are also going to save what supposed to be the ouput of the console inside _buffer
-global.console.log = console.log = jest.fn((text) => _buffer += text + "\n");
+// We make the text lower case to make it case insensitive 
+global.console.log = console.log = jest.fn((text) => _buffer += text.toLowerCase() + "\n");
 
 test('console.log() function should be called with Hello World', function () {
 
@@ -20,11 +21,9 @@ test('console.log() function should be called with Hello World', function () {
     //then I import the index.js (which should have the alert() call inside)
     const file = require("./app.js");
 
-    //Expect the console log to have been called with "Hello World" at least one
-    expect(console.log).toHaveBeenCalledWith("Hello World");
     //and I expect the console.log to be already called just one time.
     expect(console.log.mock.calls.length).toBe(1);
 
     //You can also compare the entire console buffer (if there have been several console.log calls on the exercise)
-    expect(_buffer).toBe("Hello World\n");
+    expect(_buffer).toBe("hello world\n");
 });
