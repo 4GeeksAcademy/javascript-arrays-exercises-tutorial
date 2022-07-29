@@ -1,4 +1,4 @@
-# `08.01` Array mixto
+# `08.1` Array mixto
 
 ## :pencil: Instrucciones: 
  

@@ -16,28 +16,12 @@ it('Use the console.log function once to print the newArray on the console', fun
 
 it("Don't use the revese function", function () {
     const app_content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
-    expect(app_content).not.toMatch(/\.reverse(\s*)\(/);
+    expect(app_content).not.toMatch(/\.reverse\s*\(/);
 });
 
 it('There needs to be a variable called mix with the original array', function () {
     const _app = rewire('./app.js');
-    const variable = _app.__get__('mix');
-    expect(variable).toBeTruthy();
+    const mix = _app.__get__('mix');
+    expect(mix).toBeTruthy();
 });
 
-it('Loop the array and console.log all of its item types', function () {
-    const _app = rewire('./app.js');
-    
-    var _mix = [42, true, "towel", [2,1], 'hello', 34.4, {"name": "juan"}];
-    function myFunc(){
-      let newArray = []
-      for (let i=0; i < _mix.length; i++){
-        newArray.push(typeof _mix[i])
-
-      }
-      return newArray
-    }
-    let _test = myFunc()
-    expect(_buffer).toMatch(_test.map(n => n).join(","));
-    // expect(_buffer).toMatch(inverted.map(n => n).join(","));
-});

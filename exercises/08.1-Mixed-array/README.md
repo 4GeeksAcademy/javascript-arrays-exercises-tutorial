@@ -2,13 +2,13 @@
 tutorial: https://www.youtube.com/watch?v=3o02odJhieo
 ---
 
-# `08.01` Mixed Array
+# `08.1` Mixed Array
 
 ## :pencil: Instructions: 
  
-1. Write a function to programmatically print in the console a new array that contains all the types of the values that the array `mix` contains in each position.
+1. Write a function named `getTypeOfValues` to programmatically print in the console a new array that contains all the types of the values that the array `mix` contains in each position.
 
-### Expected Result:
+## Expected Result:
 
 ```js
 [
