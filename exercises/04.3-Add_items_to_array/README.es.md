@@ -6,6 +6,6 @@
 
 ## 💡 Pistas:
 
-+ Puedes usar las funciones `Math.random()` y `Math.floor()` para obtener números aleatorios, debes hacerlo dentro del loop o bucle.
++ Puedes usar las funciones `Math.random()` y `Math.floor()` para obtener números aleatorios.
 
 + Debes usar la función `.push (item)` para agregar el nuevo número aleatorio al array
