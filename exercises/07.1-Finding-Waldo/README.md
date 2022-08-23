@@ -6,7 +6,7 @@ tutorial: https://www.youtube.com/watch?v=5WphKLyEJaU
 
 ![Finding Waldo](../../.learn/assets/finding_waldo.jpeg)
 
-Have you every played finding Waldo? I used to play it a lot when I was little, this exercise is a digital version of finding Waldo.
+Have you ever played finding Waldo? I used to play it a lot when I was little, this exercise is a digital version of finding Waldo.
 
 ## :pencil: Instructions:
 
