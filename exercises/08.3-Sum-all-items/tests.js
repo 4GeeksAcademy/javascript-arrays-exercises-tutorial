@@ -8,11 +8,6 @@ global.console.log = console.log = jest.fn((text) => _buffer += text + "\n");
 
 const app_content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
 
-it("You don't have to console.log anything, instead, you have to use the return statement inside the function", function () {
-    const app = require('./app.js');
-    expect(console.log.mock.calls.length).toBe(0);
-});
-
 it("Use a for loop", function () {
     expect(app_content).toMatch(/for(\s*)\(/);
 });
