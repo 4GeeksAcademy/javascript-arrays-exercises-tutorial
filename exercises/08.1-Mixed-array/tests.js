@@ -19,6 +19,11 @@ it("Don't use the reverse function", function () {
   expect(app_content).not.toMatch(/\.reverse(\s*)\(/);
 });
 
+it('Use the console.log function once to print the newArray on the console', function () {
+    const app = require('./app.js');
+    expect(console.log.mock.calls.length).toBe(1);
+});
+
 it('There needs to be a variable called mix with the original array', function () {
     const _app = rewire('./app.js');
     const variable = _app.__get__('mix');
