@@ -16,7 +16,7 @@ test('You have to use the console.log function to print the correct output', fun
 
 test("You shouldn't delete the variable prepender", function(){
   const file = rewire("./app.js");
-  const mylet = file.__get__('prepender');
+  const myVar = file.__get__('prepender');
   expect(myVar).toBeTruthy();
 });
 

@@ -10,7 +10,7 @@ const app_content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8')
 
 test("You should create the variable resultingNames.", function(){
   const file = rewire("./app.js");
-  const mylet = file.__get__('resultingNames');
+  const myVar = file.__get__('resultingNames');
   expect(myVar).toBeTruthy();
 });
 
@@ -21,7 +21,7 @@ test('You have to use the console.log function to print the correct output.', fu
 
 test('You should use the console.log to call the variable resultingNames', function () {
   const file = rewire("./app.js");
-  const mylet = file.__get__('resultingNames');
+  const myVar = file.__get__('resultingNames');
   expect(console.log).toHaveBeenCalledWith(myVar);
  });
 
