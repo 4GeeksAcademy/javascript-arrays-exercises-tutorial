@@ -15,7 +15,7 @@ test("You should create a function named myFunction", function(){
 });
 test("You should create a variable named newArray", function(){
   const file = rewire("./app.js");
-  const mylet = file.__get__('newArray');
+  const myVar = file.__get__('newArray');
   expect(myVar).toBeTruthy();
 });
 
