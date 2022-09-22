@@ -9,7 +9,7 @@ The only way to access a particular element in an array is by using an index. An
 You need to wrap the index into brackets like this:
 
 ```js
-var myValue = array[index];
+let myValue = array[index];
 ```
 
 ## 📝 Instructions:

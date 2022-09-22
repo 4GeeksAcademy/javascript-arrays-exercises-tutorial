@@ -7,7 +7,7 @@ incrementByOne = function (number) {
   return number + 1; 
 }
 
-var myArray = [1, 2, 3, 4];
+let myArray = [1, 2, 3, 4];
 
 myArray.map(incrementByOne); //devuelve [2, 3, 4, 5]
 ```

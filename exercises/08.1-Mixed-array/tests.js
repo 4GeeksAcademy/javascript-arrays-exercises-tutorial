@@ -28,7 +28,7 @@ it('There needs to be a variable called mix with the original array', function (
 it('Loop the array and console.log all of its item types', function () {
     const _app = rewire('./app.js');
     
-    var _mix = [42, true, "towel", [2,1], 'hello', 34.4, {"name": "juan"}];
+    let _mix = [42, true, "towel", [2,1], 'hello', 34.4, {"name": "juan"}];
     function myFunc(){
       let newArray = []
       for (let i=0; i < _mix.length; i++){
