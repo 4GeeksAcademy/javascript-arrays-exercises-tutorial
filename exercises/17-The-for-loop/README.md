@@ -3,7 +3,7 @@
 Another way to loop an array with the `for` loop will be using the `of` statement like this:
 
 ```js
-for (var element of myArray){
+for (let element of myArray){
     console.log(element);
 }
 ```

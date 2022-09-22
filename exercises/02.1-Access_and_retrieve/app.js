@@ -1,5 +1,5 @@
 //declaring the array
-var myArray = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday'];
+let myArray = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday'];
 
 //1. print the item here
 

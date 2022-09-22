@@ -7,9 +7,9 @@ Otra función sorprendente para los arreglos o arrays es `array.filter()` (filtr
 Por ejemplo, este algoritmo filtra el arreglo `allNumbers` y devuelve un nuevo arreglo con solo los números impares:
 
 ```js
-var allNumbers = [23,12,35,5,3,2,3,54,3,21,534,23,42,1];
+let allNumbers = [23,12,35,5,3,2,3,54,3,21,534,23,42,1];
 
-var onlyOdds = allNumbers.filter(function(number){
+let onlyOdds = allNumbers.filter(function(number){
 	return (number % 2 > 0)
 });
 

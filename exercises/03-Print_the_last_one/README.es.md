@@ -5,7 +5,7 @@ Nunca sabrás cuántos elementos tiene `myStupidArray` porque se genera aleatori
 ¡Pero no te preocupes! La propiedad `myStupidArray.length` devuelve la longitud de `myArray` (intenta hacer un `console.log` y verás la longitud que se muestra en la consola).
 
 ```js
-var totalItems = myStupidArray.length;
+let totalItems = myStupidArray.length;
 ```
 
 ## 📝 Instrucciones:

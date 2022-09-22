@@ -9,7 +9,7 @@ You will never know how many items `myStupidArray` has because it is being rando
 But don't worry! The property `myStupidArray.length` returns the length of `myArray` (try console logging it and you will see the length displayed on the console).
 
 ```js
-var totalItems = myStupidArray.length;
+let totalItems = myStupidArray.length;
 ```
 
 ## 📝 Instructions

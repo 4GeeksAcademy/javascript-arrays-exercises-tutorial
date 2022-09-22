@@ -5,7 +5,7 @@ La única forma de acceder a un elemento particular en un arreglo es usando un �
 Debes envolver el índice entre corchetes de esta manera:
 
 ```js
-var myValue = array[index];
+let myValue = array[index];
 ```
 
 ## 📝 Instrucciones

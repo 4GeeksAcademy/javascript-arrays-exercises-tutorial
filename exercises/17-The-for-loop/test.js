@@ -22,7 +22,7 @@ it('The output in the console should match the one in the instructions!', functi
 
     let _myArray = [2323,4344,2325,324413,21234,24531,2123,42234,544,456,345,42,5445,23,5656,423];
     let _avg = 0;
-    for (var index in _myArray){
+    for (let index in _myArray){
       _avg += _myArray[index]
 	  }
     let _avgTest = _avg / _myArray.length

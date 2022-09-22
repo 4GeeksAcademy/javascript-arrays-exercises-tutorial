@@ -1,4 +1,4 @@
-var people = ['juan','ana','michelle','daniella','stefany','lucy','barak', 'emilio'];
+let people = ['juan','ana','michelle','daniella','stefany','lucy','barak', 'emilio'];
 
 //your code below
 
