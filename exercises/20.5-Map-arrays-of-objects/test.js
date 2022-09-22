@@ -31,10 +31,10 @@ test('The output in the console should should look similar but not exactly (year
       { name: 'Steve', birthDate: new Date(2003,4,24) }
     ];
     let _simplifier = function(person){
-      var _today = new Date();
+      let _today = new Date();
       
-      var age = _today.getFullYear() - person.birthDate.getFullYear();
-      var m = _today.getMonth() - person.birthDate.getMonth();
+      let age = _today.getFullYear() - person.birthDate.getFullYear();
+      let m = _today.getMonth() - person.birthDate.getMonth();
         if (m < 0 || (m === 0 && _today.getDate() < person.birthDate.getDate())) {
             age = age - 1;
         }

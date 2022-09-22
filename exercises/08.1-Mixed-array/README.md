@@ -20,7 +20,6 @@ tutorial: https://www.youtube.com/watch?v=3o02odJhieo
 ```
 
 ## :bulb: Hint 
-
 + Create a new empty array.
 
 + Loop the original array.

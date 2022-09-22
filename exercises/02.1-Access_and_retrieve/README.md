@@ -9,7 +9,7 @@ Arrays are part of every programming language. They are the way to go when you w
 For example, we could have an array that stores the days of the week:
 
 ```js
-var myArray = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday'];
+let myArray = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday'];
 ```
 Every array has the following parts:
 

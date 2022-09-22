@@ -5,7 +5,7 @@ Los arrays son parte de todo lenguaje de programación. Son el camino a seguir c
 Por ejemplo, podríamos tener un array que almacena los días de la semana:
 
 ```js
-var myArray = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday'];
+let myArray = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday'];
 ```
 
 Cada array tiene las siguientes partes:

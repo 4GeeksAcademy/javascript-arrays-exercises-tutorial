@@ -6,9 +6,9 @@ En este ejemplo, tenemos una array o arreglo  de coordenadas a las que puedes ac
 
 ```js
 //la primera coordenada latitud
-var latitude = coordinatesArray[0][0];
+let latitude = coordinatesArray[0][0];
 //la primera coordenada longitud
-var longitude = coordinatesArray[0][1];
+let longitude = coordinatesArray[0][1];
 ```
 
 ## 📝 Instruciones:
