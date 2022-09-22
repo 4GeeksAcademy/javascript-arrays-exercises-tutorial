@@ -19,7 +19,7 @@ tutorial: https://www.youtube.com/watch?v=3o02odJhieo
 ]
 ```
 
-## :bulb: Hint 
+## :bulb: Hints:
 
 + Create a new empty array.
 
