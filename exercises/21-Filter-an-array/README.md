@@ -25,4 +25,4 @@ console.log(onlyOdds);
 
 ## 💡 Hint:
 
-+ Here is a 2:29 min video explaining [`array.filter` function](https://www.youtube.com/watch?v=0qsFDFC2oEE)
++ Here is a 2:29 min video explaining [array.filter function](https://www.youtube.com/watch?v=0qsFDFC2oEE)
