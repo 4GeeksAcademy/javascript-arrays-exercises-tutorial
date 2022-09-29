@@ -32,19 +32,10 @@ We need you! These exercises are built and maintained in collaboration with cont
 
 ```
 $ npm i learnpack -g
-$ learnpack plugins:install learnpack-python
+$ learnpack plugins:install learnpack-node
 ```
 
-2. Download this particular exercise using learnpack and `cd` into the folder:
-
-```
-$ learnpack download python-beginner-programming-exercises
-$ cd python-beginner-programming-exercises
-```
-
-Note: Once you finish downloading, you will find a "exercises" folder that contains all the exercises within.
-
-3. Start the tutorial/exercises by running the following command at the same level were your bc.json file is:
+2. Start the tutorial/exercises by running the following command at the same level where your learn.json file is:
 
 ```sh
 $ npm i jest@24.8.0 -g
