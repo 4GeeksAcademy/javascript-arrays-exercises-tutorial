@@ -17,7 +17,7 @@
   <li><a href="https://github.com/4GeeksAcademy/javascript-functions-exercises-tutorial">Funciones de Javascript </a></li>
   <li><a href="(https://github.com/4GeeksAcademy/master-javascript-programming-exercises">Master Javascripts</a></li>
 </ol>
-¡Te necesitamos! Estos ejercicios se crean y mantienen  con colaboradores como tú. Si encuentra salgún error o falta de ortografía, contribuye y/o infórmanos.
+¡Te necesitamos! Estos ejercicios se crean y mantienen con colaboradores como tú. Si encuentras salgún error o falta de ortografía, contribuye y/o infórmanos.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/4GeeksAcademy/react-exercises/master/preview.gif">
@@ -28,7 +28,7 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial.git)
 
 
-## Local Installation
+## Instalación local
 
 1. Instala learnpack, el package manager para los tutoriales interactivos y el html compiler plugin para learnpack, asegúrate también de tener node.js 14+:
 
@@ -46,14 +46,14 @@ $ cd javascript-arrays-exercises
 
 Nota: Cuando termines de descargar, encontrarás la carpeta "exercises" que contiene los ejercicios (`cd`).
 
-3. Iniciliza el tutorial/ejercicios ejecutando el siguiente comando en el mismo nivel donde se encuentra su archivo bc.json:
+3. Inicia el tutorial/ejercicios ejecutando el siguiente comando en el mismo nivel donde se encuentra tu archivo bc.json:
 
 ```sh
 $ npm i jest@24.8.0 -g
 $ learnpack start
-
 ```
-Nota: Los ejercicios son autograduados pero son bastante rígidos y estrictos, mi recomendación es que ignores los tests y los uses solo como una recomendación sino pueden frustrarte.
+
+Nota: Los ejercicios son autograduados pero son bastante rígidos y estrictos, mi recomendación es que ignores los tests y los uses solo como una recomendación, sino pueden frustrarte.
 
 ## ¿Cómo están organizados los ejercicios?
 
@@ -66,7 +66,7 @@ Cada ejercicio es una pequeña aplicación de react que contiene los siguientes 
 
 ## Colaboradores
  
-Gracias a estas personas maravillosas ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
+Gracias a estas maravillosas personas ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribución: (programador) 💻 (idea) 🤔, (build-tests) ⚠️ , (pull-request-review) 🤓 (build-tutorial) ✅ (documentación) 📖
 
