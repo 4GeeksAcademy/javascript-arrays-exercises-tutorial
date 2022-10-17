@@ -17,3 +17,7 @@ let myValue = array[index];
 1. Print on the console the 1st element of the array
 
 2. Print on the console the 4th element of the array
+
+## :bulb: Hint:
+
+1. **Every array starts from (0)**

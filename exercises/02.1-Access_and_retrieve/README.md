@@ -15,9 +15,9 @@ Every array has the following parts:
 
 - *Items*: are the actual values inside on each position of the array.
 
-- *Length*: is the size of the array, the number of items.
+- *Length*: The size of the array (the number of items).
 
-- *Index*: is the position of an element.
+- *Index*: The position of an element.
 
 ![How arrays work](../../.learn/assets/DbmSOHT.png?raw=true)
 
@@ -27,7 +27,7 @@ To access any item within the array you need to know its index (position). The i
 
 ## 📝 Instructions
 
-1. Using the `console.log` function, print the 3rd item from the array.
+1. Use the `console.log` function to print the 3rd item from the array.
 
 2. Change the value in the position where `thursday` is located to `null`.
 

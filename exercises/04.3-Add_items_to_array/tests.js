@@ -8,12 +8,20 @@ it('Call the console.log function just one time', function () {
     const app = require('./app.js');
     expect(console.log.mock.calls.length).toBe(1);
 });
+it("you should use the 'Math.random()' function", function () {
+    const app_content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
+    expect(app_content).toMatch(/\s*Math\s*.random/);
+  });
+it("you should use the 'Math.floor()' function", function () {
+    const app_content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
+    expect(app_content).toMatch(/\s*Math\s*.floor/);
+  });
 
 it('Print the array with 7 digits on the console', function () {
     expect(_buffer).toMatch(/\d+,\d+,\d+,\d+,\d+,\d+,\d+/);
 });
 
-it('The array arr should have7 items', function () {
+it('The array arr should have 7 items', function () {
     const app = rewire('./app.js');
     const variable = app.__get__('arr');
     expect(variable).toBeTruthy();

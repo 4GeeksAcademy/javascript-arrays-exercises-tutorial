@@ -4,6 +4,11 @@ let _log = console.log;
 let _buffer = '';
 global.console.log = console.log = jest.fn((text) => _buffer += text + "\n");
 
+it('Use a for loop', function () {
+    const app_content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
+    expect(app_content).toMatch(/for(\s*)\(/);
+});
+
 it('Call the console.log function on every cicle', function () {
     const app = require('./app.js');
     expect(console.log.mock.calls.length).toBe(17);
