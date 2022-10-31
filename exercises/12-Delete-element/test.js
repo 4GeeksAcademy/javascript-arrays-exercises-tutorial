@@ -6,7 +6,7 @@ let _log = console.log;
 let _buffer = '';
 global.console.log = console.log = jest.fn((text) => _buffer += text + "\n");
 const file = rewire("./app.js");
-const app_content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
+// const app_content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
 const deletePerson = file.__get__('deletePerson');
 const people = file.__get__('people');
 
