@@ -1,3 +1,5 @@
+const fs = require("fs");
+const path = require("path");
 const rewire = require("rewire");
 
 let _log = console.log;
@@ -12,8 +14,17 @@ it('Call the console.log function just one time', function () {
 it('Print the array with 15 digits on the console', function () {
     expect(_buffer).toMatch(/\d+,\d+,\d+,\d+,\d+,\d+,\d+,\d+,\d+,\d+/);
 });
-
-it('The array arr should have 15 items', function () {
+it('You have to use Math.random() function', () => {
+    const file = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
+    const regex = /Math\s*\.\s*random/gm
+    expect(regex.test(file.toString())).toBeTruthy();
+})
+it('You have to use Math.floor() function', () => {
+    const file = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
+    const regex = /Math\s*\.\s*floor/gm
+    expect(regex.test(file.toString())).toBeTruthy();
+})
+test('The array arr should have 15 items', function () {
     const app = rewire('./app.js');
     const variable = app.__get__('arr');
     expect(variable).toBeTruthy();

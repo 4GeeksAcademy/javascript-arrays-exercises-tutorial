@@ -1,4 +1,4 @@
 //you code here
-for(let position = 7; position <= 12; position = position + 1){
-    console.log(position)
+for(let i = 7; i <= 12; i = i + 1){
+    console.log(i)
 }

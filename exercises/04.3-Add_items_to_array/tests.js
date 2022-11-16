@@ -1,19 +1,30 @@
+const fs = require("fs");
+const path = require("path");
 const rewire = require("rewire");
 
 let _log = console.log;
 let _buffer = '';
 global.console.log = console.log = jest.fn((text) => _buffer += text + "\n");
 
+const file = rewire("./app.js");
+const arr = file.__get__("arr");
+
 it('Call the console.log function just one time', function () {
     const app = require('./app.js');
     expect(console.log.mock.calls.length).toBe(1);
 });
 
+
+test('Use the Math.floor function for whole numbers.(NO DECIMALS)', () => {
+    const file = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
+    const regex = /Math\s*\.\s*floor/gm
+    expect(regex.test(file.toString())).toBeTruthy();
+})
 it('Print the array with 7 digits on the console', function () {
-    expect(_buffer).toMatch(/\d+,\d+,\d+,\d+,\d+,\d+,\d+/);
+    expect(_buffer).toBe(/\d+,\d+,\d+,\d+,\d+,\d+,\d+/);
 });
 
-it('The array arr should have7 items', function () {
+it('The array arr should have 7 items', function () {
     const app = rewire('./app.js');
     const variable = app.__get__('arr');
     expect(variable).toBeTruthy();
