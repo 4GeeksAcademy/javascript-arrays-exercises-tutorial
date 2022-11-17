@@ -1,5 +1,5 @@
  # Tutorial & Ejercicios de Looping en Javascript 
-
+<!-- hide -->
 <a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial/blob/master/badge-loop.png"></a>
 
 > Por [@alesanchezr](https://twitter.com/alesanchezr) y [otros colaboradores](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
@@ -8,9 +8,11 @@
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://breatheco.de)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
+<!-- endhide -->
 
 ¡Docenas de ejercicios de loops para mejorar tus habilidades de loop con for, forEach, mapear, filtrar, hacer un loop a un diccionario, hacer un loop en  arrays bidimensionales, agregar condiciones a los loops, encontrar un elemento y más!
 
+<!-- hide -->
 <ol>
   <li><a href="https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial">Javascript para Principiantes</a></li>
   <li><a href="https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial">Looping con Javascript</a>← Estás aquí</li>
@@ -26,7 +28,7 @@
 ## Instalación en un clic
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial.git)
-
+<!-- endhide -->
 
 ## Instalación local
 
