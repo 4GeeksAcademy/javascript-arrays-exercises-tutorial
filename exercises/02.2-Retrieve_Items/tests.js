@@ -26,8 +26,3 @@ it('Print the 4th item of the array', function () {
     //You can also compare the entire console buffer (if there have been several console.log calls on the exercise)
     expect(_buffer.includes("43\n")).toBe(true);
 });
-
-it('Do not print anything else', function () {
-    //You can also compare the entire console buffer (if there have been several console.log calls on the exercise)
-    expect(_buffer).toBe("4\n43\n");
-});

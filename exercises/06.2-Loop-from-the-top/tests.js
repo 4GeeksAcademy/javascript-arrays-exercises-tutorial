@@ -1,8 +1,16 @@
+const fs = require("fs");
+const path = require("path");
 const rewire = require("rewire");
 
 let _log = console.log;
 let _buffer = '';
 global.console.log = console.log = jest.fn((text) => _buffer += text + "\n");
+
+it('You have to use a for loop', () => {
+    const file = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
+    const regex = /for\s*/gm
+    expect(regex.test(file.toString())).toBeTruthy();
+})
 
 it('Call the console.log function inside the loop', function () {
     const app = require('./app.js');

@@ -5,8 +5,7 @@ let myArray = ['sunday','monday','tuesday','wednesday','thursday','friday','satu
 
 
 //1. print the item here
-let dayOfWeek = myArray[2];
-console.log(dayOfWeek)
+console.log(myArray[2])
 
 //2. change 'thursday'a value here to null
 myArray[4] = null;
