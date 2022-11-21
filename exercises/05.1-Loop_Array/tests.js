@@ -15,8 +15,7 @@ test('You have to use a for loop', () => {
 
 it('Call the console.log function inside the loop', function () {
     const app = require('./app.js');
-    const _app = rewire('./app.js');
-    const variable = _app.__get__('myArray');
+    const variable = rewire('./app.js').__get__('myArray');
 
     expect(console.log.mock.calls.length).toBe(variable.length);
 });

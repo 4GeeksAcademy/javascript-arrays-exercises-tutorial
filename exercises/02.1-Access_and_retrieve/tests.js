@@ -33,8 +33,3 @@ it('Print the 4th position of the array', function () {
     //You can also compare the entire console buffer (if there have been several console.log calls on the exercise)
     expect(_buffer.includes("null\n")).toBe(true);
 });
-
-it('Do not print anything else', function () {
-    //You can also compare the entire console buffer (if there have been several console.log calls on the exercise)
-    expect(_buffer).toBe("tuesday\nnull\n");
-});

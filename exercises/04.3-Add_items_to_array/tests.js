@@ -14,15 +14,11 @@ it('Call the console.log function just one time', function () {
     expect(console.log.mock.calls.length).toBe(1);
 });
 
-
-test('Use the Math.floor function for whole numbers.(NO DECIMALS)', () => {
+it('Use the Math.floor function for whole numbers.(NO DECIMALS)', () => {
     const file = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
     const regex = /Math\s*\.\s*floor/gm
     expect(regex.test(file.toString())).toBeTruthy();
 })
-it('Print the array with 7 digits on the console', function () {
-    expect(_buffer).toBe(/\d+,\d+,\d+,\d+,\d+,\d+,\d+/);
-});
 
 it('The array arr should have 7 items', function () {
     const app = rewire('./app.js');
@@ -36,6 +32,7 @@ function isNumeric(str) {
   return !isNaN(str) && // use type coercion to parse the _entirety_ of the string (`parseFloat` alone does not do this)...
          !isNaN(parseFloat(str)) // ...and ensure strings of whitespace fail
 }
+
 it('Make sure the last two items you added are numbers', function () {
     const app = rewire('./app.js');
     const variable = app.__get__('arr');
