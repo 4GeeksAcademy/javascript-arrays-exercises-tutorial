@@ -26,10 +26,12 @@ Copia y pega el código dentro del editor de código para probarlo si quieres.
 
 ## 📝 Instrucciones:
 
-1. Usando la misma lógica dada en el ejemplo, agrega el código necesario para convertir un arreglo de valores `Celsius` en `Fahrenheit` dentro de la función de `array.map()`.
+1. Usando una lógica similar a la dada en el ejemplo, agrega el código necesario para convertir un arreglo de valores `Celsius` en `Fahrenheit` dentro de la función de `array.map()`.
 
 ## 💡 Pista:
 
 + Aquí hay un video de 3:40 min que explica la función del map:
 
 https://www.youtube.com/watch?v=hfYa4ugeyuc&t=32s
+
++ Solo hace falta convertir los numeros. No hay necesida de añadir la unidad de medida (F° o C°).
