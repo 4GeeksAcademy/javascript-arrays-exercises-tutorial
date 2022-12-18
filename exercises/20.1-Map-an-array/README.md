@@ -35,4 +35,4 @@ Copy paste the code inside the code editor to test it if you want.
 
 https://www.youtube.com/watch?v=hfYa4ugeyuc&t=32s
 
-+ You only have to convert the numbers. There is no need to include the measurement unit (F° o C°).
++ You only have to convert the numbers. There is no need to include the measurement unit (F° or C°).
