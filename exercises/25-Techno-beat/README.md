@@ -30,7 +30,8 @@ Drop the base Boom Drop the base
 Drop the base Drop the base Drop the base !!!Break the base!!!
 ```
 
-### 💡 Hint:
+## 💡 Hint:
 
 + Remember to use helper variables
+
 + Remember your function `lyricsGenerator` should be returning a `string`
