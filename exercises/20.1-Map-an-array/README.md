@@ -27,10 +27,12 @@ Copy paste the code inside the code editor to test it if you want.
 
 ## 📝 Instructions:
 
-1. Using the same logic given in the example, add the needed code to convert an array of `Celsius` values into `Fahrenheit` inside the `array.map()` function.
+1. Using a similar logic to the one given in the example, add the needed code to convert an array of `Celsius` values into `Fahrenheit` inside the `array.map()` function.
 
 ## 💡 Hint:
 
 + Here is a 3:40 min video explaining the array map function:
 
 https://www.youtube.com/watch?v=hfYa4ugeyuc&t=32s
+
++ You only have to convert the numbers. There is no need to include the measurement unit (F° or C°).
