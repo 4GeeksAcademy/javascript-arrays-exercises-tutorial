@@ -26,6 +26,8 @@ Un string que debe estar compuesto por Boom o Drop the base o `!!!Break the base
 
 + Recuerda usar variables auxiliares
 
++ Recuerda que tu función `lyricsGenerator` debe retornar un `string`
+
 ## Resultado esperado:
 
 ```js

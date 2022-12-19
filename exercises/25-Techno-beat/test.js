@@ -38,3 +38,22 @@ test('The functions returns the correct value when passing different parameters'
     expect(_test5).toBe("Drop the base Drop the base Drop the base !!!Break the base!!!");
     expect(_test6).toBe("Drop the base Drop the base Drop the base !!!Break the base!!! Boom Drop the base Boom Drop the base");
 });
+
+test('The functions should be returning a string', function () {
+    const app = rewire('./app.js');
+    const lyricsGenerator = app.__get__('lyricsGenerator');
+
+    let _test1 = lyricsGenerator([0,0,1,1,0,0,0]).trim()
+    let _test2 = lyricsGenerator([0,0,1,1,1,0,0,0]).trim()
+    let _test3 = lyricsGenerator([0,0,0]).trim()
+    let _test4 = lyricsGenerator([1,0,1]).trim()
+    let _test5 = lyricsGenerator([1,1,1]).trim()
+    let _test6 = lyricsGenerator([1,1,1,0,1,0,1]).trim()
+
+    expect(typeof(_test1)).toBe("string");
+    expect(typeof(_test2)).toBe("string");
+    expect(typeof(_test3)).toBe("string");
+    expect(typeof(_test4)).toBe("string");
+    expect(typeof(_test5)).toBe("string");
+    expect(typeof(_test6)).toBe("string");
+});
