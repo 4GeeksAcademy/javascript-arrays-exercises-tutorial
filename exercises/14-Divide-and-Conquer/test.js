@@ -14,6 +14,17 @@ test("Function mergeTwoList should exist", () => {
   expect(mergeTwoList).toBeTruthy();
 });
 
+test('You have to use a "for" loop', () => {
+  const file = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
+  const regex = /for\s*/gm
+  expect(regex.test(file.toString())).toBeTruthy();
+})
+test('You have to use a "for" loop', () => {
+  const file = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
+  const regex = /.concat\s*/gm
+  expect(regex.test(file.toString())).toBeTruthy();
+})
+
 test("Function mergeTwoList must return an array", () => {
   const _app = rewire('./app.js');
   const mergeTwoList = _app.__get__('mergeTwoList');
