@@ -1,4 +1,4 @@
-# `02.1` Access and Retrive
+# `02.1` Access and Retrieve
 
 Los arrays son parte de todo lenguaje de programación. Son el camino a seguir cuando quieres tener una "lista de elementos".
 
