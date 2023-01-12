@@ -2,7 +2,7 @@
 
 ## 📝 Instrucciones:
 
-1. Agrega 10 numeros enteros aleatorios a la lista `arr` e imprime el array o arreglo en la consola.
+1. Agrega 10 números enteros aleatorios a la lista `arr` e imprime el array o arreglo en la consola.
 
 ## 💡 Pistas:
 
