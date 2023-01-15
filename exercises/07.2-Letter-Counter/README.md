@@ -17,7 +17,7 @@ For example:
 ```js
 const word = "Hello World";
 
-// La consola debe imprimir { h: 1, e: 1, l: 3, o: 2, w: 1, r: 1, d: 1 }
+// The console should print { h: 1, e: 1, l: 3, o: 2, w: 1, r: 1, d: 1 }
 ```
 
 ## :bulb: Hint
@@ -32,4 +32,4 @@ const word = "Hello World";
 
 + Remember to ignore white spaces in the string.
 
-+ You should lower caseall letters to have an accurate count of all letters regardless of casing of the letter.
++ You should lower case all letters to have an accurate count of all letters regardless of casing of the letter.
