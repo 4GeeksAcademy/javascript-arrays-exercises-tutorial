@@ -1,6 +1,6 @@
 # `07.2` Contador de letras
 
-Nuestro cliente necesita un programa que cuente las repeticiones de las letras en un string dado. Sé que es extraño, pero son muy testarudo ¡ Lo necesitamos lo antes posible!
+Nuestro cliente necesita un programa que cuente las repeticiones de las letras en un string dado. Sé que es extraño, pero es muy testarudo ¡Lo necesitamos lo antes posible!
 
 ## :pencil: Instrucciones:
 
@@ -26,4 +26,4 @@ const word = "Hello World";
 
 + Recuerda ignorar los espacios en blanco en el string.
 
-+ Debes colocar en minúscula(lowercase) todas las letras para tener un conteo exacto de todas las letras.
++ Debes colocar en minúscula (lowercase) todas las letras para tener un conteo exacto de todas las letras.
