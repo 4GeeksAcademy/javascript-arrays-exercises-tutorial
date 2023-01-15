@@ -18,5 +18,5 @@
 
 ### Resultado esperado:
 ```js
- 5435
+   console.log(findMax(myArray)); //prints 5435
  ```
