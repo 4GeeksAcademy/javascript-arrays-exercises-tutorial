@@ -1,6 +1,6 @@
 # `21` Filter an Array
 
-Otra función sorprendente para los arreglos o arrays es `array.filter()` (filtrar). Recorre toda el arreglo original y solo devuelve los valores que coinciden con una condición particular.
+Otra función sorprendente para los arreglos o arrays es `array.filter()` (filtrar). Recorre todo el arreglo original y solo devuelve los valores que coinciden con una condición particular.
 
 [Aquí está la documentación de la función `filter` en w3school](https://www.w3schools.com/jsref/jsref_filter.asp)
 
