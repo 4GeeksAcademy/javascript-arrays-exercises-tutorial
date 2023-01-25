@@ -8,6 +8,18 @@ global.console.log = console.log = jest.fn((text) => _buffer += text + "\n");
 
 const app_content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
 
+test('The array "myArray" should exist', () => {
+  const file = rewire("./app.js");
+  const myArray = file.__get__("myArray");
+  expect(myArray).not.toBe(undefined);
+})
+
+test('You have to use "for" loop function', () => {
+  const file = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
+  const regex = /for\s*/gm
+  expect(regex.test(file.toString())).toBeTruthy();
+})
+
 
 it('You have to use the console.log function', function () {
     const app = require('./app.js');

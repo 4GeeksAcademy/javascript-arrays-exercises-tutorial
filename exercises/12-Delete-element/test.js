@@ -5,14 +5,37 @@ const rewire = require("rewire");
 let _log = console.log;
 let _buffer = '';
 global.console.log = console.log = jest.fn((text) => _buffer += text + "\n");
+
 const file = rewire("./app.js");
 const app_content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
 const deletePerson = file.__get__('deletePerson');
 const people = file.__get__('people');
 
+test('The array "people" should exist', () => {
+  const file = rewire("./app.js");
+  const people = file.__get__("people");
+  expect(people).not.toBe(undefined);
+})
+test('"daniella" should exist in the "people" array', () => {
+  const file = rewire("./app.js");
+  const people = file.__get__("people");
+  expect(people[3]).toBe('daniella');
+})
+test('"juan" should exist in the "people" array', () => {
+  const file = rewire("./app.js");
+  const people = file.__get__("people");
+  expect(people[0]).toBe('juan');
+})
+// test('"emilio" should exist in the "people" array', () => {
+//   const file = rewire("./app.js");
+//   const people = file.__get__("people");
+//   expect(people[-1]).toBe('emilio');
+// })
+
 test("Function deletePerson should exist", function () {
   expect(deletePerson).toBeTruthy();
 });
+
 test("Function deletePerson should return something", function () {
   expect(deletePerson()).not.toBe(undefined)
 });
