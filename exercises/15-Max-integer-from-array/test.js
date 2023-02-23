@@ -9,6 +9,23 @@ global.console.log = console.log = jest.fn((text) => _buffer += text + "\n");
 const app_content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
 
 
+test('The array "myArray" should exist', () => {
+    const file = rewire("./app.js");
+    const myArray = file.__get__("myArray");
+    expect(myArray).not.toBe(undefined);
+})
+test('The array "myArray" should not be changed', () => {
+    const file = rewire("./app.js");
+    const myArray = file.__get__("myArray");
+    expect(myArray[14]).toBe(5435);
+})
+
+
+test('The function "findMax" should exist', () => {
+    const file = rewire("./app.js");
+    const findMax = file.__get__("findMax");
+    expect(findMax).not.toBe(undefined);
+})
 it('You have to use the console.log function', function () {
     const app = require('./app.js');
     expect(console.log.mock.calls.length > 0).toBe(true);

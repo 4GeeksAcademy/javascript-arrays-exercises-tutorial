@@ -6,9 +6,15 @@ let _log = console.log;
 let _buffer = '';
 global.console.log = console.log = jest.fn((text) => _buffer += text + "\n");
 
-const app_content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
+const app_content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8'); 
 
-it("The outpuy should match the one in the instructions", function () {
+test('You have to use the do-while function', () => {
+    const file = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
+    const regex = /do\s*/gm
+    expect(regex.test(file.toString())).toBeTruthy();
+})
+
+it("The output should match the one in the instructions", function () {
     const app = require('./app.js');
     
     let _output = [];
