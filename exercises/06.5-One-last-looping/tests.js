@@ -8,11 +8,6 @@ global.console.log = console.log = jest.fn((text) => _buffer += text + "\n");
 let reverse = Array.prototype.reverse;
 Array.prototype.reverse = jest.fn(function(){ return this; });
 
-test("You must use a for loop", function(){
-    const content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
-    expect(/for\s*\(/.test(content)).toBe(true)
-})
-
 test("Remember that your for loop must start by declaring a variable let or var", function(){
     const content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
     expect(/for\s*\(\s*(let|var)\s*/.test(content)).toBe(true)

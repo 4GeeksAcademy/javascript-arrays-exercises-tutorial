@@ -1,4 +1,4 @@
-# `09.1` forEach Loop
+# `09` forEach Loop
 
 Instead of using the classic `for` statement, there is a new way to loop arrays called [higher order functions](https://www.youtube.com/watch?v=rRgD1yVwIvE).
 
@@ -11,7 +11,7 @@ myArray.forEach(function(item, index, arr){
 /**
  * item: will be the value of the specific item (required).
  * index: will be the item index(optional).
- * arr: will be the array object to which the element belongs to (opcional).
+ * arr: will be the array object to which the element belongs to (optional).
 */
 
 
