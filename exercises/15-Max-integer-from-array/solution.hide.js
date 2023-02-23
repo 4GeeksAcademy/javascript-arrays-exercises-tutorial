@@ -4,7 +4,7 @@ function findMax(myArray) {
 
     let maxNum = myArray[0];
 
-    for (i = 1; i < myArray.length; i++) {
+    for (let i = 1; i < myArray.length; i++) {
         if (myArray[i] > maxNum)
             maxNum = myArray[i];
     }

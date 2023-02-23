@@ -26,11 +26,6 @@ test('"juan" should exist in the "people" array', () => {
   const people = file.__get__("people");
   expect(people[0]).toBe('juan');
 })
-// test('"emilio" should exist in the "people" array', () => {
-//   const file = rewire("./app.js");
-//   const people = file.__get__("people");
-//   expect(people[-1]).toBe('emilio');
-// })
 
 test("Function deletePerson should exist", function () {
   expect(deletePerson).toBeTruthy();
