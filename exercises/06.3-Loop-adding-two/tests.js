@@ -1,4 +1,6 @@
 const rewire = require("rewire");
+const fs = require("fs")
+const path = require("path")
 
 let _log = console.log;
 let _buffer = '';
