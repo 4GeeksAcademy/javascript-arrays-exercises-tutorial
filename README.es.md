@@ -1,4 +1,7 @@
- # Tutorial & Ejercicios de Looping en Javascript 
+<!-- hide -->
+# Tutorial & Ejercicios de Looping en Javascript 
+<!-- endhide -->
+
 <!-- hide -->
 <a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial/blob/master/badge-loop.png"></a>
 
@@ -75,3 +78,5 @@ Gracias a estas maravillosas personas ([emoji key](https://github.com/kentcdodds
 2. [Paolo (plucodev)](https://github.com/plucodev), contribución: (bug reports) 🐛, (programador), (traducción) 🌎
 
 Este proyecto sigue la especificación [all-contributors](https://github.com/kentcdodds/all-contributors). ¡Todas las contribuciones son bienvenidas!
+
+Este y otros ejercicios son usados para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Conoce más sobre nuestros [Curso de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/?lang=es), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
