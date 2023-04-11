@@ -65,11 +65,10 @@ Nota: Los ejercicios son autograduados pero son bastante rígidos y estrictos, m
 ## ¿Cómo están organizados los ejercicios?
 
 Cada ejercicio es una pequeña aplicación de react que contiene los siguientes archivos:
-|    |    |
-|:---|:---|
-| **app.js** | Representa el archivo javascript de entrada que ejecutará la computadora ||
-| **README.md** | Contiene las instrucciones de ejercicio |
-| **test.js** | Contiene el script del test para el ejercicio (no es necesario que abras este archivo) |
+
+- **app.js**: Representa el archivo javascript de entrada que ejecutará la computadora.
+- **README.md**: Contiene las instrucciones de ejercicio.
+- **test.js**: Contiene el script del test para el ejercicio (no es necesario que abras este archivo).
 
 ## Colaboradores
  
