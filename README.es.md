@@ -33,7 +33,7 @@
 Puedes empezar estos ejercicios en pocos segundos haciendo clic en: [Abrir en Codespaces](https://codespaces.new/?repo=4GeeksAcademy/javascript-arrays-exercises-tutorial) (recomendado) o [Abrir en Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial).
 
 > Una vez ya tengas abirto VSCode los ejercicios de LearnPack deberían empezar automáticamente, si esto no sucede puedes intentar empezar los ejercicios escribiendo este comando en tu terminal: `$ learnpack start`
-<!-- endhide -->
+
 
 ## Instalación local
 
@@ -59,7 +59,7 @@ Nota: Cuando termines de descargar, encontrarás la carpeta "exercises" que cont
 $ npm i jest@24.8.0 -g
 $ learnpack start
 ```
-
+<!-- endhide -->
 Nota: Los ejercicios son autograduados pero son bastante rígidos y estrictos, mi recomendación es que ignores los tests y los uses solo como una recomendación, sino pueden frustrarte.
 
 ## ¿Cómo están organizados los ejercicios?
