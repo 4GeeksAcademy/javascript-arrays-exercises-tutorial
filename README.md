@@ -34,7 +34,6 @@ You can open these exercises in just a few seconds by clicking: [Open in Codespa
 
 > Once you have VSCode open the LearnPack exercises should start automatically. If exercises don't run automatically you can try typing on your terminal: `$ learnpack start`
 
-<!-- endhide -->
 
 ## Local Installation
 
@@ -60,6 +59,8 @@ Note: Once you finish downloading, you will find a "exercises" folder that conta
 $ npm i jest@24.8.0 -g
 $ learnpack start
 ```
+
+<!-- endhide -->
 
 Note: The exercises have automatic grading but its very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated.
 
