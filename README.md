@@ -12,6 +12,9 @@
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 <!-- endhide -->
+
+*Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial/blob/master/README.es.md) :es:*
+
 Dozens of looping exercises to sharpen your looping skills with for, forEach, map, filter, looping a dictionary, looping bidimentional arrays, adding conditions to loops, finding an element, and more!
 
 <!-- hide -->
@@ -22,7 +25,8 @@ Dozens of looping exercises to sharpen your looping skills with for, forEach, ma
   <li><a href="https://github.com/4GeeksAcademy/javascript-functions-exercises-tutorial">Javascript Functions</a></li>
   <li><a href="(https://github.com/4GeeksAcademy/master-javascript-programming-exercises">Master Javascripts</a></li>
 </ol>
-We need you! These exercises are built and maintained in collaboration with contributors such as yourself. If you find any bugs or misspellings please contribute and/or report them.
+
+> We need you! These exercises are built and maintained in collaboration with contributors such as yourself. If you find any bugs or misspellings please contribute and/or report them.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/4GeeksAcademy/react-exercises/master/preview.gif">
@@ -33,7 +37,6 @@ We need you! These exercises are built and maintained in collaboration with cont
 You can open these exercises in just a few seconds by clicking: [Open in Codespaces](https://codespaces.new/?repo=4GeeksAcademy/javascript-arrays-exercises-tutorial) (recommended) or [Open in Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial).
 
 > Once you have VSCode open the LearnPack exercises should start automatically. If exercises don't run automatically you can try typing on your terminal: `$ learnpack start`
-
 
 ## Local Installation
 
@@ -51,7 +54,7 @@ $ learnpack download javascript-arrays-exercises
 $ cd javascript-arrays-exercises
 ```
 
-Note: Once you finish downloading, you will find a "exercises" folder that contains all the exercises within.
+> Note: Once you finish downloading, you will find a "exercises" folder that contains all the exercises within.
 
 3. Start the tutorial/exercises by running the following command at the same level were your bc.json file is:
 
@@ -62,16 +65,15 @@ $ learnpack start
 
 <!-- endhide -->
 
-Note: The exercises have automatic grading but its very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated.
-
 ## How are the exercises organized?
 
 Each exercise is a small react application containing the following files:
-|    |    |
-|:---|:---|
-| **app.js** | Represents the entry javascript file that will be executed by the computer |
-| **README.md** | Contains exercise instructions |
-| **test.js** | Contains the testing script for the exercise (you don't have to open this file) |
+
+1. **app.js:** represents the entry javascript file that will be executed by the computer.
+2. **README.md:** contains exercise instructions.
+3. **test.js:** contains the testing script for the exercise (you don't have to open this file).
+
+> Note: The exercises have automatic grading but its very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated.
 
 ## Contributors
 
