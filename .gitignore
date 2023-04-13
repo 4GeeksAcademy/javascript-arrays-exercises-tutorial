@@ -4,6 +4,8 @@
 !.gitignore
 !.gitpod.yml
 !.gitpod.Dockerfile
+!.vscode
+!.vscode/*
 !learn.json
 !bc.json
 !README.md
