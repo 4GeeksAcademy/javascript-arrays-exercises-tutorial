@@ -6,6 +6,8 @@ let _log = console.log;
 let _buffer = '';
 global.console.log = console.log = jest.fn((text) => _buffer += text + "\n");
 
+
+
 const app_content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
 
 it("Use the console.log function to print the numbers", function () {

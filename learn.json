@@ -1,10 +1,16 @@
 {
     "language": "node",
     "slug": "javascript-arrays",
-    "title": "Learn Javascript Arrays and Loops Interactive",
+    "title": {
+        "us": "Learn Javascript Arrays and Loops Interactive",
+        "es": "Aprende Arrays y Loops de Javascript Interactivamente"
+    },
     "repository": "https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial",
     "preview": "https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial/blob/master/preview.png?raw=true",
-    "description": "Learn and javascript arrays and loops, interactive tutorial with dozens of react exercises, get instant feedback with automatic grading and watch video solutions afterwards.",
+    "description": {
+        "us": "Learn javascript arrays and loops, interactive tutorial with dozens of exercises, get instant feedback with automatic grading and watch video solutions afterwards.",
+        "es": "Aprende Arrays y ciclos de Javascript, con una docena de ejercicios del tutorial interactivo, obtén feedback instantáneo con auto-corrección y video-soluciones"
+    },
     "duration": 12,
     "difficulty": "easy",
     "videoSolutions": true,

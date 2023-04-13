@@ -10,7 +10,7 @@ console.log(sumTheElements([2,13,34,5]))
 ```
 ## :bulb: Hint:
 
-+ Initilize a variable `total` at 0.
++ Initialize a variable `total` at 0.
 
 + Call the function with any array of numbers that add up to the expected result above.
 

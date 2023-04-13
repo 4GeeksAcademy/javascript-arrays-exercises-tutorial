@@ -13,7 +13,7 @@ let longitude = coordinatesArray[0][1];
 
 ## 📝 Instruciones:
 
-1. Recorre el arreglo(con un bucle) imprimiendo solo las longitudes.
+1. Recorre el arreglo (con un bucle) imprimiendo solo las longitudes.
 
 ### Resultado esperado:
 

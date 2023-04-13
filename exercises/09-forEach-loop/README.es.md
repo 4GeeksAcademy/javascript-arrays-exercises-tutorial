@@ -1,4 +1,4 @@
-# `09.1` Bucle/loop forEach 
+# `09` Bucle/loop forEach 
 
 En lugar de usar la clásica declaración `for`, hay una nueva forma de recorrer los arreglos: [ higher order functions (funciones de orden superior) ](https://www.youtube.com/watch?v=rRgD1yVwIvE)
 

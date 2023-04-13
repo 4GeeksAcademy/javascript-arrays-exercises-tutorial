@@ -6,7 +6,7 @@
 
 ## 💡 Pista:
 
-+ Use un bucle `for ()` como hemos lo hemos hecho en ejercicios anteriores.
++ Usa un bucle `for ()` como lo hemos hecho en ejercicios anteriores.
 
 + Recuerda que los arreglos comienzan en la posición `0`.
 

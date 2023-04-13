@@ -14,7 +14,7 @@ console.log("How are you?");
 
 ## 📝 Instrucciones:
 
-1. Usa `console.log` para imprimir "Hello World" en la consola. Sientete libre de probar otras cosas también.
+1. Usa `console.log` para imprimir "Hello World" en la consola. Siéntete libre de probar otras cosas también.
 
 ## 💡 Pista:
 
