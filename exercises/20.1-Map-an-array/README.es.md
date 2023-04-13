@@ -34,4 +34,4 @@ Copia y pega el código dentro del editor de código para probarlo si quieres.
 
 https://www.youtube.com/watch?v=hfYa4ugeyuc&t=32s
 
-+ Solo hace falta convertir los numeros. No hay necesida de añadir la unidad de medida (F° o C°).
++ Solo hace falta convertir los números. No hay necesidad de añadir la unidad de medida (F° o C°).
