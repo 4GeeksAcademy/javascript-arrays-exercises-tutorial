@@ -23,7 +23,7 @@ Te recomendamos ver el siguiente [video sobre loops o bucles](https://www.youtub
 
 7. Diccionario de bucles (objetos literales).
 
-Haga click en `next →` cuando estés listo para iniciar los ejercicios.
+Haz clic en `next →` cuando estés listo para iniciar los ejercicios.
 
 
 ***
