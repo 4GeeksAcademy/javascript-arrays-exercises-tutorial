@@ -13,6 +13,7 @@
     },
     "duration": 12,
     "difficulty": "easy",
+    "projectType": "tutorial",
     "videoSolutions": true,
     "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
     "graded": true,
