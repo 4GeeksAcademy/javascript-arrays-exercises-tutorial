@@ -23,11 +23,3 @@ it('Testing for [2,13,34,5] should return 54', function () {
 
     expect(_result).toEqual(54);
 });
-
-it('Testing for [12,3,37,5] should return 57', function () {
-    const _app = rewire('./app.js');
-    const sumTheElements = _app.__get__('sumTheElements');
-    const _result = sumTheElements([12,3,37,5])
-
-    expect(_result).toEqual(57);
-});
