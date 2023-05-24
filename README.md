@@ -44,7 +44,7 @@ $ npm i learnpack -g
 $ learnpack plugins:install learnpack-node
 ```
 
-2. Download this particular exercise using learnpack navigate with `cd` into the folder:
+2. Download this particular exercise using learnpack and navigate with `cd` into the folder:
 
 ```bash
 $ learnpack download javascript-arrays-exercises
