@@ -1,5 +1,5 @@
 <!-- hide -->
-# Tutorial & Ejercicios de Looping en Javascript 
+# Tutorial & Ejercicios de Looping en JavaScript 
 <!-- endhide -->
 
 <!-- hide -->
@@ -13,21 +13,18 @@
 
 <!-- endhide -->
 
-¡Docenas de ejercicios de loops para mejorar tus habilidades de loop con for, forEach, mapear, filtrar, hacer un loop a un diccionario, hacer un loop en  arrays bidimensionales, agregar condiciones a los loops, encontrar un elemento y más!
+¡Docenas de ejercicios de loops para mejorar tus habilidades de loop con for, forEach, mapear, filtrar, hacer un loop a un objeto, hacer un loop en arrays bidimensionales, agregar condiciones a los loops, encontrar un elemento y más!
 
 <!-- hide -->
 <ol>
-  <li><a href="https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial">Javascript para Principiantes</a></li>
-  <li><a href="https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial">Looping con Javascript</a>← Estás aquí</li>
-  <li><a href="https://github.com/4GeeksAcademy/javascript-functions-exercises-tutorial">Funciones de Javascript </a></li>
-  <li><a href="(https://github.com/4GeeksAcademy/master-javascript-programming-exercises">Master Javascripts</a></li>
+  <li><a href="https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial">JavaScript para Principiantes</a></li>
+  <li><a href="https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial">Looping con JavaScript</a> ← 🔥 Estás aquí</li>
+  <li><a href="https://github.com/4GeeksAcademy/javascript-functions-exercises-tutorial">Funciones de JavaScript </a></li>
+  <li><a href="https://github.com/4GeeksAcademy/master-javascript-programming-exercises">Master JavaScript</a></li>
 </ol>
 
 ¡Te necesitamos! Estos ejercicios se crean y mantienen con colaboradores como tú. Si encuentras algún error o falta de ortografía, contribuye o infórmanos.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/4GeeksAcademy/react-exercises/master/preview.gif">
-</p>
 
 ## Instalación en un clic (recomendado)
 
@@ -37,23 +34,23 @@ Puedes empezar estos ejercicios en pocos segundos haciendo clic en: [Abrir en Co
 
 ## Instalación local
 
-1. Instala learnpack, el package manager para los tutoriales interactivos y el html compiler plugin para learnpack, asegúrate también de tener node.js 14+:
+1. Instala LearnPack, el package manager para los tutoriales interactivos y el HTML compiler plugin para LearnPack, asegúrate también de tener node.js 14+:
 
 ```bash
 $ npm i learnpack -g
 $ learnpack plugins:install learnpack-node
 ```
 
-2. Descarga este ejercicio en particular usando learnpack y `cd` para acceder a la carpeta:
+2. Descarga este ejercicio en particular usando learnpack navega con `cd` para acceder a la carpeta:
 
 ```bash
 $ learnpack download javascript-arrays-exercises
 $ cd javascript-arrays-exercises
 ```
 
-> Nota: Cuando termines de descargar, encontrarás la carpeta "exercises" que contiene los ejercicios (`cd`).
+> Nota: Cuando termines de descargar, encontrarás la carpeta "exercises" que contiene los ejercicios.
 
-3. Inicia el tutorial/ejercicios ejecutando el siguiente comando en el mismo nivel donde se encuentra tu archivo bc.json:
+3. Inicia el tutorial/ejercicios ejecutando el siguiente comando en el mismo nivel donde se encuentra tu archivo learn.json:
 
 ```bash
 $ npm i jest@24.8.0 -g
@@ -64,9 +61,9 @@ $ learnpack start
 
 ## ¿Cómo están organizados los ejercicios?
 
-Cada ejercicio es una pequeña aplicación de react que contiene los siguientes archivos:
+Cada ejercicio es una pequeña aplicación de React que contiene los siguientes archivos:
 
-1. **app.js**: Representa el archivo javascript de entrada que ejecutará la computadora.
+1. **app.js**: Representa el archivo JavaScript de entrada que ejecutará la computadora.
 2. **README.md**: Contiene las instrucciones de ejercicio.
 3. **test.js**: Contiene el script del test para el ejercicio (no es necesario que abras este archivo).
 
