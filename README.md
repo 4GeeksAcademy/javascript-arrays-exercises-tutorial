@@ -18,7 +18,7 @@
 Dozens of looping exercises to sharpen your looping skills with for, forEach, map, filter, looping an object, looping bidimentional arrays, adding conditions to loops, finding an element, and more!
 
 <!-- hide -->
-## Before you start...some related tutorials:
+## Before you start... some related tutorials:
 <ol>
   <li><a href="https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial">JavaScript for Beginners</a></li>
   <li><a href="https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial">Looping with JavaScript</a> ← 🔥 You are here</li>
