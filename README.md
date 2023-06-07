@@ -11,9 +11,8 @@
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://breatheco.de)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-<!-- endhide -->
-
 *Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial/blob/master/README.es.md) :es:*
+<!-- endhide -->
 
 Dozens of looping exercises to sharpen your looping skills with for, forEach, map, filter, looping an object, looping bidimentional arrays, adding conditions to loops, finding an element, and more!
 
@@ -37,14 +36,14 @@ You can open these exercises in just a few seconds by clicking: [Open in Codespa
 
 ## Local Installation
 
-1. Install LearnPack, the package manager for learning tutorials and the HTML compiler plugin for LearnPack, make sure you also have node.js 14+:
+1. Install LearnPack, the package manager for learning tutorials and the node compiler plugin for LearnPack, make sure you also have node.js 14+:
 
 ```bash
 $ npm i learnpack -g
 $ learnpack plugins:install learnpack-node
 ```
 
-2. Download this particular exercise using learnpack and navigate with `cd` into the folder:
+2. Download this particular exercise using LearnPack and navigate with `cd` into the folder:
 
 ```bash
 $ learnpack download javascript-arrays-exercises
