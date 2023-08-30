@@ -5,9 +5,9 @@ intro: https://www.youtube.com/watch?v=ooHdelGf0gI
 
 # Welcome to Loops
 
-Practice loops in javascript until you become confortable with it.
+Practice using loops in JavaScript until you feel confident with them.
 
-We recomend you watching [this short video about loops](https://www.youtube.com/watch?v=U3ZlQSOcOI0) before starting. We will focus on:
+We recommend you to watch [this short video about loops](https://www.youtube.com/watch?v=U3ZlQSOcOI0) before starting. We will focus on:
 
 1. For loop.
 
@@ -21,17 +21,9 @@ We recomend you watching [this short video about loops](https://www.youtube.com/
 
 6. find.
 
-7. Loop dictionaries (object literals).
+7. Loop object literals.
 
 Click `next →` when you are ready to start the exercises.
 
 ***
-If you need to go to a specific exercise you may select the top menu
-
-<p align="center">
-  <img src="./menu.png">
-</p>
-And select the exercise
-<p align="center">
-  <img src="./menu2.png">
-</p>
+If you need to go to a specific exercise, you may select the top menu and select the exercise.
