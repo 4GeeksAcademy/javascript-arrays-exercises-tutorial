@@ -27,3 +27,5 @@ Click `next →` when you are ready to start the exercises.
 
 ***
 If you need to go to a specific exercise, you may select the top menu and select the exercise.
+
+![exercises menu](../../.learn/assets/exercises-menu.png?raw=true)
