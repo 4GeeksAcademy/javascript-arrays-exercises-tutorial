@@ -29,4 +29,4 @@ Haz clic en `next →` cuando estés listo para iniciar los ejercicios.
 ***
 Si necesitas ir a un ejercicio en particular, puedes acceder en el menú superior y seleccionar el ejercicio.
 
-![menú de ejercicios]("../../.learn/assets/exercises-menu.png?raw=true)
+![menú de ejercicios](../../.learn/assets/exercises-menu.png?raw=true)
