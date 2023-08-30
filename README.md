@@ -25,14 +25,14 @@ Dozens of looping exercises to sharpen your looping skills with for, forEach, ma
   <li><a href="https://github.com/4GeeksAcademy/master-javascript-programming-exercises">Master JavaScript</a></li>
 </ol>
 
-> We need you! These exercises are built and maintained in collaboration with contributors such as yourself. If you find any bugs or misspellings please contribute and/or report them.
+> We need you! These exercises are built and maintained in collaboration with contributors such as yourself. If you find any bugs or misspellings, please contribute and/or report them.
 
 
 ## One click installation (recommended):
 
 You can open these exercises in just a few seconds by clicking: [Open in Codespaces](https://codespaces.new/?repo=4GeeksAcademy/javascript-arrays-exercises-tutorial) (recommended) or [Open in Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial).
 
-> Once you have VSCode open the LearnPack exercises should start automatically. If exercises don't run automatically you can try typing on your terminal: `$ learnpack start`
+> Once you have opened VSCode, the LearnPack exercises should start automatically. If exercises don't run automatically, you can try typing on your terminal: `$ learnpack start`
 
 ## Local Installation
 
