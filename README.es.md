@@ -43,23 +43,14 @@ $ npm i learnpack -g
 $ learnpack plugins:install learnpack-node
 ```
 
-2. Descarga este ejercicio en particular usando LearnPack y navega con `cd` para acceder a la carpeta:
-
-```bash
-$ learnpack download javascript-arrays-exercises
-$ cd javascript-arrays-exercises
-```
-
-> Nota: Cuando termines de descargar, encontrarás la carpeta "exercises" que contiene los ejercicios.
-
-3. Inicia el tutorial/ejercicios ejecutando el siguiente comando en el mismo nivel donde se encuentra tu archivo learn.json:
+2. Inicia el tutorial/ejercicios ejecutando el siguiente comando en el mismo nivel donde se encuentra tu archivo learn.json:
 
 ```bash
 $ npm i jest@24.8.0 -g
 $ learnpack start
 ```
-<!-- endhide -->
 
+<!-- endhide -->
 
 ## ¿Cómo están organizados los ejercicios?
 
@@ -69,7 +60,7 @@ Cada ejercicio es una pequeña aplicación de React que contiene los siguientes 
 2. **README.md**: Contiene las instrucciones de ejercicio.
 3. **test.js**: Contiene el script del test para el ejercicio (no es necesario que abras este archivo).
 
-> Nota: Los ejercicios son autograduados pero son bastante rígidos y estrictos, mi recomendación es que ignores los tests y los uses solo como una recomendación, sino pueden frustrarte.
+> Nota: Estos ejercicios tienen calificación automática. Los tests son muy rígidos y estrictos, mi recomendación es que no prestes demasiada atención a los tests y los uses solo como una sugerencia o podrías frustrarte.
 
 ## Colaboradores
  
@@ -77,7 +68,7 @@ Gracias a estas maravillosas personas ([emoji key](https://github.com/kentcdodds
 
 1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribución: (programador) 💻 (idea) 🤔, (build-tests) ⚠️ , (pull-request-review) 🤓 (build-tutorial) ✅ (documentación) 📖
 
-2. [Paolo (plucodev)](https://github.com/plucodev), contribución: (bug reports) 🐛, (programador), (traducción) 🌎
+2. [Paolo (plucodev)](https://github.com/plucodev), contribución: (bug reports) 🐛, (programador) 💻, (traducción) 🌎
 
 Este proyecto sigue la especificación [all-contributors](https://github.com/kentcdodds/all-contributors). ¡Todas las contribuciones son bienvenidas!
 
