@@ -12,15 +12,15 @@ Estás trabajando con un DJ y él necesita un programa que pueda crear ritmos pa
 
 2. Por cada `0`, agrégale al string `'Boom'`.
 
-3. Por cada `1`, agrégale al string `'Drop the base'`.
+3. Por cada `1`, agrégale al string `'Drop the bass'`.
 
 ## Restricciones:
 
-+ Si encuentras el número Uno (1) tres veces seguidas, TAMBIÉN debes AGREGAR al string `¡¡¡Break the base!!!`
++ Si encuentras el número Uno (1) tres veces seguidas, TAMBIÉN debes AGREGAR al string `¡¡¡Break the bass!!!`
 
 ## Resultado esperado de la función:
 
-Un string que debe estar compuesto por Boom o Drop the base o `!!!Break the base!!!`
+Un string que debe estar compuesto por Boom o Drop the bass o `!!!Break the bass!!!`
 
 ## 💡 Pista:
 
@@ -31,10 +31,10 @@ Un string que debe estar compuesto por Boom o Drop the base o `!!!Break the base
 ## Resultado esperado:
 
 ```js
-Boom Boom Drop the base Drop the base Boom Boom Boom
-Boom Boom Drop the base Drop the base Drop the base !!!Break the base!!! Boom Boom Boom
+Boom Boom Drop the bass Drop the bass Boom Boom Boom
+Boom Boom Drop the bass Drop the bass Drop the bass !!!Break the bass!!! Boom Boom Boom
 Boom Boom Boom
-Drop the base Boom Drop the base
-Drop the base Drop the base Drop the base !!!Break the base!!!
+Drop the bass Boom Drop the bass
+Drop the bass Drop the bass Drop the bass !!!Break the bass!!!
 ```
 
