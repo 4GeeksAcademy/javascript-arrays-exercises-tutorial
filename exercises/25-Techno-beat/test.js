@@ -31,12 +31,12 @@ test('The functions returns the correct value when passing different parameters'
     let _test5 = lyricsGenerator([1,1,1]).trim()
     let _test6 = lyricsGenerator([1,1,1,0,1,0,1]).trim()
 
-    expect(_test1).toBe("Boom Boom Drop the base Drop the base Boom Boom Boom");
-    expect(_test2).toBe("Boom Boom Drop the base Drop the base Drop the base !!!Break the base!!! Boom Boom Boom");
+    expect(_test1).toBe("Boom Boom Drop the bass Drop the bass Boom Boom Boom");
+    expect(_test2).toBe("Boom Boom Drop the bass Drop the bass Drop the bass !!!Break the bass!!! Boom Boom Boom");
     expect(_test3).toBe("Boom Boom Boom");
-    expect(_test4).toBe("Drop the base Boom Drop the base");
-    expect(_test5).toBe("Drop the base Drop the base Drop the base !!!Break the base!!!");
-    expect(_test6).toBe("Drop the base Drop the base Drop the base !!!Break the base!!! Boom Drop the base Boom Drop the base");
+    expect(_test4).toBe("Drop the bass Boom Drop the bass");
+    expect(_test5).toBe("Drop the bass Drop the bass Drop the bass !!!Break the bass!!!");
+    expect(_test6).toBe("Drop the bass Drop the bass Drop the bass !!!Break the bass!!! Boom Drop the bass Boom Drop the bass");
 });
 
 test('The functions should be returning a string', function () {
