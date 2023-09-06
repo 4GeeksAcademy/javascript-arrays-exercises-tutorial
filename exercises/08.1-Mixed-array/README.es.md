@@ -2,7 +2,7 @@
 
 ## 📝 Instrucciones: 
  
-1. Escribe una función que imprima un arreglo en la consola que contenga los tipos de valores (data-types) que contiene el array `mix` en cada posición.
+1. Usando un bucle, imprime un nuevo array en la consola que contenga los tipos de valores (data-types) que contiene el array `mix` en cada posición.
 
 ## 💻 Resultado esperado:
 
