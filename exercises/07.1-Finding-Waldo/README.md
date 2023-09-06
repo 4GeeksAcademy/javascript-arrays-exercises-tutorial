@@ -16,7 +16,7 @@ Have you ever played "Where's Waldo?" I used to play it a lot when I was little,
 
 + You need to add a conditional inside the loop.
 
-+ Waldo may be uppercase or lowercase, compare both values [using toLowerCase()](https://www.geeksforgeeks.org/compare-the-case-insensitive-strings-in-javascript/)
++ Waldo may be uppercase or lowercase, compare both values [using toLowerCase()](https://www.geeksforgeeks.org/compare-the-case-insensitive-strings-in-javascript/).
 
 ## 🥚 Easter Egg:
 
