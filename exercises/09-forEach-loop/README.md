@@ -23,4 +23,4 @@ Right now, the code is printing all the items in the array:
 
 ## 💡 Hint:
 
-+ A number x is divisible by 2 if: `(x % 2 === 0)`.
++ A number (x) is divisible by 2 if: `(x % 2 === 0)`.
