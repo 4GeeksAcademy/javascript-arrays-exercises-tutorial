@@ -4,7 +4,7 @@
 
 1. Cuenta del 7 al 12 con un loop e imprime cada número en la consola.
 
-## Ejemplo de salida:
+## 💻 Ejemplo de salida:
 
 ```js
 7
@@ -17,4 +17,4 @@
 
 ## 💡 Pista:
 
-+ Tienes que recorrer de 7 a 12 (incluyendo 12).
++ Tienes que recorrer del 7 a 12 (incluyendo 12).
