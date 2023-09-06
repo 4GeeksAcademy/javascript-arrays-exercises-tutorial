@@ -12,4 +12,4 @@ tutorial: https://www.youtube.com/watch?v=no9mCu-tvaM
 
 + You can use the `Math.random()` and `Math.floor()` functions to get random numbers.
 
-+ You have to use the `.push(item)` function to add the new random number to the array.
++ You have to use the `.push()` function to add the new random number to the array.
