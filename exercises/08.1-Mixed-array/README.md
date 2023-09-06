@@ -6,7 +6,7 @@ tutorial: https://www.youtube.com/watch?v=3o02odJhieo
 
 ## 📝 Instructions: 
  
-1. Write a function that prints in the console a new array that contains all the types of data that the array `mix` contains in each position.
+1. Using a loop, print in the console a new array that contains all the types of data that the array `mix` contains in each position.
 
 ## 💻 Expected Result:
 
