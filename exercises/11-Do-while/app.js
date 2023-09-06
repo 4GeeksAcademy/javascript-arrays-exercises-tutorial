@@ -4,4 +4,4 @@ do {
     // Magic goes here
 
     i--;
-} while (i > 0);
+} while (i >= 0);
