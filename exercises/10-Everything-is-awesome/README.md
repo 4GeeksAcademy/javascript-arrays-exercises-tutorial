@@ -6,7 +6,7 @@
 
 2. Compare the item. If it's `0` push the string `'Yahoo'` to the array `return_array` (instead of the number).
 
-For example for `[0,0,1,1,0]` the output would be:
+For example, for `[0,0,1,1,0]` the output would be:
 
 ```js
 ['Yahoo','Yahoo', 1, 1,'Yahoo']
