@@ -8,7 +8,7 @@ This code is looping the whole array, one by one, and printing the items on the 
 
 ## 📝 Instructions:
 
-1. Change the loop so it loops two by two instead of one by one.
+1. Change the loop, so it loops two by two instead of one by one.
 
 ## 💻 Expected result:
 
