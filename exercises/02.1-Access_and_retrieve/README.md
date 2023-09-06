@@ -18,7 +18,7 @@ Every array has the following parts:
 
 - **Length**: is the size of the array, the number of items.
 
-- **Index**: is the position of an element.
+- **Index**: is the position of an element (item).
 
 ![How arrays work](../../.learn/assets/DbmSOHT.png?raw=true)
 
