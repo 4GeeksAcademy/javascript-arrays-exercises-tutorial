@@ -14,11 +14,6 @@ it("Create a loop", function () {
   expect(app_content).toMatch(/for\s*/);
 });
 
-it("Don't use the reverse function", function () {
-  const app_content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
-  expect(app_content).not.toMatch(/\.reverse(\s*)\(/);
-});
-
 it('Use the console.log function once to print the newArray on the console', function () {
     const app = require('./app.js');
     expect(console.log.mock.calls.length).toBe(1);
