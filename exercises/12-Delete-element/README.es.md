@@ -21,7 +21,7 @@ console.log(newArray); // resultado es [2, 4, 2, 4]
 
 El método `array.filter()` automáticamente crea un nuevo array en el cual solo están los elementos que cumplan con la condición. El resto de los elementos quedan fuera del `newArray`.
 
-Puedes aprender más sobre este método [aquí](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+Puedes aprender más sobre este método [aquí](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/filter).
 
 ## 📝 Instrucciones:
 
