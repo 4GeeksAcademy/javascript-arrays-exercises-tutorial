@@ -9,5 +9,5 @@
 For example for `[0,0,1,1,0]` the output would be:
 
 ```js
-['Yahoo','Yahoo','1','1','Yahoo']
+['Yahoo','Yahoo', 1, 1,'Yahoo']
 ```
