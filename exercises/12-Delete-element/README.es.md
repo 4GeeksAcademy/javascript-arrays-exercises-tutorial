@@ -1,4 +1,4 @@
-# `12` Eliminar el elemento
+# `12` Delete element
 
 La única forma de eliminar a `Daniella` del array (sin hacer trampa) es crear un nuevo array con todas las demás personas, excepto `Daniella`.
 
