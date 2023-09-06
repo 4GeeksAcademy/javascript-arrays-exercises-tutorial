@@ -1,15 +1,17 @@
-# `08.3` Suma todos los elementos
+# `08.3` Sum All Items
 
-## :pencil: Instrucciones:
+## 📝 Instrucciones:
 
-1. Usando un bucle (loop) `for`, completa el código de la función `sumTheElements` para que devuelva la suma de todos los elementos en un arreglo (array) dado, por ejemplo:
+1. Usando un bucle (loop) `for`, completa el código de la función `sumTheElements` para que devuelva la suma de todos los elementos en un array dado.
+
+## 💻 Resultado esperado:
 
 ```js
 console.log(sumTheElements([2,13,34,5]))
-//el resultado debiese ser 54
+// El resultado debe ser 54
 ```
 
-## :bulb: Pista:
+## 💡 Pista:
 
 + Inicializa una variable `total` en 0.
 
@@ -19,8 +21,4 @@ console.log(sumTheElements([2,13,34,5]))
 
 + Devuelve la variable `total` (fuera del bucle pero dentro de la función).
 
-### Resultado esperado:
-
-```js
-54
-```
++ Llama la función con un arreglo cualquiera de números que sumados den el resultado esperado de arriba `54`. 
