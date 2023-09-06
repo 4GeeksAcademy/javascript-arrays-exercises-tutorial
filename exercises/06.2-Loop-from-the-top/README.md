@@ -4,7 +4,7 @@ tutorial: https://www.youtube.com/watch?v=IX2m3SWq7tg
 
 # `06.2` Loop from the top
 
-This loop is looping the array from beginning to end... increasing one by one.
+This loop is looping the array from beginning to end, increasing one by one.
 
 ## 📝 Instructions:
 
