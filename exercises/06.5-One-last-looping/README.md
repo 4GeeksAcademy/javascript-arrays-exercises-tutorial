@@ -16,7 +16,7 @@ tutorial: https://www.youtube.com/watch?v=IwDDj6wN4jY
 
 ## 💻 Expected result:
 
-```js
+```text
 Annie
 Bart
 Cesco
