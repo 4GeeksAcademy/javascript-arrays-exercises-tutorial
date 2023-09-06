@@ -6,13 +6,13 @@ Como viste en el último ejercicio, tu arreglo o array puede tener una mezcla de
 
 1. Agrega todos los elementos con tipo de dato objeto dentro del array `hello`.
 
-Aquí puedes ver cómo imprimir todos los elementos:
+Aquí puedes ver cómo imprimir los tipos de elementos:
 
 ```js
 let myArray = [42, true, "towel", [2,1], 'hello', 34.4, {"name": "juan"}];
 
-for(let index = 0; index < myArray.length; index++) {
-    let item = myArray[index];
+for(let i = 0; i < myArray.length; i++) {
+    let item = myArray[i];
     console.log(typeof(item))
 }
 ```
