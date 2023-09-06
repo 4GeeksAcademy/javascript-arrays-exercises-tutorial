@@ -8,4 +8,4 @@
 
 + Puedes usar las funciones `Math.random()` y `Math.floor()` para obtener números aleatorios.
 
-+ Debes usar la función `.push (item)` para agregar el nuevo número aleatorio al array
++ Debes usar la función `.push()` para agregar los números aleatorios al array.

@@ -11,7 +11,7 @@ let _log = console.log;
 // We make the text lower case to make it case insensitive 
 global.console.log = console.log = jest.fn((text) => _buffer += text.toLowerCase() + "\n");
 
-test('console.log() function should be called with Hello World', function () {
+test('console.log() function should be called with "Hello World"', function () {
 
     /*
         Here is how to mock the alert function:

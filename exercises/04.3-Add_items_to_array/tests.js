@@ -9,18 +9,18 @@ global.console.log = console.log = jest.fn((text) => _buffer += text + "\n");
 const file = rewire("./app.js");
 const arr = file.__get__("arr");
 
-it('Call the console.log function just one time', function () {
+it('Call the console.log function only one time', function () {
     const app = require('./app.js');
     expect(console.log.mock.calls.length).toBe(1);
 });
 
-it('Use the Math.floor function for whole numbers.(NO DECIMALS)', () => {
+it('Use the Math.floor function for whole numbers (NO DECIMALS)', () => {
     const file = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
     const regex = /Math\s*\.\s*floor/gm
     expect(regex.test(file.toString())).toBeTruthy();
 })
 
-it('The array arr should have 7 items', function () {
+it('The array "arr" should have 7 items', function () {
     const app = rewire('./app.js');
     const variable = app.__get__('arr');
     expect(variable).toBeTruthy();

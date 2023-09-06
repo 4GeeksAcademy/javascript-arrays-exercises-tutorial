@@ -1,6 +1,6 @@
 # `02.2` Retrieve Items
 
-La única forma de acceder a un elemento particular en un arreglo es usando un índice. Un **índice (index)** es un número entero que representa la posición a la que desea acceder en el arreglo.
+La única forma de acceder a un elemento particular en un arreglo es usando el índice. El **índice (index)** es un número entero que representa la posición a la que desea acceder en el arreglo.
 
 Debes envolver el índice entre corchetes de esta manera:
 
@@ -8,8 +8,8 @@ Debes envolver el índice entre corchetes de esta manera:
 let myValue = array[index];
 ```
 
-## 📝 Instrucciones
+## 📝 Instrucciones:
 
-1. Imprima en la consola el 1er elemento de array o arreglo.
+1. Imprima en la consola el 1er elemento del array.
 
-2. Imprima en la consola el 4to elemento de la arreglo o array.
+2. Imprima en la consola el 4to elemento del array.

@@ -8,7 +8,7 @@ global.console.log = console.log = jest.fn((text) => _buffer += text + "\n");
 let reverse = Array.prototype.reverse;
 Array.prototype.reverse = jest.fn(function(){ return this; });
 
-test("Remember that your for loop must start by declaring a variable let or var", function(){
+test('Remember that your "for" loop must start by declaring a variable let or var', function(){
     const content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
     expect(/for\s*\(\s*(let|var)\s*/.test(content)).toBe(true)
 })
@@ -27,7 +27,7 @@ test('Do not use the reverse function', function () {
     expect(appContent.includes('.reverse(')).toBe(false);
 });
 
-test('Loop the array in a reverse order and console.log all of its item', function () {
+test('Loop the array in a reverse order and console.log all of its items', function () {
     const _app = rewire('./app.js');
     const variable = _app.__get__('mySampleArray');
     let inverted = [];
