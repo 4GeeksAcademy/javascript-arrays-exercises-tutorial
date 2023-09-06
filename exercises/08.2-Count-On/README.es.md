@@ -17,6 +17,8 @@ for(let i = 0; i < myArray.length; i++) {
 }
 ```
 
+> Nota: Te darás cuenta que cuando verificas el tipo de dato de un array, te devolverá que es un `'object'`. Puedes investigar el por qué en Google o proceder con el ejercicio como de costumbre.
+
 ## 💡 Pistas:
 
 + Recorre el array dado con un loop.
