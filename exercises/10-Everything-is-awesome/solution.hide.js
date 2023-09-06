@@ -8,7 +8,6 @@ const ZerosToYahoos = (arr) => {
             // magic goes inside these brackets
            return_array.push(item === 1 ? item : 'Yahoo')
     });
-    
     return return_array;
 };
 
@@ -28,7 +27,6 @@ const ZerosToYahoos2 = (arr) => {
                 return_array.push('Yahoo')
             }
     });
-    
     return return_array;
 };
 
