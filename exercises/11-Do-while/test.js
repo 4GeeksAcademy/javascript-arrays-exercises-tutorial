@@ -14,7 +14,7 @@ test('You have to use the do...while function', () => {
     expect(regex.test(file.toString())).toBeTruthy();
 })
 
-it("The output should match the one in the instructions", function () {
+it('The output should match the one in the instructions', function () {
     const app = require('./app.js');
     
     let _output = [];
