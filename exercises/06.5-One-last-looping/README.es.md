@@ -12,7 +12,7 @@
 
 ## 💻 Resultado esperado:
 
-```js
+```text
 Annie
 Bart
 Cesco
