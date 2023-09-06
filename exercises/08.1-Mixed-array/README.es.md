@@ -21,8 +21,8 @@
 
 + Recorre el arreglo original mediante un bucle.
 
-+ En cada bucle, obten el tipo de elemento utilizando la función `typeof`.
++ En cada bucle, obtén el tipo de elemento utilizando la función `typeof`.
 
 + Como la función `typeof` devuelve un string, puedes insertar(push) ese string en el nuevo arreglo.
 
-+ Cuando finalice el bucle, debes haber encontrado todos los tipos de elementos del arreglo original y haberlos insertados(push) en el nuevo arreglo.
++ Cuando finalice el bucle, debes haber encontrado todos los tipos de elementos del arreglo original y haberlos insertado(push) en el nuevo arreglo.
