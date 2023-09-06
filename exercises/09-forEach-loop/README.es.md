@@ -1,11 +1,11 @@
-# `09` Bucle/loop forEach 
+# `09` forEach Loop
 
-En lugar de usar la clásica declaración `for`, hay una nueva forma de recorrer los arreglos: [ higher order functions (funciones de orden superior) ](https://www.youtube.com/watch?v=rRgD1yVwIvE)
+En lugar de usar la clásica declaración `for`, hay una nueva forma de recorrer los arreglos: [higher order functions (funciones de orden superior)](https://www.youtube.com/watch?v=rRgD1yVwIvE).
 
-Es posible recorrer un arreglo usando la función `array.forEach`. Debes especificar qué hacer en cada iteración del bucle.
+Es posible recorrer un arreglo usando la función `myArray.forEach()`. Debes especificar qué hacer en cada iteración del bucle.
 
 ```js
-myArray.forEach(function(item, index, arr){
+myArray.forEach(function(item, index, arr) {
 		
 });
 /**
@@ -15,12 +15,12 @@ myArray.forEach(function(item, index, arr){
 */
 ```
 
-## :pencil: Instrucciones:
+## 📝 Instrucciones:
 
-En este momento, el código está imprimiendo todos los elementos en el arreglo o array: 
+En este momento, el código está imprimiendo todos los elementos en el array: 
 
 1. Cambia el código de la función para imprimir solo los números divisibles por 14.
 
-## :bulb: Pista:
+## 💡 Pista:
 
-+ Un número X es divisible por 2 si `(X%2===0)`.
++ Un número (x) es divisible por 2 si `(x % 2 === 0)`.

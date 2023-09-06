@@ -1,6 +1,6 @@
-function sumTheElements(theArray){
+function sumTheElements(theArray) {
 	let total = 0;
-	//your code here
+	// Your code here
 
 	return total;
 }

@@ -4,10 +4,9 @@ let myArray = [ 1, 0, 0, 0, 1, 0, 0, 0, 1, 1 ];
 
 const ZerosToYahoos = (arr) => {
     let return_array = [];
-    arr.forEach((item,index) => {
+    arr.forEach((item) => {
             // magic goes inside these brackets
            return_array.push(item === 1 ? item : 'Yahoo')
-            
     });
     return return_array;
 };
@@ -20,15 +19,13 @@ let myArray2 = [ 1, 0, 0, 0, 1, 0, 0, 0, 1, 1 ];
 
 const ZerosToYahoos2 = (arr) => {
     let return_array = [];
-    arr.forEach((item,index) => {
+    arr.forEach((item) => {
             // magic goes inside these brackets
             if (item === 1) {
                 return_array.push(item)
-            }else{
+            } else {
                 return_array.push('Yahoo')
-
             }
-            
     });
     return return_array;
 };

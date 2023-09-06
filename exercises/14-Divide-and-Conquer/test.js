@@ -19,7 +19,7 @@ test('You have to use a "for" loop', () => {
   const regex = /for\s*/gm
   expect(regex.test(file.toString())).toBeTruthy();
 })
-test('You have to use a "for" loop', () => {
+test('You must use the .concat() method', () => {
   const file = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
   const regex = /.concat\s*/gm
   expect(regex.test(file.toString())).toBeTruthy();

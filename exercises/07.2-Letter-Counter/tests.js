@@ -13,7 +13,7 @@ it('You have to use the console.log function once, at the end of the exercise', 
     expect(console.log.mock.calls.length).toBe(1);
 });
 
-it('Use a for loop', function () {
+it('Use a "for" loop', function () {
     const app_content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
     expect(app_content).toMatch(/for(\s*)\(/);
 });
