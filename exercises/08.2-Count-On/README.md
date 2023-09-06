@@ -17,6 +17,8 @@ for(let i = 0; i < myArray.length; i++) {
 }
 ```
 
+> Note: You may notice that when checking the type of an array, it outputs 'object'. Don't worry about that for now and proceed with the exercise normally.
+
 ## 💡 Hints:
 
 + Loop the given array.
