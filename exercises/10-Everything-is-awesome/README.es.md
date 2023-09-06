@@ -14,4 +14,4 @@ Por ejemplo, la salida de `[0,0,1,1,0]` sería:
 
 ## 💡 Pista:
 
-+ Cuando agregues el número `1` al nuevo array asegúrate de hacerlo como número y no como string. 
++ Cuando agregues el número `1` al nuevo array, asegúrate de hacerlo como número y no como string. 
