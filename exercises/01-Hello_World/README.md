@@ -18,7 +18,7 @@ console.log("How are you?");
 
 ## 📝 Instructions:
 
-1. Use console.log to print "Hello World" on the console. Feel free to try other things as well.
+1. Use `console.log()` to print "Hello World" on the console. Feel free to try other things as well.
 
 ## 💡 Hint:
 
