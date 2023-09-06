@@ -8,7 +8,7 @@ tutorial: https://www.youtube.com/watch?v=IwDDj6wN4jY
 
 1. Without using the `reverse()` method, please reverse loop (from the end to the beginning) the whole array and print all the items on the console as you go.
 
-## 💡 Hint:
+## 💡 Hints:
 
 + Use a `for()` loop like we have been using in previous exercises.
 
