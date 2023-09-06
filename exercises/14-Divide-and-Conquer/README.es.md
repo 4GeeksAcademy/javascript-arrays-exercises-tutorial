@@ -25,4 +25,4 @@ mergeTwoList([1,2,33,10,20,4]);
 
 ## 💡 Pista:
 
-+ Crea variables locales vacías o ***auxiliares*** cuando necesites almacenar datos dentro de una función.
++ Crea variables vacías o ***auxiliares*** cuando necesites almacenar datos dentro de una función.
