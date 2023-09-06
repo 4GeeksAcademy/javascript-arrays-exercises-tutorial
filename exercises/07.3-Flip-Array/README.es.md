@@ -15,4 +15,4 @@ Final array:    [60, 32, 5 , 23, 87, 67, 45];
 
 + Debes recorrer todo el arreglo [desde el final hasta el principio](https://stackoverflow.com/questions/1340589/are-loops-really-faster-in-reverse).
 
-+ En cada bucle, inserta todos los elementos (a medida que avanza) en un nuevo array, este será tu arreglo invertido. Qué otros métodos puedes usar además de `push()`?
++ En cada bucle, inserta todos los elementos (a medida que avanza) en un nuevo array, este será tu arreglo invertido. ¿Qué otros métodos puedes usar además de `push()`?
