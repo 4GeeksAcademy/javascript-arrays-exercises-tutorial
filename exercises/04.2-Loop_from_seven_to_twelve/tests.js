@@ -11,7 +11,7 @@ it('Call the console.log function on every cycle', function () {
     expect(console.log.mock.calls.length).toBe(6);
 });
 
-test('You have to use a for loop', () => {
+test('You have to use a "for" loop', () => {
     const file = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
     const regex = /for\s*/gm
     expect(regex.test(file.toString())).toBeTruthy();
