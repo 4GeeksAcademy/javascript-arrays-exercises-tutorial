@@ -17,7 +17,7 @@ it('console.log() function should have been called 2 times', function () {
     expect(console.log.mock.calls.length).toBe(2);
 });
 
-it('Print the 1st item on the array (position 2)', function () {
+it('Print the 1st item of the array (position 0)', function () {
     //You can also compare the entire console buffer (if there have been several console.log calls on the exercise)
     expect(_buffer.includes("4\n")).toBe(true);
 });
