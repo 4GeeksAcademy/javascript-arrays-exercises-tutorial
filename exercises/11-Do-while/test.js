@@ -8,7 +8,7 @@ global.console.log = console.log = jest.fn((text) => _buffer += text + "\n");
 
 const app_content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8'); 
 
-test('You have to use the do-while function', () => {
+test('You have to use the do...while function', () => {
     const file = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
     const regex = /do\s*/gm
     expect(regex.test(file.toString())).toBeTruthy();
