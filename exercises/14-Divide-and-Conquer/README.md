@@ -25,4 +25,4 @@ mergeTwoList([1,2,33,10,20,4]);
 
 ## 💡 Hint:
 
-+ Create local empty ***placeholder*** or ***auxiliary*** variables when you need to store data in a function.
++ Create local empty ***placeholders*** or ***auxiliary*** variables when you need to store data in a function.
