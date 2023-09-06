@@ -8,11 +8,11 @@ global.console.log = console.log = jest.fn((text) => _buffer += text + "\n");
 
 const app_content = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
 
-it("Use a for loop", function () {
+it('Use a "for" loop', function () {
     expect(app_content).toMatch(/for(\s*)\(/);
 });
 
-it("Do not cheat using the function .forEach", function () {
+it('Do not cheat using the function .forEach', function () {
     expect(app_content).not.toMatch(/\.forEach(\s*)\(/);
 });
 
