@@ -7,8 +7,8 @@
 Por ejemplo:
 
 ```js
-Initial array:  [45, 67, 87, 23, 5,  32, 60];
-Final array:    [60, 32, 5 , 23, 87, 67, 45];
+Initial array:  [45, 67, 87, 23, 5, 32, 60];
+Final array:    [60, 32, 5, 23, 87, 67, 45];
 ```
 
 ## 💡 Pistas:
