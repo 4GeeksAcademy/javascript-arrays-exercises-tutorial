@@ -1,6 +1,6 @@
 # `05.1` Loop an array
 
-Ok, esta es la primera vez que vas a recorrer un loop o bucle desde cero.
+Ok, esta es la primera vez que vas a recorrer un array desde cero.
 
 ## 📝 Instrucciones:
 
