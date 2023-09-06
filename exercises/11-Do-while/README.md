@@ -1,9 +1,9 @@
 # `11` DO DO DO
 
-The `do{}while()`; is another loop example in javascript is less commonly used but it is a loop.
+The `do{}while()`; is another loop statement in JavaScript that is less commonly used, but it's still a loop.
 
 ```js
-// stating value for the loop:
+// starting value for the loop:
 let i = 0;
 
 // the loop will do everything inside of the do code block
@@ -24,8 +24,7 @@ do {
 
 3. When the loop reaches zero, print `LIFTOFF` instead of `0`. This `console.log()` statement must go **inside** of the loop.
  
-
-### Expected result:
+## 💻 Expected result:
 
 ```js
 20!
