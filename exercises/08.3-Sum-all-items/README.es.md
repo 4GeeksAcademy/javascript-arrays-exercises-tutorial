@@ -11,7 +11,7 @@ console.log(sumTheElements([2,13,34,5]))
 // El resultado debe ser 54
 ```
 
-## 💡 Pista:
+## 💡 Pistas:
 
 + Inicializa una variable `total` en 0.
 
