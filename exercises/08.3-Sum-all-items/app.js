@@ -4,5 +4,3 @@ function sumTheElements(theArray) {
 
 	return total;
 }
-
-console.log(sumTheElements([2,13,34,5]))
