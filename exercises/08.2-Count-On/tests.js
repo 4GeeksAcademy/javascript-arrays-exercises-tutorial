@@ -32,7 +32,7 @@ it('Do not cheat using the function filter', function () {
 //     expect(variable.filter(item => typeof(item) === "object")).toMatch(hello);
 // });
 
-it("The new array \"hello\" should only contain the 'object' types in myArray", function () {
+it('The new array "hello" should only contain the \'object\' types in myArray', function () {
     const _app = rewire('./app.js');
     const variable = _app.__get__('myArray');
     const hello = _app.__get__('hello');
