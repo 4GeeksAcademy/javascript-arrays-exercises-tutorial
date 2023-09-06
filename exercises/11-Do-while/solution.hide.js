@@ -8,4 +8,4 @@ do {
     else { console.log(i) };
     i--;
 } while (i > 0);
-console.log("LIFTOFF")
+console.log("LIFTOFF");
