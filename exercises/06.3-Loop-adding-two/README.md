@@ -2,7 +2,7 @@
 tutorial: https://www.youtube.com/watch?v=VpXGQbY6UFs
 ---
 
-# `06.3`  Loop adding two
+# `06.3` Loop every two positions
 
 This code is looping the whole array, one by one, and printing the items on the console.
 
@@ -10,7 +10,7 @@ This code is looping the whole array, one by one, and printing the items on the 
 
 1. Change the loop so it loops two by two instead of one by one.
 
-## Expected result:
+## 💻 Expected result:
 
 ```js
 3423
