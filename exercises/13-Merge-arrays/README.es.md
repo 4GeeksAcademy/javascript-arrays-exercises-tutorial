@@ -17,6 +17,6 @@ En este ejercicio vamos a unir dos arreglos programáticamente.
 
 + Puedes encontrar más información sobre diferentes formas de unir arrays [aquí](https://www.techiedelight.com/es/merge-elements-two-arrays-javascript/).
 
-+ Si tienes dificultades para evitar obtener un array anidado, echa un vistazo al concepto del [operador de propagación de JavaScript.](https://www.educative.io/edpresso/what-is-the-spread-operator-in-javascript).
++ Si tienes dificultades para evitar obtener un array anidado, echa un vistazo al concepto del [operador de propagación de JavaScript](https://www.educative.io/edpresso/what-is-the-spread-operator-in-javascript).
   
 + Tendrás que recorrer cada arreglo e insertar sus elementos en un nuevo arreglo.
