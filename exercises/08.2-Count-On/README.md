@@ -12,7 +12,7 @@ Here is how to print all the item types:
 let myArray = [42, true, "towel", [2,1], 'hello', 34.4, {"name": "juan"}];
 
 for(let i = 0; i < myArray.length; i++) {
-    let item = myArray[index];
+    let item = myArray[i];
     console.log(typeof(item))
 }
 ```
