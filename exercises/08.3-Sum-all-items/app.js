@@ -1,6 +1,8 @@
-function sumTheElements(theArray){
+function sumTheElements(theArray) {
 	let total = 0;
-	//your code here
+	// Your code here
 
 	return total;
 }
+
+console.log(sumTheElements([2,13,34,5]))
