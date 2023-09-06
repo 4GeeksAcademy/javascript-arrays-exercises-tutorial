@@ -9,7 +9,7 @@ global.console.log = console.log = jest.fn((text) => _buffer += text + "\n");
 let reverse = Array.prototype.reverse;
 Array.prototype.reverse = jest.fn(function(){ return this; });
 
-it('Use the console.log function once', function () {
+it('Use the console.log function once, at the end of the exercise', function () {
     const app = require('./app.js');
     expect(console.log.mock.calls.length).toBe(1);
 });
