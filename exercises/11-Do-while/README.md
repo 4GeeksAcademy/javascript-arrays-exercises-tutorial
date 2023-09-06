@@ -20,7 +20,7 @@ do {
 
 1. Print every iteration number on the console from 20 to 0.
 
-2. Print the numbers that are module of 5 with a concatenated exclamation mark.
+2. Print the numbers that are module of 5 with a concatenated exclamation mark `!`.
 
 3. When the loop reaches zero, print `LIFTOFF` instead of `0`. This `console.log()` statement must go **inside** of the loop.
  
