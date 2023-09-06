@@ -36,7 +36,7 @@ it('Print in the console as you loop the array', function () {
     expect(_buffer).toMatch(variable.filter((n,i) => i > (variable.length / 2)).map(n => n+"\n").join(""));
 });
 
-test('You have to use for loop', () => {
+test('You have to use a "for" loop', () => {
     const file = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
     const regex = /for\s*/gm
     expect(regex.test(file.toString())).toBeTruthy();
