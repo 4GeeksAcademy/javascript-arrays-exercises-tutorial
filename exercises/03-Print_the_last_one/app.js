@@ -7,4 +7,4 @@ function generateRandomArray()
 }
 let myStupidArray = generateRandomArray();
 
-//Your code here
+// Your code here
