@@ -1,4 +1,4 @@
-# `17` The For Loop Find average
+# `17` The For...of loop get average
 
 Another way to loop an array with the `for` loop is to use the `of` statement like this:
 
