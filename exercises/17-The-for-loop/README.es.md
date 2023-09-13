@@ -3,8 +3,8 @@
 Otra forma de recorrer un arreglo con el loop `for` es usando la declaración `of` de esta manera:
 
 ```js
-for (let item of myArray) {
-    console.log(item);
+for (let element of myArray) {
+    console.log(element);
 }
 ```
 
