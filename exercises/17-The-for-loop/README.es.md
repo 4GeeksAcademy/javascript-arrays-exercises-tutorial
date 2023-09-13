@@ -1,12 +1,19 @@
-# `17` Un For Loop para encontrar un promedio
+# `17` The For Loop Find average
 
 Otra forma de recorrer un arreglo con el loop `for` es usando la declaración `of` de esta manera:
 
 ```js
-for (let item of myArray){
+for (let item of myArray) {
     console.log(item);
 }
 ```
+
+El bucle `for...of` te proporciona acceso directo a los elementos (como se muestra arriba), sin que tengas que utilizar el formato `array[indice]` para acceder al valor de un elemento.
+
+Esto hace que este tipo de bucle sea más sencillo de usar; sin embargo, no te proporciona acceso a los índices, por lo que si necesitas utilizar los índices de los elementos, no podrás hacerlo.
+
+Puedes aprender más sobre este tipo de bucles aqui: 
+https://www.w3schools.com/js/js_loop_forof.asp
 
 ## 📝 Instrucciones:
 
@@ -18,7 +25,7 @@ for (let item of myArray){
 
 + Para imprimir el promedio, debes sumar todos los valores y dividir el resultado por la longitud  (length) total del arreglo.
 
-## Resultado esperado:
+## 💻 Resultado esperado:
 
 ```js
 27278.8125
