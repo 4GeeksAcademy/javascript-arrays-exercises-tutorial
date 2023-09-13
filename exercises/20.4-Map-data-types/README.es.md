@@ -1,10 +1,8 @@
 # `20.4` Map data types
 
-Algunas veces los arreglos vienen con valores mixtos y debes unificarlos en un solo tipo de datos.
-
 ## 📝 Instrucciones:
 
-1. Actualiza la función `array.map()` para que cree un nuevo arreglo que contenga los tipos de datos de cada elemento correspondiente al arreglo original.
+1. Actualiza la función `array.map()` para que cree un nuevo arreglo que contenga los tipos de datos de cada elemento del arreglo dado.
 
 ## 💡 Pista:
 
@@ -13,5 +11,10 @@ Algunas veces los arreglos vienen con valores mixtos y debes unificarlos en un s
 ## 💻 Resultado esperado:
 
 ```js
-[string,string,... ,number,string,...]
+[ 
+  'string', 'string', 
+  'string', 'string', 
+  'string', 'string', 
+  'number', 'number' 
+]
 ```
