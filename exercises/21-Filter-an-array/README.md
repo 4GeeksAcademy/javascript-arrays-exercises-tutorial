@@ -2,7 +2,7 @@
 
 Another amazing function for arrays is `array.filter()`. It loops the entire original array and only returns the values that match a particular condition.
 
-[Here is the documentation of the filter() function in w3schools](https://www.w3schools.com/jsref/jsref_filter.asp)
+[Here is the documentation of the filter() function in w3schools](https://www.w3schools.com/jsref/jsref_filter.asp).
 
 For example, this algorithm filters the `allNumbers` array and returns a new array with only the odds numbers:
 
