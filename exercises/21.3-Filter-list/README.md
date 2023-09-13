@@ -8,6 +8,12 @@ Given an array `names`, please create a function that filters only the names con
 
 **The search should NOT be Case Sensitive.**
 
+## 💻 Expected result:
+
+```js
+[ 'Liam', 'William', 'James', 'Benjamin', 'Amelia', 'Samuel', 'Camila' ]
+```
+
 ## 💡 Hint:
 
 ```js
