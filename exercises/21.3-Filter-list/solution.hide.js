@@ -4,7 +4,7 @@ let names = ['Liam','Emma','Noah','Olivia','William','Ava','James','Isabella','L
 
 function filterByName(array, filterString) {
     let filteredArray = array.filter(item => item.toLowerCase().includes(filterString.toLowerCase()))
-    return filteredArray
+    return filteredArray;
 }
 
 console.log(filterByName(names, 'am'));
