@@ -1,4 +1,4 @@
-# `17` The For Loop Find average
+# `17` The For...of loop get average
 
 Otra forma de recorrer un arreglo con el loop `for` es usando la declaración `of` de esta manera:
 
