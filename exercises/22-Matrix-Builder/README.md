@@ -10,7 +10,7 @@ After some malicious code, mainly created by Mr. Smith, the matrix has a gaping 
 
 > Example: 5 means that the matrix should be `5 x 5`. 
 
-2. This function should return an array of arrays that represents the matrix. **Example:** with 3 as an argument it should return:
+2. This function should return an array of arrays that represent the matrix. **Example:** with 3 as an argument it should return:
 
 ```js
 [
