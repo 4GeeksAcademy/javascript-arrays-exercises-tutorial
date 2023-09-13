@@ -13,7 +13,7 @@ The `for...of` loop gives you direct access to the elements (as seen above), wit
 That makes this type of loop simpler to use; however it does not give you access to indexes, so if you need to use the indexes of the elements, you wont be able to. 
 
 You can learn more about these loops here:
-https://www.w3schools.com/js/js_loop_forof.asp
+[https://www.w3schools.com/js/js_loop_forof.asp](https://www.w3schools.com/js/js_loop_forof.asp)
 
 ## 📝 Instructions:
 
