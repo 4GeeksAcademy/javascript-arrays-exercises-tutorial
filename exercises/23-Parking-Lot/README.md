@@ -20,7 +20,7 @@ parkingState = [
 1. Create a function `getParkingLotState()` that returns an object with `totalSlots`, `availableSlots` and `occupiedSlots` like the following:
 
 ```js
-const state = {
+let state = {
      totalSlots: 12,
      availableSlots: 3,
      occupiedSlots: 9
