@@ -2,7 +2,7 @@
 
 La variable `names` contiene muchos nombres (obviamente...)
 
-La función almacenada en la variable `prepender` devuelve todo lo que se le pasa pero anteponiendo el string: `'My name is:'`
+La función almacenada en la variable `prepender` devuelve todo lo que se le pasa pero anteponiendo el string: `'My name is: '`
 
 ## 📝 Instrucciones:
 
