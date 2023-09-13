@@ -3,7 +3,7 @@ let names = ['Liam','Emma','Noah','Olivia','William','Ava','James','Isabella','L
 // Your code here
 
 function filterByName(array, filterString) {
-    let filteredNames = array.filter(item => item.toLowerCase().includes(filterString.toLowerCase()))
+    let filteredNames = array.filter(item => item.toLowerCase().includes(filterString.toLowerCase()));
     return filteredNames;
 }
 
