@@ -11,7 +11,7 @@ let latitude = coordinatesArray[0][0];
 let longitude = coordinatesArray[0][1];
 ```
 
-## 📝 Instruciones:
+## 📝 Instrucciones:
 
 1. Recorre el arreglo (con un bucle) imprimiendo solo las longitudes.
 
