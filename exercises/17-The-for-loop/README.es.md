@@ -8,7 +8,7 @@ for (let element of myArray) {
 }
 ```
 
-El bucle `for...of` te proporciona acceso directo a los elementos (como se muestra arriba), sin que tengas que utilizar el formato `array[indice]` para acceder al valor de un elemento.
+El bucle `for...of` te proporciona acceso directo a los elementos (como se muestra arriba), sin que tengas que utilizar el formato `array[index]` para acceder al valor de un elemento.
 
 Esto hace que este tipo de bucle sea más sencillo de usar; sin embargo, no te proporciona acceso a los índices, por lo que si necesitas utilizar los índices de los elementos, no podrás hacerlo.
 
