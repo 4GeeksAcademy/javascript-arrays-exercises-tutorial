@@ -2,7 +2,7 @@
 
 Matrix Rebuilding Coalitions
 
-After some malicious code, mainly by Mr. Smith, the matrix has some gaping hole and it needs some help to rebuild. Create a matrix of random 0's and 1's based on a parameter.
+After some malicious code, mainly created by Mr. Smith, the matrix has a gaping hole, and needs some help to rebuild. Create a matrix of random 0's and 1's based on a parameter.
 
 ## 📝 Instructions:
 
