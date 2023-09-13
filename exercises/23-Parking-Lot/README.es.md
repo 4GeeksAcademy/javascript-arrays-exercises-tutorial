@@ -5,7 +5,7 @@ Podemos usar un arreglo bidimensional (matriz) para representar el estado actual
 ![Parking Lot BreatheCode](../../.learn/assets/23.png)
 
 ```js
-parkingState = [
+let parkingState = [
   [1,0,1,1,0,1],
   [2,0,1,1,0,1],
   [1,0,2,1,0,1],
