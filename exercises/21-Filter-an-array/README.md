@@ -24,4 +24,4 @@ console.log(onlyOdds);
 
 ## 💡 Hint:
 
-+ [Here is a 2:29 min video](https://www.youtube.com/watch?v=0qsFDFC2oEE)https://www.youtube.com/watch?v=0qsFDFC2oEE explaining `array.filter()` function.
++ [Here is a 2:29 min video](https://www.youtube.com/watch?v=0qsFDFC2oEE) explaining `array.filter()` function.
