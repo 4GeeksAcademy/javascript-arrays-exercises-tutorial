@@ -24,7 +24,7 @@ test('You have to use the console.log function', function () {
     expect(console.log.mock.calls.length > 0).toBe(true);
 });
 
-test('The output in the console should match the one in the instructions!', function () {
+test('The output in the console should match the one in the instructions', function () {
     const _app = rewire('./app.js');
     const _myFunction = _app.__get__('myFunction');
     let _numberTest = [23,234,345,4356234,243,43,56,2];
