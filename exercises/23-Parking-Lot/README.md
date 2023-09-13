@@ -6,7 +6,7 @@ We can use a 2 dimensional array (matrix) to represent the current state of a pa
 ![Parking Lot BreatheCode](../../.learn/assets/23.png)
 
 ```js
-parkingState = [
+let parkingState = [
   [1,0,1,1,0,1],
   [2,0,1,1,0,1],
   [1,0,2,1,0,1],
