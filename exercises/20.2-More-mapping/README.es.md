@@ -1,4 +1,4 @@
-# `20.2` Sigamos "mapeando"
+# `20.2` More Mapping
 
 El método `array.map()` llama a una función para cada valor en un arreglo y luego genera un nuevo arreglo con los valores modificados.
 
@@ -9,7 +9,7 @@ incrementByOne = function (number) {
 
 let myArray = [1, 2, 3, 4];
 
-myArray.map(incrementByOne); //devuelve [2, 3, 4, 5]
+myArray.map(incrementByOne); // devuelve [2, 3, 4, 5]
 ```
 
 
@@ -17,11 +17,11 @@ myArray.map(incrementByOne); //devuelve [2, 3, 4, 5]
 
 1. Crea una función llamada `myFunction` que multiplique cada número por 3.
 
-2. Usa la función `array.map()` para ejecutar la función `myFunction` a través de cada valor en el arreglo.
+2. Usa el método `array.map()` para ejecutar la función `myFunction` a través de cada valor en el arreglo.
 
-3. Almacena el nuevo arreglo en una variable llamada `newArray` y luego imprimes el nuevo arreglo con `console.log()`.
+3. Almacena el nuevo arreglo en una variable llamada `newArray` y luego imprime el nuevo arreglo con `console.log()`.
 
-## 💡 Pista:
+## 💡 Pistas:
 
 + La función tomará un parámetro con el elemento original que se transforma y se agrega en el nuevo arreglo.
 
