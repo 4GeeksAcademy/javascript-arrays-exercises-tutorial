@@ -20,7 +20,7 @@ console.log(onlyOdds);
 
 1. Complete the code to make it fill the `resultingNames` array with only the names that start with letter R.
 
-2. Use the `array.filter` function.
+2. Use the `array.filter()` function.
 
 ## 💡 Hint:
 
