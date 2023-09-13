@@ -1,6 +1,6 @@
 # `18` Nested Arrays
 
-It is possible to find an array comprised of other arrays (it is called a two-dimension array or matrix).
+It is possible to find an array comprised of other arrays (it is called a two-dimensional array or matrix).
 
 In this example, we have an array of coordinates that you can access by doing the following:
 
