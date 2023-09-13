@@ -1,4 +1,4 @@
-// Add your code here
+// Your code here
 function lyricsGenerator(arr) {
     let finalString = ""
     let countOne = 0
