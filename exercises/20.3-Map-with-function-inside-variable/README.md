@@ -2,7 +2,7 @@
 
 The variable `names` contains a lot of names (duh...)
 
-The function stored in the variable `prepender` returns whatever is passed to it but prepended with the string: `'My name is:'`
+The function stored in the variable `prepender` returns whatever is passed to it but prepended with the string: `'My name is: '`
 
 ## 📝 Instructions:
 
