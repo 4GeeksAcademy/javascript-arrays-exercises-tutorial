@@ -21,6 +21,8 @@ The function stored in the variable `prepender` returns whatever is passed to it
 ```
 
 
-## 💡 Hint:
+## 💡 Hints:
 
-+ It's one line of code, pass the function to the `array.map()`.
++ Create a new variable to store the new array and pass the function `prepender` to the `array.map()` method.
+
++ Print the new array with a `console.log()`
