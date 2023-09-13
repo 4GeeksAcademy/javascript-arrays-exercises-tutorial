@@ -1,13 +1,13 @@
-# `18` Arrays/arreglos anidados
+# `18` Nested Arrays
 
-Es posible encontrar un arreglo compuesto por otros arreglos (se llama arreglo o arreglo de dos dimensiones).
+Es posible encontrar un arreglo compuesto por otros arreglos (se llama matriz o arreglo de dos dimensiones).
 
-En este ejemplo, tenemos una array o arreglo  de coordenadas a las que puedes acceder haciendo lo siguiente:
+En este ejemplo, tenemos una array de coordenadas a las que puedes acceder haciendo lo siguiente:
 
 ```js
-//la primera coordenada latitud
+// La primera coordenada es latitud
 let latitude = coordinatesArray[0][0];
-//la primera coordenada longitud
+// La segunda coordenada es longitud
 let longitude = coordinatesArray[0][1];
 ```
 
@@ -15,7 +15,7 @@ let longitude = coordinatesArray[0][1];
 
 1. Recorre el arreglo (con un bucle) imprimiendo solo las longitudes.
 
-### Resultado esperado:
+## 💻 Resultado esperado:
 
 ```js
 -112.633853
