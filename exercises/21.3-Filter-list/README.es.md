@@ -8,6 +8,12 @@ Dados los nombres del arreglo `names`, crea una función que liste solo los nomb
 
 **La búsqueda NO debe ser sensible a mayúsculas y minúsculas (case sensitive).**
 
+## 💻 Resultado esperado:
+
+```js
+[ 'Liam', 'William', 'James', 'Benjamin', 'Amelia', 'Samuel', 'Camila' ]
+```
+
 ## 💡 Pista:
 
 ```js
