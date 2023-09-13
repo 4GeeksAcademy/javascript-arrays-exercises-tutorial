@@ -8,4 +8,4 @@ let parkingState = [
 // Your code here
 
 
-console.log(getParkingLotState(parking_state))
+console.log(getParkingLotState(parkingState))
