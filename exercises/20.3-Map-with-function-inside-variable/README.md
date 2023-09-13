@@ -1,14 +1,14 @@
 # `20.3` Map with function inside a variable
 
-The variable `names` contains a lot of names (dugh...)
+The variable `names` contains a lot of names (duh...)
 
 The function stored in the variable `prepender` returns whatever is passed to it but prepended with the string: `'My name is:'`
 
 ## 📝 Instructions:
 
-1. Please map the names array using the `prepender` function to create a new array that looks like this:
+1. Please map the `names` array using the `prepender` function to create a new array that looks like this:
 
-### Expected result:
+## 💻 Expected result:
 
 ```js
 [   'My name is: Alice',
@@ -21,6 +21,6 @@ The function stored in the variable `prepender` returns whatever is passed to it
 ```
 
 
-### 💡 Hint:
+## 💡 Hint:
 
-+ It's one line of code, pass the function to the `array.map()`!
++ It's one line of code, pass the function to the `array.map()`.
