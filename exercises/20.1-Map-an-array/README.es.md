@@ -8,7 +8,7 @@ En este ejemplo, estamos utilizando la función de `array.map()` para crear un n
 // Dado un arreglo de horas militares
 let militaryHours = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24];
 
-// Primero define una función que recibe MilitaryHours y devuelve su equivalente en hora civil
+// Primero define una función que recibe militaryHours y devuelve su equivalente en hora civil
 let militaryToCivilian = function(hour) {
 	if(hour == 12) return hour + "pm";
 	else if(hour == 24) return hour-12 + "am";
