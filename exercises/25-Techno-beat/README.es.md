@@ -18,7 +18,7 @@ Estás trabajando con un DJ, y necesita un programa que pueda crear ritmos para 
 
 ## 💻 Resultado esperado:
 
-```js
+```text
 Boom Boom Drop the bass Drop the bass Boom Boom Boom
 Boom Boom Drop the bass Drop the bass Drop the bass !!!Break the bass!!! Boom Boom Boom
 Boom Boom Boom
