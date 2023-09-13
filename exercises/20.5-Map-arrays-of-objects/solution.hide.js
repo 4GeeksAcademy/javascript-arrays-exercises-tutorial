@@ -16,7 +16,7 @@ let simplifier = function(person) {
 	  age = age - 1;
 	}
 
-    return `Hello, my name is ${person.name} and I am ${age} years old`;
+    return "Hello, my name is " + person.name + " and I am " + age + " years old";
 };
 
 console.log(people.map(simplifier));
