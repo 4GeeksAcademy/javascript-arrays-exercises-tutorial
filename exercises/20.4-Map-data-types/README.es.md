@@ -1,4 +1,4 @@
-# `20.4` `Map` y tipos de datos
+# `20.4` Map data types
 
 Algunas veces los arreglos vienen con valores mixtos y debes unificarlos en un solo tipo de datos.
 
@@ -8,9 +8,9 @@ Algunas veces los arreglos vienen con valores mixtos y debes unificarlos en un s
 
 ## 💡 Pista:
 
-+ Usa la función `typeof` para obtener el tipo de datos
++ Usa la función `typeof` para obtener el tipo de dato.
 
-## Resultado esperado:
+## 💻 Resultado esperado:
 
 ```js
 [string,string,... ,number,string,...]
