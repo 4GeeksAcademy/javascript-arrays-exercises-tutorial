@@ -15,7 +15,7 @@ test('The array "coordinatesArray" should exist', () => {
     expect(coordinatesArray).not.toBe(undefined);
 })
 
-test('You have to use "for" loop function', () => {
+test('You have to use any "for" loop statements', () => {
     const file = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
     const regex = /for\s*/gm
     expect(regex.test(file.toString())).toBeTruthy();
@@ -30,7 +30,7 @@ it('You have to use the console.log function', function () {
 //     //You can also compare the entire console buffer (if there have been several console.log calls on the exercise)
 //     expect(_buffer.includes("27278.8125\n")).toBe(true);
 // });
-it('The output in the console should match the one in the instructions!', function () {
+it('The output in the console should match the one in the instructions', function () {
     const _app = rewire('./app.js');
 
     let _coordinatesArray = [[33.747252,-112.633853],[-33.867886, -63.987],[41.303921, -81.901693],[-33.350534, -71.653268]];
