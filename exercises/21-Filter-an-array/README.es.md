@@ -2,7 +2,7 @@
 
 Otra función sorprendente para los arrays es `array.filter()`. Recorre todo el arreglo original y solo devuelve los valores que coinciden con una condición particular.
 
-[Aquí está la documentación de la función filter() en w3schools](https://www.w3schools.com/jsref/jsref_filter.asp)
+[Aquí está la documentación de la función filter() en w3schools](https://www.w3schools.com/jsref/jsref_filter.asp).
 
 Por ejemplo, este algoritmo filtra el arreglo `allNumbers` y devuelve un nuevo arreglo con solo los números impares:
 
