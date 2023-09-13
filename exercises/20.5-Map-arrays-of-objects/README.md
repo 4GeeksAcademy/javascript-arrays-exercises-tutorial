@@ -6,7 +6,7 @@ The current algorithm creates an array with only the names of the people and pri
 
 ## 📝 Instructions:
 
-1. Please update the mapping function so it creates an array where each item contains the following:
+1. Please update the `simplifier` function so it creates an array where each item contains the following:
 
 ```text
 Hello, my name is Joe and I am 36 years old
@@ -30,6 +30,6 @@ The result should be similar to this, but the ages might be different.
 
 + Search in Google "How to get the age of a given birth date in JavaScript".
 
-+ Remember that the age also depends on the month, if the month of the current date is greater than or equal to the current month, it adds up one more year.
++ Remember that the age also depends on the day, if the day of the current date is greater than or equal to the current day, it adds up one more year.
 
-+ Inside your simplifier function you have to return a concatenation.
++ Inside your `simplifier` function you have to return a concatenation.
