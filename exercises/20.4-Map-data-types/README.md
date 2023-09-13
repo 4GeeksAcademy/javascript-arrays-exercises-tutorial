@@ -1,6 +1,6 @@
 # `20.4` Map data types
 
-Some times arrays come with mixed values and you need to unify them into only one data type.
+Sometimes arrays come with mixed values, and you need to unify them into only one data type.
 
 ## 📝 Instructions:
 
@@ -9,7 +9,8 @@ Some times arrays come with mixed values and you need to unify them into only on
 ## 💡 Hint:
 
 + Use the `typeof` function to get the data type.
-## Expected result:
+
+## 💻 Expected result:
 
 ```js
 [string,string,... ,number,string,...]
