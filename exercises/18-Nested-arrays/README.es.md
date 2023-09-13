@@ -2,7 +2,7 @@
 
 Es posible encontrar un arreglo compuesto por otros arreglos (se llama matriz o arreglo de dos dimensiones).
 
-En este ejemplo, tenemos una array de coordenadas a las que puedes acceder haciendo lo siguiente:
+En este ejemplo, tenemos un array de coordenadas a las que puedes acceder haciendo lo siguiente:
 
 ```js
 // La primera coordenada es latitud
