@@ -2,7 +2,7 @@
 
 ## 📝 Instrucciones:
 
-1. Actualiza la función `array.map()` para que cree un nuevo arreglo que contenga los tipos de datos de cada elemento del arreglo dado.
+1. Modifica la función de `array.map()` para que cree un nuevo arreglo que contenga los tipos de datos de cada elemento del arreglo dado.
 
 ## 💡 Pista:
 
