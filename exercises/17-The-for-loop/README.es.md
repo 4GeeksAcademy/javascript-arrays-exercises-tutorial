@@ -23,6 +23,8 @@ Puedes aprender más sobre este tipo de bucles aquí:
 
 ## 💡 Pista:
 
++ Recuerda utilizar variables auxiliares.
+
 + Para obtener el promedio, debes sumar todos los valores y dividir el resultado por la longitud total del arreglo.
 
 ## 💻 Resultado esperado:
