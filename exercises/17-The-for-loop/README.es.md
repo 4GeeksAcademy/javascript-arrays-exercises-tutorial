@@ -21,7 +21,7 @@ Puedes aprender más sobre este tipo de bucles aquí:
 
 2. Imprímelo en la consola.
 
-## 💡 Pista:
+## 💡 Pistas:
 
 + Recuerda utilizar variables auxiliares.
 
