@@ -12,7 +12,7 @@ El algoritmo actual crea un arreglo con solo los nombres de las personas y los i
 Hello, my name is Joe and I am 36 years old
 ```
 
-## 💻 Resultado esperado:
+## 💻 Resultado esperado:
 
 Debe quedar algo similar a esto, sin embargo, las edades pueden variar.
 
