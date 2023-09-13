@@ -21,6 +21,8 @@ La función almacenada en la variable `prepender` devuelve todo lo que se le pas
 ```
 
 
-## 💡 Pista:
+## 💡 Pistas:
 
-Es una línea de código, ¡pasa la función a `array.map()`!
++ Crea una nueva variable para almacenar el nuevo array y pasa la función `prepender` al método `array.map()`.
+
++ Imprime el nuevo array con un `console.log()`
