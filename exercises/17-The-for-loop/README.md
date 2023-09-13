@@ -21,7 +21,9 @@ You can learn more about these loops here:
 
 2. Print it on the console.
 
-## 💡 Hint:
+## 💡 Hints:
+
++ Remember to use auxiliary variables.
 
 + To get the average, you have to add all the values and divide the result by the total length of the list.
 
