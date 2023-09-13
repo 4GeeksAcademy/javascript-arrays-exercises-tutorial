@@ -6,7 +6,8 @@ let people = [
 	{ name: 'Steve', birthDate: new Date(2003,4,24) }
 ];
 
-let simplifier = function(person){
+let simplifier = function(person) {
+	// Your code here
 	return person.name;
 };
 
