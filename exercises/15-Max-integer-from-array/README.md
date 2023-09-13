@@ -7,7 +7,7 @@
 
 2. Print that largest integer in the console with the `console.log()` function.
 
-## 💡 Hint:
+## 💡 Hints:
 
 - Define an auxiliary variable. What should its initial value be?
 
