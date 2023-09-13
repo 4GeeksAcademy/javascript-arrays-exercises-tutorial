@@ -18,7 +18,7 @@ You are working with a DJ, and he needs a program that can create beats for his 
 
 ## 💻 Expected Output:
 
-```js
+```text
 Boom Boom Drop the bass Drop the bass Boom Boom Boom
 Boom Boom Drop the bass Drop the bass Drop the bass !!!Break the bass!!! Boom Boom Boom
 Boom Boom Boom
