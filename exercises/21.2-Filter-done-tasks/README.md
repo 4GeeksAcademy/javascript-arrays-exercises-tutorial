@@ -2,7 +2,7 @@
 
 ## 📝 Instructions:
 
-1. Use the `filter()` method to print in the console all the `done: true` tasks from the `tasks` array and print the new array on the console.
+1. Use the `filter()` method to print in the console all the `done: true` tasks from the `tasks` array.
 
 ## 💻 Expected result:
 
