@@ -6,7 +6,7 @@ We can use a 2 dimensional array (matrix) to represent the current state of a pa
 ![Parking Lot BreatheCode](../../.learn/assets/23.png)
 
 ```js
-parking_state = [
+parkingState = [
   [1,0,1,1,0,1],
   [2,0,1,1,0,1],
   [1,0,2,1,0,1],
@@ -28,4 +28,4 @@ const state = {
 ```
 ## 💡 Hint:
 
-+ You have to do a nested loop
++ You have to do a nested loop.
