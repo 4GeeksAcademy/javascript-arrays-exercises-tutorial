@@ -1,14 +1,13 @@
 # `15` Max integer from the array 
 
 
-## 📝Instructions:
+## 📝 Instructions:
 
-1. Write a function `findMax` that finds the greatest integer in any array that is passed to it as a parameter.
+1. Write a function `findMax` that finds the largest integer in any array that is passed to it as a parameter.
 
-2. Print that greatest integer in the console with the `console.log()` function.
+2. Print that largest integer in the console with the `console.log()` function.
 
-
-### 💡 Hint:
+## 💡 Hint:
 
 - Define an auxiliary variable. What should its initial value be?
 
@@ -16,13 +15,11 @@
 
 - Replace the value of the auxiliary variable with that of every encountered number that is greater than the auxiliary.
 
-- At the end you will have the biggest number stored in the variable.
+- At the end, you will have the biggest number stored in the variable.
 
 
-### Expected result:
+## 💻 Expected result:
 
 ```js
-
-  console.log(findMax(myArray)); //prints 5435
-
+  console.log(findMax(myArray)); // prints 5435
 ```
