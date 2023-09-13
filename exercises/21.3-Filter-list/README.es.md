@@ -1,4 +1,4 @@
-# `21.3` Filtrar un arreglo de strings
+# `21.3` Filter Array of Strings
 
 ## 📝 Instrucciones:
 
