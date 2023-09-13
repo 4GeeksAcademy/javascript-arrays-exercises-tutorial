@@ -20,7 +20,7 @@ test("You shouldn't delete the variable prepender", function(){
   expect(myVar).toBeTruthy();
 });
 
-test('The output in the console should match the one in the instructions!', function () {
+test('The output in the console should match the one in the instructions', function () {
     const _app = rewire('./app.js');
    
    let _names = ['Alice','Bob','Marry','Joe','Hilary','Stevia','Dylan'];
