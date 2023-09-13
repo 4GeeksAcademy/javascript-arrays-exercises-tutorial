@@ -1,13 +1,15 @@
-# `21.2` Filtra las tareas hechas
+# `21.2` Filter Done Tasks
 
 ## 📝 Instrucciones:
 
-1. Usa la función `filter` para eliminar todas las tareas sin hacer del arreglo `tasks` e imprime el nuevo arreglo en la consola.
+1. Usa el método `filter()` para imprimir en consola todas las tareas hechas (`done: true`) del arreglo `tasks`.
 
-### Resultado esperado:
+## 💻 Resultado esperado:
 
 ```js
-[ { label: 'Eat my lunch', done: true },
+[
+  { label: 'Eat my lunch', done: true },
   { label: 'Finish my exercises', done: true },
-  { label: 'Read a book', done: true } ]
+  { label: 'Read a book', done: true }
+]
 ```
