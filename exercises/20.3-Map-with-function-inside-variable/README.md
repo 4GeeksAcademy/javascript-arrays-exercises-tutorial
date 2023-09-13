@@ -25,4 +25,4 @@ The function stored in the variable `prepender` returns whatever is passed to it
 
 + Create a new variable to store the new array and pass the function `prepender` to the `array.map()` method.
 
-+ Print the new array with a `console.log()`
++ Print the new array with a `console.log()`.
