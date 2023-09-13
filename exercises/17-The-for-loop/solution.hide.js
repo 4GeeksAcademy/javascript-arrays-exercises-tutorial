@@ -5,6 +5,7 @@ let totalSum = 0;
 for (let i of myArray) {
 	totalSum += i
 }
+
 let avg = totalSum / myArray.length
 
 console.log(avg)
