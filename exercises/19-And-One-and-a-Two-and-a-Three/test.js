@@ -14,7 +14,7 @@ test('The object "contact" should exist', () => {
   expect(contact).not.toBe(undefined);
 })
 
-test('You have to use "for" loop function', () => {
+test('You have to use any "for" loop statements', () => {
   const file = fs.readFileSync(path.resolve(__dirname, './app.js'), 'utf8');
   const regex = /for\s*/gm
   expect(regex.test(file.toString())).toBeTruthy();
@@ -29,9 +29,9 @@ it('The output in the console should match the one in the instructions!', functi
     const _app = rewire('./app.js');
 
     let _contact = {
-        fullname: "Jane Doe",
-        phone: "321-321-4321",
-        email: "test@test.com"
+        fullName: "John Doe",
+        phone: "123-123-2134",
+        email: "test@nowhere.com"
     }
     let _output = []
     for(let _key in _contact){
