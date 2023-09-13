@@ -2,6 +2,6 @@ let allNames = ["Romario", "Boby", "Roosevelt", "Emiliy", "Michael", "Greta", "P
 
 // Your code here
 
-resultingNames = allNames.filter(item=>item[0] === "R")
+let resultingNames = allNames.filter(item=>item[0] === "R")
 
 console.log(resultingNames);
