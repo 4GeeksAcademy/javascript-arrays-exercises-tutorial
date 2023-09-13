@@ -12,7 +12,7 @@ El bucle `for...of` te proporciona acceso directo a los elementos (como se muest
 
 Esto hace que este tipo de bucle sea más sencillo de usar; sin embargo, no te proporciona acceso a los índices, por lo que si necesitas utilizar los índices de los elementos, no podrás hacerlo.
 
-Puedes aprender más sobre este tipo de bucles aqui: 
+Puedes aprender más sobre este tipo de bucles aquí: 
 https://www.w3schools.com/js/js_loop_forof.asp
 
 ## 📝 Instrucciones:
@@ -23,7 +23,7 @@ https://www.w3schools.com/js/js_loop_forof.asp
 
 ## 💡 Pista:
 
-+ Para imprimir el promedio, debes sumar todos los valores y dividir el resultado por la longitud  (length) total del arreglo.
++ Para obtener el promedio, debes sumar todos los valores y dividir el resultado por la longitud total del arreglo.
 
 ## 💻 Resultado esperado:
 
