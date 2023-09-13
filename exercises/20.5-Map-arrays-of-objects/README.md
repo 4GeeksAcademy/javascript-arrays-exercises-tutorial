@@ -1,6 +1,6 @@
 # `20.5` Map array of objects
 
-The most common scenario for the mapping function is for simplifying given arrays, for example:
+The most common scenario for the mapping function is simplifying given arrays, for example:
 
 The current algorithm creates an array with only the names of the people and prints it on the console.
 
@@ -8,11 +8,11 @@ The current algorithm creates an array with only the names of the people and pri
 
 1. Please update the mapping function so it creates an array where each item contains the following:
 
-```js
+```text
 Hello, my name is Joe and I am 36 years old
 ```
 
-## Expected result:
+## 💻 Expected result:
 
 The result should be similar to this, but the ages might be different.
 
@@ -24,12 +24,12 @@ The result should be similar to this, but the ages might be different.
   'Hello, my name is Steve and I am 19 years old' ]
 ```
 
-## 💡 Hint:
+## 💡 Hints:
 
-+ You have to get the age of each people based on their birthDate. 
++ You have to get the age of each person based on their `birthDate`. 
 
-+ Search in Google "How to get the age of given birth date in javascript".
++ Search in Google "How to get the age of a given birth date in JavaScript".
 
-+ Remember that the age also depends on the month, if the month of the current date is greater than or equal to the current month it adds up to one year".
++ Remember that the age also depends on the month, if the month of the current date is greater than or equal to the current month, it adds up one more year.
 
 + Inside your simplifier function you have to return a concatenation.
