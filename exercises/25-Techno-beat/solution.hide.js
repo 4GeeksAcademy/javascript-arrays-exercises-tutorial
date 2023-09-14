@@ -1,5 +1,5 @@
-// Add your code here
-function lyricsGenerator(arr){
+// Your code here
+function lyricsGenerator(arr) {
     let finalString = ""
     let countOne = 0
 
@@ -7,12 +7,12 @@ function lyricsGenerator(arr){
         if(arr[i] == 0){
             finalString += "Boom "
             countOne = 0
-        }else if(arr[i] == 1){
-            finalString += "Drop the base "
+        } else if(arr[i] == 1) {
+            finalString += "Drop the bass "
             countOne += 1
 
-            if(countOne === 3){
-                finalString += "!!!Break the base!!! "
+            if(countOne === 3) {
+                finalString += "!!!Break the bass!!! "
             }
         }
     }

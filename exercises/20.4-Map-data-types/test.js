@@ -20,7 +20,7 @@ test("You shouldn't delete the variable newArray", function(){
   expect(myVar).toBeTruthy();
 });
 
-test('The output in the console should match the one in the instructions!', function () {
+test('The output in the console should match the one in the instructions', function () {
     const _app = rewire('./app.js');
    
     let _arrayOfStrings = ['1','5','45','34','343','34',6556,323];

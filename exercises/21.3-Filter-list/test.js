@@ -14,12 +14,12 @@ test("You should create a function named filterByName", function(){
   expect(myFunc).toBeTruthy();
 });
 
-test('You have to use the console.log function to print the correct output.', function () {
+test('You have to use the console.log function to print the correct output', function () {
     const app = require('./app.js');
     expect(console.log.mock.calls.length > 0).toBe(true);
 });
 
-test('The output in the console should match the one in the instructions!', function () {
+test('The output in the console should match the one in the instructions', function () {
     const _app = rewire('./app.js');
     
     let _names = ['Liam','Emma','Noah','Olivia','William','Ava','James','Isabella','Logan','Sophia','Benjamin','Mia','Mason','Charlotte','Elijah','Amelia','Oliver','Evelyn','Jacob','Abigail','Lucas','Harper','Michael','Emily','Alexander','Elizabeth','Ethan','Avery','Daniel','Sofia','Matthew','Ella','Aiden','Madison','Henry','Scarlett','Joseph','Victoria','Jackson','Aria','Samuel','Grace','Sebastian','Chloe','David','Camila','Carter','Penelope','Wyatt','Riley'];

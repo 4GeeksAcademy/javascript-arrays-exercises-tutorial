@@ -1,12 +1,11 @@
-# `23` Estacionamiento (Parking lot)
+# `23` Parking lot
 
 Podemos usar un arreglo bidimensional (matriz) para representar el estado actual de un estacionamiento así:
-
 
 ![Parking Lot BreatheCode](../../.learn/assets/23.png)
 
 ```js
-parking_state = [
+let parkingState = [
   [1,0,1,1,0,1],
   [2,0,1,1,0,1],
   [1,0,2,1,0,1],
@@ -18,10 +17,10 @@ parking_state = [
 
 ## 📝 Instrucciones:
 
-1. Crea una función `getParkingLotState()` que devuelva un objeto con `totalSlots` (cantidad total de estacionamientos), `availableSlots` (estacionamientos disponibles) y `occupiedSlots` (estacionamientos ocupados) de esta forma:
+1. Crea una función `getParkingLotState()` que devuelva un objeto con `totalSlots` (cantidad total de puestos), `availableSlots` (puestos disponibles) y `occupiedSlots` (puestos ocupados) de esta forma:
 
 ```js
-const state = {
+let state = {
      totalSlots: 12,
      availableSlots: 3,
      occupiedSlots: 9
@@ -30,4 +29,4 @@ const state = {
 
 ## 💡 Pista:
 
-+ Tienes que hacer un bucle anidado
++ Tienes que hacer un bucle anidado.
