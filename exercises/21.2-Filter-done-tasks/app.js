@@ -9,6 +9,6 @@ let tasks = [
   { label: "Make a trip", done: false },
 ];
 
-// Your code here
+// your code here
 
 console.log(newArray);
