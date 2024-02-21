@@ -5,7 +5,7 @@ intro: https://www.youtube.com/watch?v=ooHdelGf0gI
 
 # Bienvenido a los Loops
 
-Practicaremos los bucles o loops en javascript hasta que te sientas cómodo con ellos.  
+Practicaremos los bucles o loops en JavaScript hasta que te sientas cómodo con ellos.  
 
 Te recomendamos ver el siguiente [video sobre loops o bucles](https://www.youtube.com/watch?v=U3ZlQSOcOI0) antes de empezar. Nos centraremos en:
 
@@ -21,18 +21,12 @@ Te recomendamos ver el siguiente [video sobre loops o bucles](https://www.youtub
 
 6. find.
 
-7. Diccionario de bucles (objetos literales).
+7. bucles en objetos literales.
 
 Haz clic en `next →` cuando estés listo para iniciar los ejercicios.
 
 
 ***
-Si necesitas ir a un ejercicio en particular puedes seleccionar en el menu superior.
+Si necesitas ir a un ejercicio en particular, puedes acceder en el menú superior y seleccionar el ejercicio.
 
-<p align="center">
-  <img src="./menu.png">
-</p>
-Y seleccionar el ejercicio 
-<p align="center">
-  <img src="./menu2.png">
-</p>
+![menú de ejercicios](../../.learn/assets/exercises-menu.png?raw=true)

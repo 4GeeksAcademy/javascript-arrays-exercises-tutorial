@@ -29,7 +29,7 @@ it('You have to use the console.log function', function () {
 //     //You can also compare the entire console buffer (if there have been several console.log calls on the exercise)
 //     expect(_buffer.includes("27278.8125\n")).toBe(true);
 // });
-it('The output in the console should match the one in the instructions!', function () {
+it('The output in the console should match the one in the instructions', function () {
     const _app = rewire('./app.js');
 
     let _myArray = [2323,4344,2325,324413,21234,24531,2123,42234,544,456,345,42,5445,23,5656,423];

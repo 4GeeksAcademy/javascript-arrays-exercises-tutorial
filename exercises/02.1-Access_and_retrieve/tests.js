@@ -20,7 +20,7 @@ it('console.log() function should have been called 2 times', function () {
     expect(console.log.mock.calls.length).toBe(2);
 });
 
-it('Print the third item on the array (position 2)', function () {
+it('Print the 3rd item of the array (position 2)', function () {
     //You can also compare the entire console buffer (if there have been several console.log calls on the exercise)
     expect(_buffer.includes("tuesday\n")).toBe(true);
 });
@@ -29,7 +29,7 @@ it('The fourth item in the array must be equal to "null"' , function(){
     expect(myArray[4]).toBe(null)
 })
 
-it('Print the 4th position of the array', function () {
+it('Print the 4th position of the array (item 5)', function () {
     //You can also compare the entire console buffer (if there have been several console.log calls on the exercise)
     expect(_buffer.includes("null\n")).toBe(true);
 });

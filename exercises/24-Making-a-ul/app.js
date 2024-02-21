@@ -8,26 +8,25 @@ let allColors = [
 	{label: 'Purple', sexy: false},
 ];
 
-function generateLI(color){
-	// your code here
+function generateLI(color) {
+	// Your code here
 }
 
-function filterColors(color){
-	// your code here
+function filterColors(color) {
+	// Your code here
 }
 
-function generateHTMLFromArray(array){
+function generateHTMLFromArray(array) {
 	
-	let filteredOptions = array.filter(filterColors);
+	let filteredOptions = array.filter((filterColors));
 	let LIs = filteredOptions.map(generateLI);
 
 	let htmlString = '<ul>';
-	LIs.forEach(function(elm){
-		htmlString += elm;
+	LIs.forEach(function(element) {
+		htmlString += element;
 	})
 	htmlString += '</ul>';
 	return htmlString;
 }
 
 console.log(generateHTMLFromArray(allColors));
-

@@ -1,9 +1,9 @@
 # `11` DO DO DO
 
-El `do{}while()`; es otro ejemplo de bucle(loop) en javascript que se usa con menos frecuencia pero es un bucle.
+El `do{}while()`; es otra declaracion de bucle en JavaScript que se usa con menos frecuencia, pero es un bucle.
 
 ```js
-// declarando el valor para el loop o bucle:
+// declarando el valor inicial para el loop:
 let i = 0;
 
 // el loop hará todo dentro del bloque de código
@@ -18,11 +18,13 @@ do {
 
 ## 📝 Instrucciones:
 
-1. Imprime cada número de la iteración en la consola del 20 al 0, pero concaténale un signo de exclamación(`!`) al elemento si el número es un múltiplo de 5.
+1. Imprime cada número de la iteración en la consola del 20 al 0.
 
-2. Al final haz un `console.log()`de  `LIFTOFF`
+2. Si el número es un múltiplo de 5, concaténale un signo de exclamación `!` al elemento.
 
-### Resultado esperado:
+3. Cuando el bucle llegue a cero, imprime `LIFTOFF` en vez del número `0`. Esta instrucción debe ir también dentro del bucle.
+
+## 💻 Resultado esperado:
 
 ```js
 20!
@@ -38,5 +40,6 @@ do {
 10!
 .
 .
+1
 LIFTOFF
 ```

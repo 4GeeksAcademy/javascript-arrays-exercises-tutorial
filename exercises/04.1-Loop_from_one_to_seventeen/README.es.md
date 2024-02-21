@@ -1,12 +1,12 @@
 # `04.1` Loop from one to seventeen
 
-El loop (bucle) actual se repite del cero a diez, 
+El loop (bucle) actual se repite del cero a diez. 
 
 ## 📝 Instrucciones:
 
 1. Por favor, haz un loop de 1 a 17.
 
-## Ejemplo de salida:
+## 💻 Ejemplo de salida:
 
 ```js
 1
@@ -28,8 +28,8 @@ El loop (bucle) actual se repite del cero a diez,
 17
 ```
 
-## 💡 Pista:
+## 💡 Pistas:
 
 + Tienes que recorrer del 1 al 17 (no del 0 al 17).
 
-+ Aquí esta un [video de 2 min explicando como hacer un loop](https://www.youtube.com/watch?v=s9wW2PpJsmQ).
++ Aquí está un [video de 6 minutos explicando como hacer un loop](https://www.youtube.com/watch?v=s9wW2PpJsmQ).

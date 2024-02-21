@@ -8,7 +8,7 @@ tutorial: https://www.youtube.com/watch?v=6eLXV_IL2m0
 
 1. Count from 7 to 12 with a loop and print each number on the console.
 
-## Example output:
+## 💻 Example output:
 
 ```js
 7
@@ -21,5 +21,5 @@ tutorial: https://www.youtube.com/watch?v=6eLXV_IL2m0
 
 ## 💡 Hint:
 
-You have to loop from 7 to 12 (including 12).
++ You have to loop from 7 to 12 (including 12).
 

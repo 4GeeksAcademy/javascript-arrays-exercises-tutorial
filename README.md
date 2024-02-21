@@ -25,14 +25,14 @@ Dozens of looping exercises to sharpen your looping skills with for, forEach, ma
   <li><a href="https://github.com/4GeeksAcademy/master-javascript-programming-exercises">Master JavaScript</a></li>
 </ol>
 
-> We need you! These exercises are built and maintained in collaboration with contributors such as yourself. If you find any bugs or misspellings please contribute and/or report them.
+> We need you! These exercises are built and maintained in collaboration with contributors such as yourself. If you find any bugs or misspellings, please contribute and/or report them.
 
 
 ## One click installation (recommended):
 
 You can open these exercises in just a few seconds by clicking: [Open in Codespaces](https://codespaces.new/?repo=4GeeksAcademy/javascript-arrays-exercises-tutorial) (recommended) or [Open in Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial).
 
-> Once you have VSCode open the LearnPack exercises should start automatically. If exercises don't run automatically you can try typing on your terminal: `$ learnpack start`
+> Once you have opened VSCode, the LearnPack exercises should start automatically. If exercises don't run automatically, you can try typing on your terminal: `$ learnpack start`
 
 ## Local Installation
 
@@ -45,16 +45,7 @@ $ npm i learnpack -g
 $ learnpack plugins:install learnpack-node
 ```
 
-2. Download this particular exercise using LearnPack and navigate with `cd` into the folder:
-
-```bash
-$ learnpack download javascript-arrays-exercises
-$ cd javascript-arrays-exercises
-```
-
-> Note: Once you finish downloading, you will find an "exercises" folder that contains all the exercises within.
-
-3. Start the tutorial/exercises by running the following command at the same level where your learn.json file is:
+2. Start the tutorial/exercises by running the following command at the same level where your learn.json file is:
 
 ```bash
 $ npm i jest@24.8.0 -g
@@ -79,7 +70,7 @@ Thanks to these wonderful people ([emoji key](https://github.com/kentcdodds/all-
 
 1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) 💻  (idea) 🤔, (build-tests) ⚠️ , (pull-request-review) 👀 (build-tutorial) ✅ (documentation) 📖
 
-2. [Paolo (plucodev)](https://github.com/plucodev), contribution: (bug reports) 🐛, contribution: (coder), (translation) 🌎
+2. [Paolo (plucodev)](https://github.com/plucodev), contribution: (bug reports) 🐛, (coder) 💻, (translation) 🌎
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind are welcome!
 

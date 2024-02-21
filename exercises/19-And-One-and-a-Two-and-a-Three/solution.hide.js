@@ -1,11 +1,10 @@
 let contact = {
-    fullname: "Jane Doe",
-    phone: "321-321-4321",
-    email: "test@test.com"
+    fullName: "John Doe",
+    phone: "123-123-2134",
+    email: "test@nowhere.com"
 }
-let newContact = []
-    for(let key in contact){
-    // Code goes here
-     console.log(key + " : " + contact[key])
-    }
 
+for (let key in contact) {
+    // Your code here
+     console.log(key + " : " + contact[key])
+}

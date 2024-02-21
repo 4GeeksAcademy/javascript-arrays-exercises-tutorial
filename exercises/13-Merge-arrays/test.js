@@ -13,7 +13,7 @@ test("Function mergeArrays should exist", function(){
   const mergeArrays = file.__get__('mergeArrays');
   expect(mergeArrays).toBeTruthy();
 });
-it('The returned array must contain everything item from firstArray', function () {
+it('The returned array must contain every item from firstArray', function () {
     const _app = rewire('./app.js');
     const mergeArrays = _app.__get__('mergeArrays');
 
@@ -22,7 +22,7 @@ it('The returned array must contain everything item from firstArray', function (
     const arrTest = mergeArrays(_chunk_one,_chunk_two);
     expect(arrTest).toEqual(expect.arrayContaining(_chunk_one));
 });
-it('The returned array must contain everything item from secondArray', function () {
+it('The returned array must contain every item from secondArray', function () {
     const _app = rewire('./app.js');
     const mergeArrays = _app.__get__('mergeArrays');
 

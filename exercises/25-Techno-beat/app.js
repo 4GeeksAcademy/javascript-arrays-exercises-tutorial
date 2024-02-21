@@ -1,7 +1,7 @@
-// Add your code here
+// Your code here
 
 
-// Don't change anything bellow this line
+// Don't change anything below this line
 console.log(lyricsGenerator([0,0,1,1,0,0,0]))
 console.log(lyricsGenerator([0,0,1,1,1,0,0,0]))
 console.log(lyricsGenerator([0,0,0]))

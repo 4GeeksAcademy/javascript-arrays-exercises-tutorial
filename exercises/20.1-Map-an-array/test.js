@@ -14,7 +14,7 @@ it('You have to use the console.log function', function () {
     expect(console.log.mock.calls.length > 0).toBe(true);
 });
 
-it('The output in the console should match the one in the instructions!', function () {
+it('The output in the console should match the one in the instructions', function () {
     const _app = rewire('./app.js');
    
     

@@ -18,12 +18,12 @@ test("The function should return something", function () {
   expect(getParkingLotState([])).toBeTruthy();
 });
 
-test('You have to use the console.log function to print the correct output.', function () {
+test('You have to use the console.log function to print the correct output', function () {
   const app = require('./app.js');
   expect(console.log.mock.calls.length > 0).toBe(true);
 });
 
-test('The output in the console should match the one in the instructions!', function () {
+test('The output in the console should match the one in the instructions', function () {
   const _app = rewire('./app.js');
   let _parking_state = [
     [1,0,1,1],

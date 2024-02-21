@@ -2,20 +2,18 @@
 
 ## 📝 Instructions:
 
-Given a contact object:
+Given an object called `contact`:
 
-1. Please loop all its properties and values and print them on the console.You will have to loop its properties to be able to print them
+1. Please loop through all its properties and values and print them on the console. You will have to loop its properties to be able to print them.
 
-### Expected result:
+## 💻 Expected result:
 
-```ja
-fullname : John Doe
+```js
+fullName : John Doe
 phone : 123-123-2134
 email : test@nowhere.com
 ```
 
-### 💡 Hint:
+## 💡 Hint:
 
-MDN for in loop reference:
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#for...in_statement
++ MDN `for...in` loop reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#for...in_statement

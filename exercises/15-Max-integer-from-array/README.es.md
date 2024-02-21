@@ -1,22 +1,23 @@
 # `15` El máximo número entero dentro del arreglo 
 
-## 📝Instrucciones:
+## 📝 Instrucciones:
 
-1. Escribe un script que encuentre el número entero más grande en `myArray`.
+1. Escribe una función llamada `findMax` que encuentre el número entero más grande dentro de un array.
 
 2. Imprime ese número en la consola con la función `console.log()`.
 
-### 💡 Pista:
+## 💡 Pistas:
 
-- Define una variable auxiliar y establece el primer valor en 0, 
+- Define una variable auxiliar. ¿Cuál debería ser su valor inicial? 
 
-- Luego compara las variables con todos los elementos del arreglo. 
+- Luego compara la variable auxiliar con todos los elementos del arreglo. 
 
 - Reemplaza el valor cada vez que el nuevo elemento sea más grande que el almacenado en la variable auxiliar. 
 
-- Al final tendrá el mayor número almacenado en la variable.
+- Al final tendrás el mayor número almacenado en la variable.
 
-### Resultado esperado:
+## 💻 Resultado esperado:
+
 ```js
- 5435
- ```
+  console.log(findMax(myArray)); // --> 5435
+```

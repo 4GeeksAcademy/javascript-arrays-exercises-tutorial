@@ -17,7 +17,7 @@ it('Call the console.log function inside the loop', function () {
     expect(console.log.mock.calls.length).toBe(14);
 });
 
-it('Print the array from top to bottom, starting at mySampleArray.length-1 and ending at >= 0', function () {
+it('Print the array from last to first item, starting at mySampleArray.length-1 and ending at >= 0', function () {
     const app = rewire('./app.js');
     const variable = app.__get__('mySampleArray');
     expect(_buffer).toMatch(variable.reverse().map(n => n+"\n").join(""));

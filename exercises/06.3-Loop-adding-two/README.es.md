@@ -1,12 +1,12 @@
-# `06.3`  Loop de dos en dos
+# `06.3`  Loop every two positions
 
-Este código está reproduciendo todo el conjunto, uno por uno, e imprime los elementos en la consola.
+Este código está recorriendo todo el array uno por uno, imprimiendo cada elemento en la consola.
 
 ## 📝 Instrucciones:
 
-1. Cambia el bucle para que se repita de dos en dos en lugar de uno por uno.
+1. Cambia el bucle para que recorra de dos en dos en lugar de uno por uno.
 
-## Resultado esperado:
+## 💻 Resultado esperado:
 
 ```js
 3423

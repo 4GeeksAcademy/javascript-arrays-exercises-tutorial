@@ -1,31 +1,31 @@
-# `16` Número entero menor:
+# `16` Minimum integer
 
-Es posible recorrer un arreglo usando la función `array.forEach`. Debes especificar qué hacer en cada iteración del bucle.
+Es posible recorrer un arreglo usando el método `array.forEach()`. Debes especificar qué hacer en cada iteración del bucle.
+
 ```js
-
-myArray.forEach(function(item, index, arr){
+myArray.forEach(function(item, index, arr) {
 	console.log(item, index)
-//item es el valor específico del elemento.
-//index será el índice del elemento.
-//arr será el array al cual pertenece el elemento.
+// item es el valor de cada elemento.
+// index será el índice del elemento.
+// arr será el array al cual pertenece el elemento.
 });
-
 ```
+
 ## 📝 Instrucciones:
 
-1. Utiliza la función `forEach` para obtener el valor mínimo del arreglo e imprimirlo en la consola.
+1. Utiliza el método `forEach()` para obtener el valor mínimo del arreglo e imprimirlo en la consola.
 
-### 💡 Pista:
+## 💡 Pistas:
 
-- Declarar una variable global auxiliar
+- Declara una variable global auxiliar.
 
-- Establece un valor de un número entero muy grande.
+- Establece su valor a un número entero muy grande.
 
-- Cada vez que realices un loop(bucle), compara su valor con el valor del número entero grande, si el valor del elemento es menor, actualiza el valor de la variable auxiliar al valor del elemento.
+- Cada vez que realices un bucle, compara su valor con el valor de la variable, si el valor del elemento es menor, actualiza el valor de la variable auxiliar al valor del elemento.
 
-- Fuera del bucle, una vez finalizado el bucle, imprima el valor auxiliar.
+- Ya fuera del bucle, imprime el valor de la variable auxiliar.
 
-### Resultado esperado:
+## 💻 Resultado esperado:
 
 ```js
 23

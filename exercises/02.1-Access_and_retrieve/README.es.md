@@ -10,26 +10,26 @@ let myArray = ['sunday','monday','tuesday','wednesday','thursday','friday','satu
 
 Cada array tiene las siguientes partes:
 
-- *Item*s*: son los valores reales dentro de cada posición del array (array).
+- **Items** (Elementos): son los valores dentro de cada posición del array.
 
-- *Length* (Longitud): es el tamaño del array, el número de elementos.
+- **Length** (Longitud): es el tamaño del array, el número de elementos.
 
-- *Index* (indice): es la posición de un elemento.
+- **Index** (Índice): es la posición de un elemento.
 
 ![Como funciona un array](../../.learn/assets/DbmSOHT.png?raw=true)
 
-Para acceder a cualquier elemento en particular dentro de un array (array) debes conocer su índice (posición). El índice o index es un valor entero que representa la posición en la que se encuentra el elemento. 
+Para acceder a cualquier elemento en particular dentro de un array debes conocer su índice (posición). El índice o index es un valor entero que representa la posición en la que se encuentra el elemento. 
 
-**!IMPORTANTE: ¡Cada array comienza desde cero (0)!**
+**IMPORTANTE: ¡Cada array comienza desde cero (0)!**
 
-## 📝 Instrucciones
+## 📝 Instrucciones:
 
-1. Usando la función `console.log`, imprime el tercer elemento del array.
+1. Usando la función `console.log()`, imprime el tercer elemento del array.
 
-2. Cambia el valor en la posición donde se encuentra `jueves` a `null` (nulo).
+2. Cambia el valor en la posición donde se encuentra `thursday` a `null`.
 
-3. Imprime esa posición en particular.
+3. Imprime esa posición.
 
 ## 💡 Pista:
 
- + Usa `null` como valor y no como un string.
++ Usa `null` como valor y no como un string.
