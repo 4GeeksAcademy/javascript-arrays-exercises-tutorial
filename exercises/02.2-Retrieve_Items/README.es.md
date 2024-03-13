@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=hrPTP7jEehc"
+---
+
 # `02.2` Retrieve Items
 
 La única forma de acceder a un elemento particular en un arreglo es usando el índice. El **índice (index)** es un número entero que representa la posición a la que desea acceder en el arreglo.

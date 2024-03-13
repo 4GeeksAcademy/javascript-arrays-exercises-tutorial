@@ -1,5 +1,5 @@
 ---
-tutorial: https://www.youtube.com/watch?v=no9mCu-tvaM
+tutorial: https://www.youtube.com/watch?v=LMOIly1JTes
 ---
 
 # `04.3` Add Items to Array

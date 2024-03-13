@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=4g7YNL-XY3k'
+---
+
 # `02.1` Access and Retrieve
 
 Los arrays son parte de todo lenguaje de programación. Son el camino a seguir cuando quieres tener una "lista de elementos".

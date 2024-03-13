@@ -1,5 +1,5 @@
 ---
-tutorial: https://www.youtube.com/watch?v=4QGaROXZ3oc
+tutorial: https://www.youtube.com/watch?v=gfuqZ-wi4BY
 ---
 
 # `04.1` Loop from one to seventeen
