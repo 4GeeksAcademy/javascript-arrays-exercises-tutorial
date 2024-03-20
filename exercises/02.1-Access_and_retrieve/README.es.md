@@ -1,5 +1,5 @@
 ---
-tutorial: "https://www.youtube.com/watch?v=4g7YNL-XY3k'
+tutorial: "https://www.youtube.com/watch?v=4g7YNL-XY3k"
 ---
 
 # `02.1` Access and Retrieve
