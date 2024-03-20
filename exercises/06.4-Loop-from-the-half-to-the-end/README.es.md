@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=IHfENJ8-4hU"
+---
+
 # `06.4` Loop from half to the end
 
 Este bucle (loop) no está recorriendo el arreglo porque las variables `initialValue`, `stopValue` y `increasingValue` son iguales a cero `0`.

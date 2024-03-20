@@ -1,5 +1,5 @@
 ---
-tutorial: https://www.youtube.com/watch?v=QLnkSPNTgNo
+tutorial: https://www.youtube.com/watch?v=NakXM50fSsQ
 ---
 
 # `04.4` Loop and add items to array by looping

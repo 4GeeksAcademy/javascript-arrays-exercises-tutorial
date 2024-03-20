@@ -1,5 +1,5 @@
 ---
-tutorial: https://www.youtube.com/watch?v=IwDDj6wN4jY
+tutorial: https://www.youtube.com/watch?v=XzYWBO4Lqrw
 ---
 
 # `06.5` One Last Looping

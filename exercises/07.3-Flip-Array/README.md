@@ -1,5 +1,5 @@
 ---
-tutorial: https://www.youtube.com/watch?v=Snn7OtZY370
+tutorial: https://www.youtube.com/watch?v=XER3eoFXZbg
 ---
 
 # `07.3` Flip Array

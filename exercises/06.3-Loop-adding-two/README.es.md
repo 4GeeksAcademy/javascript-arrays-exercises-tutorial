@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=PuTj4DriZAE"
+---
+
 # `06.3`  Loop every two positions
 
 Este código está recorriendo todo el array uno por uno, imprimiendo cada elemento en la consola.

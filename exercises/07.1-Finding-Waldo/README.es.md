@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=-8Zv64r0ZsE"
+---
+
 # `07.1` Finding Waldo 😄
 ![Finding Waldo](../../.learn/assets/finding_waldo.jpeg)
 

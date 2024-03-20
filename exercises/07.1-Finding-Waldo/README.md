@@ -1,5 +1,5 @@
 ---
-tutorial: https://www.youtube.com/watch?v=5WphKLyEJaU
+tutorial: https://www.youtube.com/watch?v=fSuIrbBBhQE
 ---
 
 # `07.1` Finding Waldo 😄

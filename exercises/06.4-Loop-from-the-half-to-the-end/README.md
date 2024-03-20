@@ -1,5 +1,5 @@
 ---
-tutorial: https://www.youtube.com/watch?v=rZp3TrD8tto
+tutorial: https://www.youtube.com/watch?v=ijc1WInpvxk
 ---
 
 # `06.4` Loop from half to the end

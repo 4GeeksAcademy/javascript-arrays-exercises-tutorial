@@ -1,5 +1,5 @@
 ---
-tutorial: https://www.youtube.com/watch?v=oLTidCuisew
+tutorial: https://www.youtube.com/watch?v=EJ30JRZ_5II
 ---
 
 # `07.2` Letter Counter
