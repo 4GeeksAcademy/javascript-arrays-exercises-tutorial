@@ -1,5 +1,5 @@
 ---
-tutorial: https://www.youtube.com/watch?v=Dd2uXOwhTzY
+tutorial: https://www.youtube.com/watch?v=5erdsiEeN8g
 ---
 
 # `05.1` Loop an array

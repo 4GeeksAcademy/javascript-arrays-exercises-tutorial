@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=L7ppJjHpr20"
+---
+
 # `04.2` Loop from seven to twelve
 
 ## 📝 Instrucciones: 

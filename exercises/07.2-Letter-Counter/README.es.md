@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=Nq3Db1J6oqE"
+---
+
 # `07.2` Letter Counter
 
 Nuestro cliente necesita un programa que cuente las repeticiones de las letras en un string dado. Sé que es extraño, pero es muy testarudo ¡Lo necesitamos lo antes posible!

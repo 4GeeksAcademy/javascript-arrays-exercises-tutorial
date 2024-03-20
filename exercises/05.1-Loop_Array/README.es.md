@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=7X-UZ6TUXc4"
+---
+
 # `05.1` Loop an array
 
 Ok, esta es la primera vez que vas a recorrer un array desde cero.

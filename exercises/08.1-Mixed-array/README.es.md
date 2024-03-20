@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=q0iQciYmxsk"
+---
+
 # `08.1` Mixed Array
 
 ## 📝 Instrucciones: 

@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=FGDubZafSaQ"
+---
+
 # `06.2` Loop from the top
 
 Este loop o bucle está haciendo un bucle al arreglo o array de principio a fin ... aumentando uno por uno.

@@ -1,5 +1,5 @@
 ---
-tutorial: https://www.youtube.com/watch?v=rWYIgofIAME
+tutorial: https://www.youtube.com/watch?v=zLxhyS5jwU0
 ---
 
 # `02.2` Retrieve Items

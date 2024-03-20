@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=zsBAuElOR2g"
+---
+
 # `07.3` Flip Array
  
 ## 📝 Instrucciones: 

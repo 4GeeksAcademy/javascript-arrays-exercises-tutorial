@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=tXRPJhUmQXA"
+---
+
 # `03` Print the last one
 
 Nunca sabrás cuántos elementos tiene `myStupidArray` porque se genera aleatoriamente durante el tiempo de ejecución utilizando la función `generateRandomArray`.

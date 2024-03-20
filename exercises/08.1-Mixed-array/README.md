@@ -1,5 +1,5 @@
 ---
-tutorial: https://www.youtube.com/watch?v=3o02odJhieo
+tutorial: https://www.youtube.com/watch?v=Vli4sOwYUaI
 ---
 
 # `08.1` Mixed Array
