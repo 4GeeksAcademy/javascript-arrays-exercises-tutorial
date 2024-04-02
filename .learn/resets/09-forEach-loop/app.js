@@ -2,6 +2,5 @@ let myArray = [3344,34334,454543,342534,4563456,3445,23455,234,262,2335,43323,43
 
 myArray.forEach(function(item, index, arr) {
     // The value of the item is
-    if(item % 14 === 0)
     console.log(item);
 });
