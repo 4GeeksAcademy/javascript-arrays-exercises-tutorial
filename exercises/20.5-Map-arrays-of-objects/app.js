@@ -7,8 +7,14 @@ let people = [
 ];
 
 let simplifier = function(person) {
-	// Your code here
-	return person.name;
-};
+  
+	let currentlyDate = new Date() - person.birthDate
+	let age = Math.floor(currentlyDate/ (1000 * 60 * 60 * 24 * 365.25))
+	const greeting = 'Hello, my name is ' + person.name + ' and I am '                         + age + ' years old'
+	  
+	return greeting;
+  };
+  
+  console.log(people.map(simplifier));
 
 console.log(people.map(simplifier));
