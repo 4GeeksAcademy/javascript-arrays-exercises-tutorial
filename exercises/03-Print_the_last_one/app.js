@@ -8,3 +8,5 @@ function generateRandomArray()
 let myStupidArray = generateRandomArray();
 
 // Your code here
+let theLastOne = myStupidArray[myStupidArray.lenght - 1]; 
+console.log(theLastOne)
