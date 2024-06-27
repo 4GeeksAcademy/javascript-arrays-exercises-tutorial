@@ -40,13 +40,11 @@ Clona el repositorio en tu ambiente local y sigue los siguientes pasos:
 
 ```bash
 $ npm i learnpack -g
-$ learnpack plugins:install learnpack-node
 ```
 
 2. Inicia el tutorial/ejercicios ejecutando el siguiente comando en el mismo nivel donde se encuentra tu archivo learn.json:
 
 ```bash
-$ npm i jest@24.8.0 -g
 $ learnpack start
 ```
 
