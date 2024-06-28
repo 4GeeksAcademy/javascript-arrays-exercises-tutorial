@@ -41,7 +41,7 @@ Clone the repository in your local environment and follow the steps below:
 1. Install LearnPack, the package manager for learning tutorials and the node compiler plugin for LearnPack, make sure you also have node.js 14+:
 
 ```bash
-$ npm i learnpack -g
+$ npm i @learnpack/learnpack -g
 ```
 
 2. Start the tutorial/exercises by running the following command at the same level where your learn.json file is:
