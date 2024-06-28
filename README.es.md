@@ -48,6 +48,8 @@ $ npm i @learnpack/learnpack -g
 $ learnpack start
 ```
 
+Si tienes algun problema o quieres saber más, puedes referirte a la documentación de [cómo empezar con learnpack](https://4geeks.com/docs/learnpack/paso-a-paso-learnpack-para-estudiantes).
+
 <!-- endhide -->
 
 ## ¿Cómo están organizados los ejercicios de arrays?
