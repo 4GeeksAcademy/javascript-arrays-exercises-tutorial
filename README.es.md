@@ -13,7 +13,7 @@
 
 <!-- endhide -->
 
-¡Docenas de ejercicios de [arreglos en javascript](https://4geeks.com/lesson/what-is-an-array-define-array) y loops para mejorar tus habilidades: for, forEach, mapear, filtrar, hacer un loop a un objeto, hacer un loop en arrays bidimensionales, agregar condiciones a los loops, encontrar un elemento y mucho más!
+¡Docenas de ejercicios de [arreglos en javascript](https://4geeks.com/es/lesson/array-arreglo-en-javascript) y loops para mejorar tus habilidades: for, forEach, mapear, filtrar, hacer un loop a un objeto, hacer un loop en arrays bidimensionales, agregar condiciones a los loops, encontrar un elemento y mucho más!
 
 <!-- hide -->
 <ol>
