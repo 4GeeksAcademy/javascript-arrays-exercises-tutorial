@@ -1,5 +1,5 @@
 <!-- hide -->
-# Tutorial & Ejercicios de Looping en JavaScript 
+# Tutorial & Ejercicios de arrays y ciclos en JavaScript 
 <!-- endhide -->
 
 <!-- hide -->
