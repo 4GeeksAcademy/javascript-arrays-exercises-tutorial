@@ -1,35 +1,32 @@
 {
-"language": "node",
-"slug": "javascript-arrays",
-"title": {
-    "us": "Learn Javascript Arrays and Loops Interactive",
-    "es": "Aprende Arrays y Loops de Javascript Interactivamente"
-},
-"repository": "https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial",
-"preview": "https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial/blob/master/preview.png?raw=true",
-"description": {
-    "us": "Learn javascript arrays and loops, interactive tutorial with dozens of exercises, get instant feedback with automatic grading and watch video solutions afterwards.",
-    "es": "Aprende Arrays y ciclos de Javascript, con una docena de ejercicios del tutorial interactivo, obtén feedback instantáneo con auto-corrección y video-soluciones"
-},
-"duration": 12,
-"difficulty": "easy",
-"projectType": "tutorial",
-"videoSolutions": true,
-"bugsLink": "https://github.com/learnpack/learnpack/issues/new",
-"graded": true,
-
-"editor": {
-    "version": "3.1.36"
-},
-"telemetry": {
-	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry"
-},
-"video": {
-    "intro": {
-        "es": "https://www.youtube.com/watch?v=mt_5rrboN9g",
-        "en": "https://www.youtube.com/watch?v=ESH3EvnT334"
-    }
-}
-
-
+	"slug": "javascript-arrays",
+	"title": {
+	    "us": "Learn Javascript Arrays and Loops Interactive",
+	    "es": "Ejercicios de arrays y loops de Javascript interactivos"
+	},
+	"technologies": ["arrays", "javascript", "node"],
+	"repository": "https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial",
+	"preview": "https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial/blob/master/preview.png?raw=true",
+	"description": {
+	    "us": "Learn javascript arrays and loops, interactive tutorial with dozens of exercises, get instant feedback with our AI mentor, auto-grading and video solutions",
+	    "es": "Decenas de ejercicios de arrays y ciclos en Javascript, obtén feedback instantáneo con nuestro mentor AI, auto-corrección y video-soluciones."
+	},
+	"duration": 12,
+	"difficulty": "easy",
+	"projectType": "tutorial",
+	"videoSolutions": true,
+	"bugsLink": "https://github.com/learnpack/learnpack/issues/new",
+	"graded": true,
+	"editor": {
+	    "version": "3.1.36"
+	},
+	"telemetry": {
+		"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry"
+	},
+	"video": {
+	    "intro": {
+	        "es": "https://www.youtube.com/watch?v=mt_5rrboN9g",
+	        "en": "https://www.youtube.com/watch?v=ESH3EvnT334"
+	    }
+	}
 }
