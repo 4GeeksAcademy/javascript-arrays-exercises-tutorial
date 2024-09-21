@@ -10,6 +10,6 @@ tutorial: https://www.youtube.com/watch?v=LMOIly1JTes
 
 ## 💡 Hints:
 
-+ You can use the `Math.random()` and `Math.floor()` functions to get random numbers.
++ You can use the Math.random() function to generate random numbers, and then use the Math.floor() function to round them down to the nearest integer.
 
 + You have to use the `.push()` function to add the new random numbers to the array.
