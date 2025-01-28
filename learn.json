@@ -8,8 +8,8 @@
 	"repository": "https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial",
 	"preview": "https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial/blob/master/preview.png?raw=true",
 	"description": {
-	    "us": "Learn javascript arrays and loops, interactive tutorial with dozens of exercises, get instant feedback with our AI mentor, auto-grading and video solutions",
-	    "es": "Decenas de ejercicios de arrays y ciclos en Javascript, obtén feedback instantáneo con nuestro mentor AI, auto-corrección y video-soluciones."
+	    "us": "**Learn JavaScript Arrays and Loops**: Master loops with an interactive tutorial packed with exercises. Get instant feedback from our AI mentor, auto-grading, and video solutions. Practice key concepts like for, forEach, while, map, filter, find, and looping through object literals.",
+	    "es": "**Aprende Arrays y Bucles en JavaScript**: Domina los bucles con un tutorial interactivo lleno de ejercicios. Recibe retroalimentación instantánea de nuestro mentor de IA, calificaciones automáticas y soluciones en video. Practica conceptos clave como for, forEach, while, map, filter, find y bucles en objetos literales."
 	},
 	"duration": 12,
 	"difficulty": "easy",
@@ -18,7 +18,8 @@
 	"bugsLink": "https://github.com/learnpack/learnpack/issues/new",
 	"graded": true,
 	"editor": {
-	    "version": "5.0"
+	    "version": "5.0",
+		"agent": "vscode",
 	},
 	"telemetry": {
 		"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=149"
