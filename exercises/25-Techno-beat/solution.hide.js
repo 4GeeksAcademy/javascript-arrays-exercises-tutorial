@@ -17,7 +17,7 @@ function lyricsGenerator(arr) {
         }
     }
     
-    return finalString
+    return finalString;
 }
 
 // Don't change anything bellow this line
