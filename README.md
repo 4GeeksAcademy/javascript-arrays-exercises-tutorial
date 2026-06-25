@@ -14,7 +14,7 @@
 *Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial/blob/master/README.es.md) :es:*
 <!-- endhide -->
 
-Dozens of looping exercises to sharpen your looping skills with for, forEach, map, filter, looping an object, looping bidimentional arrays, adding conditions to loops, finding an element, and more!
+Dozens of looping exercises to sharpen your looping skills with for, forEach, map, filter, looping an object, looping bidimensional arrays, adding conditions to loops, finding an element, and more!
 
 <!-- hide -->
 ## Before you start... some related tutorials:
