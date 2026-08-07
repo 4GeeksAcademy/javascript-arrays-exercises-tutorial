@@ -3,12 +3,12 @@ function lyricsGenerator (array){
   
   let cadenaDJ = "";
   let   contador = 0;
-  for (let i = 0; i< array.length; i++){
-    if (array[i]==0 ){
+  for (let i = 0; i<= array.length; i++){
+    if (array[i]===0 ){
          contador = 0;
          cadenaDJ += 'Boom';
         }
-  else if (array[i]==1 ) {
+  else if (array[i]===1 ) {
          contador += 1;
          cadenaDJ += 'Drop the bass';
          if (contador ===3){
